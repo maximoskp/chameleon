@@ -9,7 +9,7 @@ Created on Mon Oct  8 07:50:10 2018
 import numpy as np
 import music21 as m21
 import copy
-import NN_VL_model as nnvl
+# import NN_VL_model as nnvl
 
 def make_harmonisation_stream(m, idiom):
     output_stream = m21.stream.Stream()
@@ -57,12 +57,26 @@ def apply_simple_voice_leading(m, idiom):
             g = cs.gct_chord
             chord_root = g[0] + key
             chord = np.array( g[1:] ) + chord_root + lowest_octave_limit - 12
+            # keep at most 4 notes
+            if len( chord ) > 4:
+                chord = chord[:4]
             chord_final = chord.astype(int).tolist()
             cs.chord = m21.chord.Chord( chord_final )
     m = make_harmonisation_stream(m, idiom)
     return m
 
 # bidirectional bvl functions ============================================
+# we also need it outside the class
+def make_neutral_bbvl(c):
+    # return a bbvl structure with uniform probabilities for all possibilities
+    stats = {}
+    stats['inversions'] = np.ones( len(c)-1 )/(len(c)-1)
+    num_octaves = 6
+    stats['mel2bass'] = np.ones(12*num_octaves)/(12*num_octaves)
+    stats['from_bvl'] = np.ones( ( 25 , len(c)-1 ) )/(25*(len(c)-1 ))
+    stats['to_bvl'] = np.ones( ( 25 , len(c)-1 ) )/(25*(len(c)-1 ))
+    return stats
+# end make_neutral_bbvl
 class BBVL:
     ''' bidirectional bass voice leading class '''
     def __init__(self, m, idiom, use_GCT_grouping):
@@ -88,7 +102,7 @@ class BBVL:
                 else:
                     bbvl_dict = phrase_mode.gct_info.gct_vl_dict
                 # there is possibility that the user has given a constraint that is not included in gct labels
-                if cs.gct_label in bbvl_dict.keys():
+                if cs.gct_label in list( bbvl_dict.keys() ):
                     self.bbvl_objects.append( bbvl_dict[ cs.gct_label ] )
                 else:
                     # get a neutral bbvl object that corresponds to the size of this gct
@@ -249,11 +263,14 @@ class BBVL:
                 # remove bass note
                 to_delete = np.where( tmp_gct_pcs==(b[ tmp_idx ]%12) )[0][0]
                 tmp_gct_pcs = np.delete(tmp_gct_pcs, to_delete)
+                # keep at most 4 notes - or 3 given that the bass has already been considered
+                if len( tmp_gct_pcs ) > 3:
+                    tmp_gct_pcs = tmp_gct_pcs[:3]
                 # pass all other notes
                 for pc in tmp_gct_pcs:
                     # get melody lowest limit
                     mll = np.min(self.melody_midis[tmp_idx])
-                    # get base-height accordint to melody octave
+                    # get base-height according to melody octave
                     mel_oct = (int)( mll/12 )
                     # guess a midi note
                     tmp_note = (int)( 12*mel_oct + pc)
@@ -309,6 +326,7 @@ def chord_segments_to_NN_VL_conditions(s):
     return melody_bin, harmony_options_bin, gct_completion
 # end chord_segments_to_NN_VL_conditions
 
+'''
 def apply_NN_VL_to_segments(s):
     # make matrices
     melody_bin, harmony_options_bin, gct_completion = chord_segments_to_NN_VL_conditions(s)
@@ -343,3 +361,4 @@ def apply_NN_voice_leading(m, idiom):
             tmp_idx += 1
     m = make_harmonisation_stream(m, idiom)
     return m
+    '''

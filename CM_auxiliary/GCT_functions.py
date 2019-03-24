@@ -219,12 +219,11 @@ def HARM_consonanceChordRecognizer(chord, consWeights=[1,0,0,1,1,1,0,1,1,1,0,0])
 
 def HARM_eliminate_foreigns(rtx, gcts, k, m):
     # make tonality pitch class arrat
-    tmp_tonality = np.mod(k + m , 12)
     num_foreigns = []
     for g in rtx:
         # make chord pitch class array - from rtx form
         c = np.mod(g[0] + np.array(g[1]), 12)
-        num_foreigns.append( len(c) - np.sum( np.isin(c, tmp_tonality) ) )
+        num_foreigns.append( len(c) - np.sum( np.isin(c, m) ) )
     num_foreigns = np.array( num_foreigns )
     min_foreigns = np.min( num_foreigns )
     idxs = num_foreigns == min_foreigns
@@ -234,28 +233,95 @@ def HARM_eliminate_foreigns(rtx, gcts, k, m):
         if idxs[i]:
             rtx_out.append( rtx[i] )
             gcts_out.append( gcts[i] )
+    # if more than one, get the ones with the first foreign closer to the end
+    if len( gcts_out ) > 0:
+        rtx_out_end = []
+        gcts_out_end = []
+        foreign_idx = []
+        for i in range( len(gcts_out) ):
+            # make chord pitch class array - from rtx form
+            c = np.mod(gcts_out[i][1:] + gcts_out[i][0], 12)
+            # check if any foreign
+            if any( ~np.isin(c, m) ):
+                foreign_idx.append( np.where(~np.isin(c, m))[0][0] )
+            else:
+                foreign_idx.append( len(c) )
+        foreign_idx = np.array( foreign_idx )
+        min_foreign_idx = np.min( foreign_idx )
+        idxs = foreign_idx == min_foreign_idx
+        for i in range(len(idxs)):
+            if idxs[i]:
+                rtx_out_end.append( rtx_out[i] )
+                gcts_out_end.append( gcts_out[i] )
+        rtx_out = rtx_out_end
+        gcts_out = gcts_out_end
     return rtx_out, gcts_out
+# end HARM_eliminate_foreigns
+
+def HARM_closed_position(rtx, gct):
+    rtx_out = []
+    gcts_out = []
+    openness = []
+    for g in gct:
+        openness.append( g[-1] - g[1] )
+    openness = np.array( openness )
+    min_openness = np.min( openness )
+    idxs = openness == min_openness
+    for i in range(len(idxs)):
+        if idxs[i]:
+            rtx_out.append( rtx[i] )
+            gcts_out.append( gct[i] )
+    return rtx_out, gcts_out
+# end HARM_closed_position
+
+def HARM_shift_good_intervals(g):
+    # enters only if g has three elements - two pitch classes
+    if g[2]-g[1] in [1, 2, 5]:
+        g[0] = np.mod( g[0]+g[2] , 12 )
+        g[-1] = np.mod( 12-g[-1] , 12 )
+    return g
+# end HARM_shift_good_intervals
 
 def get_singe_GCT_of_chord(c, k=0, m=np.array([0,2,4,5,7,9,11])):
     all_gcts, rtx_form = HARM_consonanceChordRecognizer(c)
     # fix roots in key
     for i in range( len(all_gcts) ):
         all_gcts[i][0] = (all_gcts[i][0] - k)%12
+        rtx_form[i][0] = (rtx_form[i][0] - k)%12
     # if more than one GCTs
     if len(all_gcts) > 1:
-        # 1) get the one with the smallest number of foreign pitches in the type
+        # 1 & 2) get the ones with the smallest number of foreign pitches in the type
+        # if more than one, get the ones with the first foreign closer to the end
         rtx_form, all_gcts = HARM_eliminate_foreigns(rtx_form, all_gcts, k, m)
-    final_gct = all_gcts[0]
+    # 3) closed position
     if len(all_gcts) > 1:
-        # 2) keep the one with the smallest root value
-        all_roots = []
-        for i in rtx_form:
-            all_roots.append( rtx_form[0] )
-        min_root = min(all_roots)
-        for i in range(len(rtx_form)):
-            if rtx_form[i][0] == min_root:
-                final_gct = all_gcts[i]
-                break
+        rtx_form, all_gcts = HARM_closed_position(rtx_form, all_gcts)
+    # if still more than one, write it down
+    if len(all_gcts) > 1:
+        with open("GCT_logging.txt", "a") as myfile:
+            myfile.write("chord: "+str(c)+'\n')
+            myfile.write("gcts found: "+'\n')
+            for g in all_gcts:
+                myfile.write(str(g)+'\n')
+    final_gct = all_gcts[0]
+    # if only two pitch classes, shift to "good" intervals
+    if len( final_gct ) == 3:
+        final_gct = HARM_shift_good_intervals( final_gct )
+    # if len(all_gcts) > 1:
+    #     # 2) keep the one with the smallest root value
+    #     all_roots = []
+    #     for i in rtx_form:
+    #         all_roots.append( rtx_form[0] )
+    #     min_root = min(all_roots)
+    #     for i in range(len(rtx_form)):
+    #         if rtx_form[i][0] == min_root:
+    #             final_gct = all_gcts[i]
+    #             break
+    # if np.array_equal( final_gct, np.array([0,0,3,7,10]) ):
+    #     print('GATHCA')
+    #     print('c: ', c)
+    #     print('k: ', k)
+    #     print('m: ', m)
     return final_gct
 # end get_singe_GCT_of_chord
 
