@@ -10,6 +10,12 @@ import CM_similarity_functions as smf
 import numpy as np
 import copy
 import CM_Misc_Aux_functions as maf
+import os
+cwd = os.getcwd()
+import sys
+# use folder of printing functions
+sys.path.insert(0, cwd + '/CM_logging')
+import harmonisation_printer as prt
 
 def get_best_relpcp_matching_index(c, m):
     ' c is a relpcp chord '
@@ -131,31 +137,74 @@ def apply_cHMM_with_constraints(obs, c, seg_idxs, sts_idxs):
     for i in range( len(pathIDXs) ):
         gcts_out.append( maf.str2np(c.gcts_labels[ int(pathIDXs[i]) ]) )
         gct_labels_out.append( c.gcts_labels[ int(pathIDXs[i]) ] )
-    return gcts_out, gct_labels_out
+    return gcts_out, gct_labels_out, delta, psi
 # end apply_cHMM_with_constraints
-def apply_cHMM_to_segments(p,c, seg_idxs, sts_idxs):
+def apply_cHMM_to_segments(p,c, seg_idxs, sts_idxs, m, logging=False):
+    # m is only for getting file name for logging
     # for every segment
     for i in range(1, len( seg_idxs ), 1):
         # check if the length of the segment is > 1
         if seg_idxs[i] - seg_idxs[i-1] > 0:
             # get observation probabilities
             obs_probs = get_obs_probs( p.melody_chord_segments[seg_idxs[i-1]:(seg_idxs[i]+1)], c.gcts_relative_pcs, c.gcts_probabilities )
-            gcts_out, gct_labels_out = apply_cHMM_with_constraints(obs_probs, c, seg_idxs[ (i-1):(i+1) ], sts_idxs[ (i-1):(i+1) ])
+            # log - image obs_probs matrix
+            if logging:
+                # first make x and y labels
+                # y_labels are chords
+                y_labels = []
+                for ii in range( len( c.gcts_labels ) ):
+                    y_labels.append( str(ii) + '-' + c.gcts_labels[ii] )
+                # x_labels are chord segment melody midis
+                x_labels = []
+                for cs in p.melody_chord_segments[seg_idxs[i-1]:(seg_idxs[i]+1)]:
+                    x_labels.append( maf.np2str( np.where( cs.relative_pcp > 0 )[0] ) + '-i' + maf.np2str( np.where( cs.important_relative_pcp > 0 )[0] ) )
+                # print observations
+                prt.print_image_with_axis(m.harmonisation_file_name+'_obs'+'_'+str(p.index)+'_'+str(seg_idxs[i-1]), obs_probs, x_labels, y_labels, vertical_x=True)
+                # print markov
+                prt.print_image_with_axis(m.harmonisation_file_name+'_markov'+'_'+str(p.index)+'_'+str(seg_idxs[i-1]), c.gcts_markov, y_labels, y_labels, vertical_x=True)
+            gcts_out, gct_labels_out, delta, psi = apply_cHMM_with_constraints(obs_probs, c, seg_idxs[ (i-1):(i+1) ], sts_idxs[ (i-1):(i+1) ])
+            # log - image delta trellis matrix
+            if logging:
+                # first make x and y labels
+                # y_labels are chords
+                y_labels = []
+                for ii in range( len( c.gcts_labels ) ):
+                    y_labels.append( str(ii) + '-' + c.gcts_labels[ii] )
+                # x_labels are chord segment melody midis
+                x_labels = []
+                for cs in p.melody_chord_segments[seg_idxs[i-1]:(seg_idxs[i]+1)]:
+                    x_labels.append( maf.np2str( np.where( cs.relative_pcp > 0 )[0] ) + '-i' + maf.np2str( np.where( cs.important_relative_pcp > 0 )[0] ) )
+                prt.print_image_and_numbers_with_axis(m.harmonisation_file_name+'_trellis'+'_'+str(p.index)+'_'+str(seg_idxs[i-1]), delta, psi.astype(int), x_labels, y_labels, vertical_x=True)
             # apply gcts to phrase
             for j in range(seg_idxs[i-1], seg_idxs[i], 1):
                 p.melody_chord_segments[j].gct_chord = gcts_out[j - seg_idxs[i-1]]
                 p.melody_chord_segments[j].gct_label = gct_labels_out[j - seg_idxs[i-1]]
     return p
 # end apply_cHMM_to_segments
-def apply_cHMM_to_phrase_from_mode(p, c):
+def apply_cHMM_to_phrase_from_mode(p, c, m, logging=False):
     # run through phrase and isolate starting, ending and constraint melody
     # chord segment indexes of constraints along with the state index
+    # m is only for logging, to get the file name
     segment_indexes = []
     state_indexes = []
     for i in range( len( p.melody_chord_segments ) ):
+        # log chord segment info
+        if logging:
+            tmp_log_line = 'chord segment info:' + '\n'
+            tmp_log_line += 'MIDI notes: ' + str(p.melody_chord_segments[i].melody_midi) + '\n'
+            tmp_log_line += 'Important MIDI notes: ' + str(p.melody_chord_segments[i].important_melody_midi) + '\n'
+            tmp_log_line += 'Relative pcp: ' + str(p.melody_chord_segments[i].relative_pcp) + '\n'
+            tmp_log_line += 'Important relative pcp: ' + str(p.melody_chord_segments[i].important_relative_pcp) + '\n'
+            prt.print_log_line( m.harmonisation_file_name, tmp_log_line )
         if p.melody_chord_segments[i].is_constraint:
             segment_indexes.append(i)
             state_indexes.append( get_best_relpcp_matching_index( p.melody_chord_segments[i].gct_rpcp, c.gcts_relative_pcs) )
+            # log chord segment info
+            if logging:
+                tmp_log_line = 'chord is constraint:' + '\n'
+                tmp_log_line += 'User-given constraint: ' + str(p.melody_chord_segments[i].gct_rpcp) + '\n'
+                tmp_log_line += 'Found as corresponding with idiom chord: ' + c.gcts_labels[ state_indexes[-1] ]
+                prt.print_log_line( m.harmonisation_file_name, tmp_log_line )
     # after finding the constraints, check if the first and last are included
     # else include them
     if 0 not in segment_indexes:
@@ -165,21 +214,35 @@ def apply_cHMM_to_phrase_from_mode(p, c):
         segment_indexes.append( len( p.melody_chord_segments ) - 1 )
         state_indexes.append( -1 )
     # apply cHMM to given areas and constraints
-    p = apply_cHMM_to_segments(p, c, segment_indexes, state_indexes)
+    p = apply_cHMM_to_segments(p, c, segment_indexes, state_indexes, m, logging=logging)
     return p
 #end apply_cHMM_to_phrase_from_mode
-def apply_cHMM_to_melody_from_idiom(m,idiom, use_GCT_grouping):
+def apply_cHMM_to_melody_from_idiom(m,idiom, use_GCT_grouping, logging=False):
     print('applying cHMM')
+    # log that it's about cHMM
+    if logging:
+        tmp_log_line = 'cHMM =========================================== ' + '\n'
+        prt.print_log_line( m.harmonisation_file_name, tmp_log_line )
     # run through all phrases
     for p in m.phrases:
         # get proper mode that corresponds to the mode of the phrase
         mode = smf.get_best_matching_mode( p.tonality.mode_pcp, idiom )
+        # log selected mode
+        if logging:
+            tmp_log_line = 'NEW PHRASE ========================= ' + '\n'
+            tmp_log_line += 'User-given phrase mode: ' + str(p.tonality.mode_pcp) + '\n'
+            tmp_log_line += 'cHMM selected mode: ' + mode.mode_name
+            prt.print_log_line( m.harmonisation_file_name, tmp_log_line )
         p.idiom_mode_label = mode.mode_name
         # decide if grouping is used
         chord_info = mode.gct_info
         if use_GCT_grouping:
             chord_info = mode.gct_group_info
+            # log grouping
+            if logging:
+                tmp_log_line = ' - Using grouping'
+                prt.print_log_line( m.harmonisation_file_name, tmp_log_line )
         # apply cHMM of mode
-        p = apply_cHMM_to_phrase_from_mode( p, chord_info )
+        p = apply_cHMM_to_phrase_from_mode( p, chord_info, m, logging=logging )
     return m
 # end apply_cadences_to_melody_from_idiom

@@ -22,6 +22,9 @@ class MelodyInput:
     def __init__(self, folderName, fileName):
         # 'metadata'
         self.name = fileName.split('.')[0]
+        # harmonisation file name does not include extension,
+        # to use it with several formats, e.g. xml, mid, txt (logging)
+        self.harmonisation_file_name = []
         self.style = folderName.split('/')[-2]
         # parse music 21 piece
         p = m21.converter.parse(folderName+fileName)
@@ -86,6 +89,8 @@ class MelodyInput:
         # initialisation - check if first tonality is indeed in the beginning
         ton_idx = 0
         phr_idx = 0
+        # use index for printing logger images
+        phrase_idx = 0
         curr_tonality = self.tonalities[ton_idx]
         curr_grouping = self.groupings[ (phr_idx+1)%len(self.groupings) ]
         all_offsets = sorted(list( set( sorted(self.tonality_offsets+self.grouping_offsets) ) ))
@@ -122,7 +127,8 @@ class MelodyInput:
             tmp_allNotes = copy.deepcopy( self.melodyNotes )
             tmpNotes = tmp_allNotes.getElementsByOffset(curr_offset, next_offset, includeEndBoundary=False)
             if len(tmpHarmonicRhythm) > 0:
-                phrases.append( tgc.MelodyPhrase( curr_tonality, tmpConstraints, tmpHarmonicRhythm, tmpImportantNotes, tmpNotes, tmp_type, curr_grouping.level, next_offset ) )
+                phrases.append( tgc.MelodyPhrase( curr_tonality, tmpConstraints, tmpHarmonicRhythm, tmpImportantNotes, tmpNotes, tmp_type, curr_grouping.level, next_offset, phrase_idx=phrase_idx ) )
+                phrase_idx += 1
             curr_offset = next_offset
             offset_idx += 1
         # END WHILE
@@ -146,5 +152,6 @@ class MelodyInput:
         tmpNotes = tmp_allNotes.getElementsByOffset(curr_offset, next_offset, includeEndBoundary=False)
         # final phrase type is always grouping
         tmp_type = 'grouping'
-        phrases.append( tgc.MelodyPhrase( curr_tonality, tmpConstraints, tmpHarmonicRhythm, tmpImportantNotes, tmpNotes, tmp_type, curr_grouping.level, next_offset ) )
+        phrases.append( tgc.MelodyPhrase( curr_tonality, tmpConstraints, tmpHarmonicRhythm, tmpImportantNotes, tmpNotes, tmp_type, curr_grouping.level, next_offset, phrase_idx=phrase_idx ) )
+        phrase_idx += 1
         return phrases

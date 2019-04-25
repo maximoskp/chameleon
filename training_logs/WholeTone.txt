@@ -1,0 +1,160 @@
+================== Logging initialisation ================== 
+Initialising file: /home/maximos/repos/chameleon_noblend/training_logs/WholeTone.txt
+NEW IDIOM ============================================ 
+Idiom name: WholeTone
+
+NEW PIECE ========================= 
+Piece name: whole-tone 4-scriabin [Checked - Giannos].xml
+
+tonality offsets: [0, 1.0, 2.0]
+grouping offsets: [0]
+phrase starting offset: 0
+phrase ending offset: 1.0
+phrase type: tonality
+phrase level: 1
+phrase tonality: 5 - [ 0  2  4  6  8 10]
+phrase MIDIs and GCTs: 
+[ 0  0  4  6 10] - [53, 63, 69, 71, 75]
+[ 2  0  4  8 14 18] - [47, 57, 63, 73, 79]
+cadence: 
+[0 0 4 6 10]-[2 0 4 8 14 18]
+
+phrase starting offset: 1.0
+phrase ending offset: 2.0
+phrase type: tonality
+phrase level: 1
+phrase tonality: 8 - [ 0  2  4  6  9 10]
+phrase MIDIs and GCTs: 
+[ 9  0  3  7  9 13] - [56, 66, 72, 74, 77, 78]
+[10  0  4  8 10 18] - [50, 60, 66, 76, 82]
+cadence: 
+[9 0 3 7 9 13]-[10 0 4 8 10 18]
+
+phrase type: grouping
+phrase level: 4
+phrase tonality: 5 - [ 0  2  4  6  8 10]
+phrase MIDIs and GCTs: 
+[ 2  0  4 10 13 14] - [55, 65, 71, 77, 80, 81]
+[ 2  0  4  8 10 15 18] - [49, 59, 65, 79, 82, 87]
+[ 2  0  4  8  9 10] - [55, 65, 71, 75, 76, 83]
+[ 8  0  4  7 10 18] - [61, 65, 67, 68, 71, 77]
+cadence: 
+[2 0 4 8 9 10]-[8 0 4 7 10 18]
+
+NEW PIECE ========================= 
+Piece name: whole-tone 1-debussy [Checked - Giannos].xml
+
+tonality offsets: [0]
+grouping offsets: [0, 4.0, 4.5, 8.5]
+phrase starting offset: 0
+phrase ending offset: 4.0
+phrase type: tonality
+phrase level: 1
+phrase tonality: 6 - [ 0  2  4  6  8 10]
+phrase MIDIs and GCTs: 
+[ 0  0  4  8 10] - [40, 52, 62, 66, 70, 74]
+[ 0  0  4  8 10] - [40, 52, 58, 62, 66, 70, 74]
+[10  0  4  8 14] - [42, 54, 60, 64, 68, 72]
+[10  0  4  8 14] - [42, 54, 56, 64, 68, 72, 76]
+cadence: 
+[10 0 4 8 14]-[10 0 4 8 14]
+
+phrase starting offset: 4.0
+phrase ending offset: 4.5
+phrase starting offset: 4.5
+phrase ending offset: 8.5
+phrase type: grouping
+phrase level: 1
+phrase tonality: 6 - [ 0  2  4  6  8 10]
+phrase MIDIs and GCTs: 
+[ 0  0  4  8 10] - [40, 52, 58, 62, 66, 70, 74]
+[10  0  4  8 14] - [42, 54, 60, 64, 68, 72]
+[10  0  4  8 14] - [42, 54, 56, 64, 68, 72, 76]
+[ 0  0  4  8 10] - [40, 52, 62, 66, 70, 74]
+cadence: 
+[10 0 4 8 14]-[0 0 4 8 10]
+
+phrase type: grouping
+phrase level: 4
+phrase tonality: 6 - [ 0  2  4  6  8 10]
+phrase MIDIs and GCTs: 
+[ 0  0  4  8 10] - [40, 52, 58, 62, 66, 70, 74]
+[10  0  4  8 14] - [42, 54, 60, 64, 68, 72]
+[10  0  4 14] - [42, 54, 66, 68, 76, 80]
+[10  0  4  8] - [52, 64, 68, 72, 76]
+[0 0 4 8] - [62, 66, 70, 74, 78]
+[ 0  0  4  8 18] - [60, 62, 66, 70, 74]
+[10  0  4  8 18] - [58, 64, 68, 72, 76]
+cadence: 
+[0 0 4 8 18]-[10 0 4 8 18]
+
+NEW PIECE ========================= 
+Piece name: whole-tone 2-debussy [Checked - Giannos].xml
+
+tonality offsets: [0]
+grouping offsets: [0, 4.0]
+phrase starting offset: 0
+phrase ending offset: 4.0
+phrase type: tonality
+phrase level: 1
+phrase tonality: 6 - [ 0  2  4  6  8 10]
+phrase MIDIs and GCTs: 
+[ 2  0  4 14] - [34, 82, 84, 92]
+[10  0  4  8 14 18] - [34, 48, 54, 58, 78, 80, 88]
+[1 0 3 7 9] - [52, 58, 62, 76, 79]
+[6 0 4 6] - [54, 60, 64, 72, 76]
+[ 2  0  4 14] - [34, 68, 72]
+[ 4  0  4 10 14] - [34, 50, 56, 60, 68, 72]
+[ 0  0  4  6 10] - [54, 60, 64, 78, 82]
+[ 0  0  4  8 14] - [56, 62, 66, 78, 82]
+cadence: 
+[0 0 4 6 10]-[0 0 4 8 14]
+
+phrase type: grouping
+phrase level: 4
+phrase tonality: 6 - [ 0  2  4  6  8 10]
+phrase MIDIs and GCTs: 
+[ 2  0  4 14] - [34, 82, 84, 92]
+[10  0  4  8 14 18] - [34, 48, 54, 58, 78, 80, 88]
+[1 0 3 7 9] - [52, 58, 62, 76, 79]
+[6 0 4 6] - [54, 60, 64, 72, 76]
+[ 2  0  4 14] - [34, 68, 72]
+[ 4  0  4 10 14] - [34, 50, 56, 60, 68, 72]
+[ 0  0  4  6 10] - [54, 60, 64, 66, 70]
+[10  0  4] - [64, 68]
+[6 0 4 6] - [54, 60, 64]
+[6 0 4 6] - [54, 60, 64]
+[6 0 4] - [60, 64]
+cadence: 
+[6 0 4 6]-[6 0 4]
+
+NEW PIECE ========================= 
+Piece name: red_4_dukas_a1 [Checked - Giannos].xml
+
+tonality offsets: [0, 16.0]
+grouping offsets: [0, 16.0]
+phrase starting offset: 0
+phrase ending offset: 16.0
+phrase type: tonality
+phrase level: 1
+phrase tonality: 0 - [ 0  2  4  6  8 10]
+phrase MIDIs and GCTs: 
+[ 4  0  4  8 14 18] - [72, 76, 78, 80, 82]
+[ 6  0  4  8 10 18] - [72, 74, 76, 78, 82]
+[ 4  0  4  8 14 18] - [72, 76, 78, 80, 82]
+[ 6  0  4 10] - [76, 78, 82]
+[ 6  0  4  8 10] - [74, 76, 78, 82]
+cadence: 
+[6 0 4 10]-[6 0 4 8 10]
+
+phrase type: grouping
+phrase level: 4
+phrase tonality: 11 - [ 0  2  4  6  8 10]
+phrase MIDIs and GCTs: 
+[ 8  0  4  6 10] - [65, 71, 73, 79, 83]
+[ 8  0  4  6 10] - [65, 71, 73, 79]
+[6 0 4 8] - [73, 77, 81, 85]
+[ 6  0  4  8 18] - [65, 71, 73, 77, 81]
+cadence: 
+[6 0 4 8]-[6 0 4 8 18]
+

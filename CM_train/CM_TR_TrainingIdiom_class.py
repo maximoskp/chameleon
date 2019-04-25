@@ -18,6 +18,8 @@ import copy
 # import matplotlib.pyplot as plt
 sys.path.insert(0, cwd + '/CM_auxiliary')
 import CM_Misc_Aux_functions as maf
+sys.path.insert(0, cwd + '/CM_logging')
+import harmonisation_printer as prt
 
 class GCT_info:
     ''' information about GCTs and GCTgroups in a mode '''
@@ -291,9 +293,14 @@ class TrainingMode:
 
 class TrainingIdiom:
     ''' information for a training idiom '''
-    def __init__(self, folderName):
+    def __init__(self, folderName, logging=False, log_file=[]):
         # 'metadata'
         self.name = folderName.split('/')[-2]
+        # log idiom name
+        if logging:
+            tmp_log_line = 'NEW IDIOM ============================================ ' + '\n'
+            tmp_log_line += 'Idiom name: ' + self.name + '\n'
+            prt.print_log_line( log_file, tmp_log_line )
         # dictionary of available modes in idiom
         self.modes = {}
         # get current directory for coming back
@@ -313,7 +320,12 @@ class TrainingIdiom:
         # for all pieces
         for pieceName in allDocs:
             print(pieceName)
-            p = tpc.TrainingPiece(folderName, pieceName)
+            # log starting new piece
+            if logging:
+                tmp_log_line = 'NEW PIECE ========================= ' + '\n'
+                tmp_log_line += 'Piece name: ' + pieceName + '\n'
+                prt.print_log_line( log_file, tmp_log_line )
+            p = tpc.TrainingPiece(folderName, pieceName, logging=logging, log_file=log_file)
             # for all phrases in piece
             for phrase in p.phrases:
                 # do not accept phrases that have only one gct - no transition

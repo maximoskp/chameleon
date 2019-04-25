@@ -24,6 +24,12 @@ import CM_Misc_Aux_functions as maf
 import copy
 import time
 import music21 as m21
+# use folder of printing functions
+import sys
+import os
+cwd = os.getcwd()
+sys.path.insert(0, cwd + '/CM_logging')
+import harmonisation_printer as prt
 
 class Tonality:
     ''' information about tonality '''
@@ -77,7 +83,7 @@ class Cadence:
 
 class TrainingPhrase:
     ''' information about training phrase '''
-    def __init__(self, tonality_in, chords_in, type_in, level_in):
+    def __init__(self, tonality_in, chords_in, type_in, level_in, logging=False, log_file=[]):
         # tonality is given as a tonality object of the class above
         # chords are given as m21 iterator of flat chords
         # type is a string: "tonality" or "phrase" showing if it ends
@@ -89,6 +95,12 @@ class TrainingPhrase:
             self.level = 1
         else:
             self.level = level_in
+        # log phrase type
+        if logging:
+            tmp_log_line = 'phrase type: ' + type_in + '\n'
+            tmp_log_line += 'phrase level: ' + str(self.level) + '\n'
+            tmp_log_line += 'phrase tonality: ' + str(self.tonality.key) + ' - ' + str(self.tonality.mode)
+            prt.print_log_line( log_file, tmp_log_line )
         tmpChords = []
         for c in chords_in:
             tmpMidis = [p.midi for p in c.pitches]
@@ -102,10 +114,23 @@ class TrainingPhrase:
             tmpGCTs.append( gct.get_singe_GCT_of_chord(c, self.tonality.key, self.tonality.mode) )
             self.midi_gct_dict[str(c)] = tmpGCTs[-1]
         self.gct_chords = tmpGCTs
+        # log chords and GCTs
+        if logging:
+            tmp_log_line = 'phrase MIDIs and GCTs: ' + '\n'
+            for i in range( len( self.gct_chords ) ):
+                tmp_log_line += str(self.gct_chords[i]) + ' - ' + str(self.midi_chords[i])
+                if i < len( self.gct_chords )-1:
+                     tmp_log_line += '\n'
+            prt.print_log_line( log_file, tmp_log_line )
         if len(self.gct_chords) >= 2:
             self.cadence = Cadence(self.gct_chords[-2:], self.level)
         else:
             self.cadence = Cadence([self.gct_chords[-1], self.gct_chords[-1]], self.level)
+        # log cadence
+        if logging:
+            tmp_log_line = 'cadence: ' + '\n'
+            tmp_log_line += self.cadence.label + '\n'
+            prt.print_log_line( log_file, tmp_log_line )
         # GCT_VL
         self.gct_vl = self.make_gct_vl()
     # end constructor
@@ -226,7 +251,7 @@ class MelodyChordSegment:
 
 class MelodyPhrase:
     ''' information about melody phrase '''
-    def __init__(self, tonality_in, constraints_in, harmonicRhythm_in, importantNotes_in, melody_in, type_in, level_in, ending_offset):
+    def __init__(self, tonality_in, constraints_in, harmonicRhythm_in, importantNotes_in, melody_in, type_in, level_in, ending_offset, phrase_idx=0):
         # tonality is given as a tonality object of the class above
         # constraints_in, harmonicRhythm_in and importantNotes_in are given as m21 iterator of flat chords
         # melody_in is given as m21 iterator of notes
@@ -242,6 +267,7 @@ class MelodyPhrase:
         self.melody = melody_in
         self.type = type_in
         self.level = level_in
+        self.index = phrase_idx
         # initialise empty chord segment
         self.melody_chord_segments = []
         # get chord offsets to slice chords parts in phrase

@@ -14,10 +14,13 @@ import sys
 sys.path.insert(0, cwd + '/CM_auxiliary')
 import CM_Misc_Aux_functions as maf
 import copy
+# use folder of printing functions
+sys.path.insert(0, cwd + '/CM_logging')
+import harmonisation_printer as prt
 
 class TrainingPiece:
     ''' information for a training piece '''
-    def __init__(self, folderName, fileName):
+    def __init__(self, folderName, fileName, logging=False, log_file=[]):
         # 'metadata'
         self.name = fileName.split('.')[0]
         self.style = folderName.split('/')[-2]
@@ -26,13 +29,24 @@ class TrainingPiece:
         # get necessary information from piece
         # tonality
         tonPart = p.parts[-4]
+        # check if expandable and expand
+        if m21.repeat.Expander( tonPart ).isExpandable():
+            tonPart = m21.repeat.Expander( tonPart ).process()
         tonChordified = tonPart.chordify()
         # grouping
         groupPart = p.parts[-3]
+        # check if expandable and expand
+        if m21.repeat.Expander( groupPart ).isExpandable():
+            groupPart = m21.repeat.Expander( groupPart ).process()
         groupChordified = groupPart.chordify()
         # reduction
         r1 = p.parts[-1]
         r2 = p.parts[-2]
+        # check if expandable and expand
+        if m21.repeat.Expander( r1 ).isExpandable():
+            r1 = m21.repeat.Expander( r1 ).process()
+        if m21.repeat.Expander( r2 ).isExpandable():
+            r2 = m21.repeat.Expander( r2 ).process()
         rc = m21.stream.Score()
         rc.insert(0, r1)
         rc.insert(0, r2)
@@ -72,7 +86,12 @@ class TrainingPiece:
             self.tonality_offsets[0] = 0
         if len(self.grouping_offsets) > 0:
             self.grouping_offsets[0] = 0
-        self.phrases = self.make_phrase_structure()
+        # log tonality and grouping offsets
+        if logging:
+            tmp_log_line = 'tonality offsets: ' + str(self.tonality_offsets) + '\n'
+            tmp_log_line += 'grouping offsets: ' + str(self.grouping_offsets)
+            prt.print_log_line( log_file, tmp_log_line )
+        self.phrases = self.make_phrase_structure(logging=logging, log_file=log_file)
     # end constructor
     def shift_grouping_levels(self, groups):
         # keep first level - lets assign 4 to the final
@@ -84,7 +103,7 @@ class TrainingPiece:
         groups[-1].level = 4
         return groups
     # end shift_grouping_levels
-    def make_phrase_structure(self):
+    def make_phrase_structure(self, logging=False, log_file=[]):
         phrases = []
         # initialisation - check if first tonality is indeed in the beginning
         ton_idx = 0
@@ -112,7 +131,14 @@ class TrainingPiece:
                 ton_idx += 1
             tmp_allChords = copy.deepcopy( self.chordsFlat )
             tmpChords = tmp_allChords.getElementsByOffset(curr_offset, next_offset, includeEndBoundary=False)
-            phrases.append( tgc.TrainingPhrase( curr_tonality, tmpChords, tmp_type, curr_grouping.level ) )
+            # log phrase starting and ending offsets
+            if logging:
+                tmp_log_line = 'phrase starting offset: ' + str(curr_offset) + '\n'
+                tmp_log_line += 'phrase ending offset: ' + str(next_offset)
+                prt.print_log_line( log_file, tmp_log_line )
+            # append phrase only if more than 2 chords are present
+            if len( tmpChords ) >= 2:
+                phrases.append( tgc.TrainingPhrase( curr_tonality, tmpChords, tmp_type, curr_grouping.level, logging=logging, log_file=log_file ) )
             curr_offset = next_offset
             offset_idx += 1
         # END WHILE
@@ -125,5 +151,6 @@ class TrainingPiece:
         tmpChords = tmp_allChords.getElementsByOffset(curr_offset, next_offset, includeEndBoundary=False)
         # final phrase type is always grouping
         tmp_type = 'grouping'
-        phrases.append( tgc.TrainingPhrase( curr_tonality, tmpChords, tmp_type, curr_grouping.level ) )
+        if len( tmpChords ) >= 2:
+            phrases.append( tgc.TrainingPhrase( curr_tonality, tmpChords, tmp_type, curr_grouping.level, logging=logging, log_file=log_file ) )
         return phrases
