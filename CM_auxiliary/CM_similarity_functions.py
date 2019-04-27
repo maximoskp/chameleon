@@ -25,12 +25,19 @@ def get_best_matching_mode(mode_pcp_in, idiom):
     ' receives a mode_pcp_in mode pcp array and an idiom structure '
     ' and returns the idiom mode that best matches the correlation '
     ' of the input pcp array '
-    max_corr = -1
+    max_corr = -2
     m_out = []
     # for all modes, compare correlations
     for m in idiom.modes.values():
-        if max_corr < np.corrcoef( mode_pcp_in, m.mode_pcp )[0,1]:
-            max_corr = np.corrcoef( mode_pcp_in, m.mode_pcp )[0,1]
+        # check if given mode or idiom mode are chromatic (all 1s or 0s)
+        if np.all( mode_pcp_in == mode_pcp_in[0] ) or np.all( m.mode_pcp == m.mode_pcp[0] ):
+            tmp_corr = -1
+        else:
+            tmp_corr = np.corrcoef( mode_pcp_in, m.mode_pcp )[0,1]
+        if np.isnan(tmp_corr):
+            tmp_corr = -1
+        if max_corr < tmp_corr:
+            max_corr = tmp_corr
             m_out = copy.deepcopy(m)
     return m_out
 # end get_best_matching_mode
