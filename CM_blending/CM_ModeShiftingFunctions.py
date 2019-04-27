@@ -132,7 +132,7 @@ def gct_info_shift(g, d):
 def parallel_shift_mode(m,d):
     print('parallel shifting')
     # change idiom name in mode
-    m.idiom_name = m.idiom_name + '_D' + str(d)
+    # m.idiom_name = m.idiom_name + '_D' + str(d)
     # cadences =================================================
     m.cadences = cadences_shift( m.cadences, d )
     # gct_group_info

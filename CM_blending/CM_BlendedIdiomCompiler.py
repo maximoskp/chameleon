@@ -286,7 +286,7 @@ def integrate_blends( g , ab_blends, ba_blends, groups=False ):
 def compile_blended_idiom(m1, m2, ton_diff, best_ab_blends, best_ba_blends):
     print('compiling blended idiom')
     # define blended idiom name
-    idiom_name = 'bl_' + m1.idiom_name + m1.mode_name + '_' + m2.idiom_name + m2.mode_name
+    idiom_name = 'bl_' + m1.idiom_name + m1.mode_name + '_D' + str(ton_diff) + '_' + m2.idiom_name + m2.mode_name
     # construct idiom
     idiom = tic.BlendingIdiom( idiom_name )
     # construct mode - start with name from mode pcps
