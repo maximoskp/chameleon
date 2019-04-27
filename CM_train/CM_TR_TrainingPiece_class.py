@@ -7,11 +7,11 @@ Created on Wed May 23 15:04:32 2018
 """
 
 import music21 as m21
-import CM_TonalityGrouping_classes as tgc
 import os
 cwd = os.getcwd()
 import sys
 sys.path.insert(0, cwd + '/CM_auxiliary')
+import CM_TonalityGrouping_classes as tgc
 import CM_Misc_Aux_functions as maf
 import copy
 # use folder of printing functions
