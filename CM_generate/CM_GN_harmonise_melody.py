@@ -19,7 +19,7 @@ import sys
 sys.path.insert(0, cwd + '/CM_logging')
 import harmonisation_printer as prt
 
-def harmonise_melody_with_idiom(melodyFolder, melodyFileName, idiomName, targetFolder='server_harmonised_output/', use_GCT_grouping=False, voice_leading='simple', logging=False):
+def harmonise_melody_with_idiom(melodyFolder, melodyFileName, idiomName, targetFolder='server_harmonised_output/', mode_in='Auto', use_GCT_grouping=False, voice_leading='simple', logging=False):
     '''
     voice_leading: 'simple', 'nn', 'bidirectional_bvl', TODO: 'markov_bvl'
     '''
@@ -35,16 +35,16 @@ def harmonise_melody_with_idiom(melodyFolder, melodyFileName, idiomName, targetF
     with open(idiomFolder+'/trained_idioms/'+idiomName+'.pickle', 'rb') as handle:
         idiom = pickle.load(handle)
     # apply cadences to phrases
-    m = cdn.apply_cadences_to_melody_from_idiom(m, idiom, logging=logging)
+    m = cdn.apply_cadences_to_melody_from_idiom(m, idiom ,mode_in=mode_in, logging=logging)
     # apply cHMM
-    m = chmm.apply_cHMM_to_melody_from_idiom(m, idiom, use_GCT_grouping, logging=logging)
+    m = chmm.apply_cHMM_to_melody_from_idiom(m, idiom, use_GCT_grouping, mode_in=mode_in, logging=logging)
     # apply voice leading
     if voice_leading is 'simple':
         m = vlf.apply_simple_voice_leading(m, idiom)
     elif voice_leading is 'nn':
         m = vlf.apply_NN_voice_leading(m, idiom)
     elif voice_leading is 'bidirectional_bvl':
-        bbvl = vlf.BBVL(m, idiom, use_GCT_grouping)
+        bbvl = vlf.BBVL(m, idiom, use_GCT_grouping, mode_in=mode_in)
         m = bbvl.apply_bbvl()
     # export to desired format
     uof.generate_xml(m.output_stream, fileName=m.harmonisation_file_name+'.xml')

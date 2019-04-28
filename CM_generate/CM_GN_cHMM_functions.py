@@ -217,7 +217,7 @@ def apply_cHMM_to_phrase_from_mode(p, c, m, logging=False):
     p = apply_cHMM_to_segments(p, c, segment_indexes, state_indexes, m, logging=logging)
     return p
 #end apply_cHMM_to_phrase_from_mode
-def apply_cHMM_to_melody_from_idiom(m,idiom, use_GCT_grouping, logging=False):
+def apply_cHMM_to_melody_from_idiom(m,idiom, use_GCT_grouping, mode_in='Auto', logging=False):
     print('applying cHMM')
     # log that it's about cHMM
     if logging:
@@ -225,8 +225,19 @@ def apply_cHMM_to_melody_from_idiom(m,idiom, use_GCT_grouping, logging=False):
         prt.print_log_line( m.harmonisation_file_name, tmp_log_line )
     # run through all phrases
     for p in m.phrases:
-        # get proper mode that corresponds to the mode of the phrase
-        mode = smf.get_best_matching_mode( p.tonality.mode_pcp, idiom )
+        # MODE SELECTION SNIPPET ==================================================
+        if mode_in == 'Auto':
+            # get proper mode that corresponds to the mode of the phrase
+            mode = smf.get_best_matching_mode( p.tonality.mode_pcp, idiom )
+        else:
+            # get mode names
+            mode_keys = list(idiom.modes.keys())
+            if mode_in not in mode_keys:
+                # if not in existing modes, select as if auto was given
+                mode = smf.get_best_matching_mode( p.tonality.mode_pcp, idiom )
+            else:
+                mode = idiom.modes[ mode_in ]
+        # MODE SELECTION SNIPPET ==================================================
         # log selected mode
         if logging:
             tmp_log_line = 'NEW PHRASE ========================= ' + '\n'

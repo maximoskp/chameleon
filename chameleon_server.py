@@ -21,6 +21,7 @@ useGrouping = False
 request_code = " "
 name_suffix = " "
 voiceLeading = "NoVL"
+mode_in = 'Auto'
 
 app = Flask(__name__)
 
@@ -44,6 +45,7 @@ def upload():
     global idiom_name
     global name_suffix
     global voiceLeading
+    global mode_in
     # print('request: ', request)
     if len(request.files.getlist("file")) < 1:
         return
@@ -89,8 +91,8 @@ def upload():
             tmp_vl_string = 'bidirectional_bvl'
         else:
             print('Unknown VL option!')
-        print('VL -- ', tmp_vl_string)
-        m, idiom = hrm.harmonise_melody_with_idiom(melodyFolder, melodyFileName, idiom_name,targetFolder=output, use_GCT_grouping=useGrouping, voice_leading=tmp_vl_string)
+        # set mode_in
+        m, idiom = hrm.harmonise_melody_with_idiom(melodyFolder, melodyFileName, idiom_name,targetFolder=output, mode_in=mode_in, use_GCT_grouping=useGrouping, voice_leading=tmp_vl_string)
     
     # the output name as produced by chameleon
     initial_output_file_name = m.name+'_'+idiom_name+'.xml'
@@ -142,10 +144,12 @@ def set_grouping():
     global idiom_name
     global name_suffix
     global voiceLeading
+    global mode_in
     useGrouping = dat_json['useGrouping']
     request_code = dat_json['clientID']
     idiom_name = dat_json['idiom_name']
     voiceLeading = dat_json['voiceLeading']
+    # set mode_in
     name_suffix = '_'+idiom_name+'_'+'grp'+str(int(useGrouping))+'_'+voiceLeading+'_'+request_code
     print('useGrouping: ', useGrouping)
     print('request_code: ', request_code)

@@ -191,16 +191,29 @@ def get_cadence_with_penultimate_constraint(cs_penultimate, cs_final, all_cads, 
     return best_cads.cadences_dictionary[ cad_keys[best_idx] ]
 # end get_cadence_with_penultimate_constraint
 
-def apply_cadences_to_melody_from_idiom(m,idiom,logging=False):
+def apply_cadences_to_melody_from_idiom(m,idiom, mode_in='Auto',logging=False):
     print('applying cadences')
+
     # log that it's about cadences
     if logging:
         tmp_log_line = 'CADENCES =================================== ' + '\n'
         prt.print_log_line( m.harmonisation_file_name, tmp_log_line )
     # run through all phrases
     for p in m.phrases:
-        # get proper mode that corresponds to the mode of the phrase
-        mode = smf.get_best_matching_mode( p.tonality.mode_pcp, idiom )
+        # check what mode option is given by the user
+        # MODE SELECTION SNIPPET ==================================================
+        if mode_in == 'Auto':
+            # get proper mode that corresponds to the mode of the phrase
+            mode = smf.get_best_matching_mode( p.tonality.mode_pcp, idiom )
+        else:
+            # get mode names
+            mode_keys = list(idiom.modes.keys())
+            if mode_in not in mode_keys:
+                # if not in existing modes, select as if auto was given
+                mode = smf.get_best_matching_mode( p.tonality.mode_pcp, idiom )
+            else:
+                mode = idiom.modes[ mode_in ]
+        # MODE SELECTION SNIPPET ==================================================
         # log selected mode
         if logging:
             tmp_log_line = 'NEW PHRASE ========================= ' + '\n'

@@ -79,7 +79,7 @@ def make_neutral_bbvl(c):
 # end make_neutral_bbvl
 class BBVL:
     ''' bidirectional bass voice leading class '''
-    def __init__(self, m, idiom, use_GCT_grouping):
+    def __init__(self, m, idiom, use_GCT_grouping, mode_in='Auto'):
         # keep the entire melodic and idioms structures just to return them
         self.m = m
         self.idiom = m
