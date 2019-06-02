@@ -57,6 +57,8 @@ def apply_simple_voice_leading(m, idiom):
             g = cs.gct_chord
             chord_root = g[0] + key
             chord = np.array( g[1:] ) + chord_root + lowest_octave_limit - 12
+            #  make bass one octave lower
+            chord[0] = chord[0] - 12
             # keep at most 4 notes
             if len( chord ) > 4:
                 chord = chord[:4]

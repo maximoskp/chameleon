@@ -39,6 +39,8 @@ def get_cadence_with_final_constraint(cs_penultimate, cs_final, all_cads, other_
             prt.print_log_line( m.harmonisation_file_name, tmp_log_line )
         melody_score = smf.evaluate_melody_chord_rpcp_matching( cs_penultimate.relative_pcp, cs_penultimate.important_relative_pcp, c.penultimate_relative_pcp )
         tmp_score = 0.2*constraint_score + 0.8*melody_score
+        # include the cadence probability factor
+        tmp_score = tmp_score*pow(c.probability, 0.01)
         if best_scor < tmp_score:
             best_scor = tmp_score
             best_idx = i
@@ -82,6 +84,8 @@ def get_cadence_with_final_constraint(cs_penultimate, cs_final, all_cads, other_
                 prt.print_log_line( m.harmonisation_file_name, tmp_log_line )
             melody_score = smf.evaluate_melody_chord_rpcp_matching( cs_penultimate.relative_pcp, cs_penultimate.important_relative_pcp, c.penultimate_relative_pcp )
             tmp_score = 0.2*constraint_score + 0.8*melody_score
+            # include the cadence probability factor
+            tmp_score = tmp_score*pow(c.probability, 0.01)
             if best_scor < tmp_score:
                 best_scor = tmp_score
                 best_idx = i
@@ -126,6 +130,8 @@ def get_cadence_with_penultimate_constraint(cs_penultimate, cs_final, all_cads, 
             prt.print_log_line( m.harmonisation_file_name, tmp_log_line )
         melody_score = smf.evaluate_melody_chord_rpcp_matching( cs_final.relative_pcp, cs_final.important_relative_pcp, c.final_relative_pcp )
         tmp_score = 0.2*constraint_score + 0.8*melody_score
+        # include the cadence probability factor
+        tmp_score = tmp_score*pow(c.probability, 0.01)
         if best_scor < tmp_score:
             best_scor = tmp_score
             best_idx = i
@@ -169,6 +175,8 @@ def get_cadence_with_penultimate_constraint(cs_penultimate, cs_final, all_cads, 
                 prt.print_log_line( m.harmonisation_file_name, tmp_log_line )
             melody_score = smf.evaluate_melody_chord_rpcp_matching( cs_final.relative_pcp, cs_final.important_relative_pcp, c.penultimate_relative_pcp )
             tmp_score = 0.2*constraint_score + 0.8*melody_score
+            # include the cadence probability factor
+            tmp_score = tmp_score*pow(c.probability, 0.01)
             if best_scor < tmp_score:
                 best_scor = tmp_score
                 best_idx = i

@@ -98,6 +98,8 @@ def evaluate_cadence_in_phrase(p, c, m, logging=False):
                 prt.print_log_line( m.harmonisation_file_name, tmp_log_line )
     # cadence_score = (0.8*final_score + 0.2*penultimate_score)*c.probability
     cadence_score = (0.5*final_score + 0.5*penultimate_score)
+    # include the cadence probability factor
+    cadence_score = cadence_score*pow(c.probability, 0.01)
     # cadence_score = np.power(final_score, 1)*np.power(penultimate_score, 3)*c.probability
     if np.isnan(cadence_score):
         cadence_score = 0.0
