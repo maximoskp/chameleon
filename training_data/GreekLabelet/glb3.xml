@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN" "http://www.musicxml.org/dtds/2.0/partwise.dtd">
-<score-partwise version="2.0">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
   <movement-title>KP-Corpus: bach.jesu</movement-title>
   <identification>
     <creator type="composer">Bach, Chorale, "Jesu, der du meine Seele"</creator>
     <encoding>
-      <software>Finale 2012 for Mac</software>
-      <software>Dolet Light for Finale 2012</software>
-      <encoding-date>2014-10-19</encoding-date>
+      <software>Finale 2014.5 for Windows</software>
+      <software>Dolet Light for Finale 2014.5</software>
+      <encoding-date>2019-01-25</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="stem" type="yes"/>
     </encoding>
   </identification>
   <defaults>
@@ -51,16 +54,18 @@
       <line-width type="tuplet bracket">0.7487</line-width>
       <note-size type="grace">60</note-size>
       <note-size type="cue">60</note-size>
+      <distance type="hyphen">120</distance>
+      <distance type="beam">8</distance>
     </appearance>
-    <music-font font-family="Maestro,music" font-size="19.9"/>
+    <music-font font-family="Maestro,engraved" font-size="19.9"/>
     <word-font font-family="Times New Roman" font-size="10"/>
   </defaults>
   <credit page="1">
-    <credit-words default-x="614" default-y="1485" font-size="19.9" justify="center" valign="top">MENOUSSI
+    <credit-words default-x="614" default-y="1485" font-size="19.9" justify="center" valign="top" xml:space="preserve">MENOUSSI
 48</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="1157" default-y="1430" justify="right" valign="top">Labelet G.
+    <credit-words default-x="1157" default-y="1430" justify="right" valign="top" xml:space="preserve">Labelet G.
 Menoussi
 48</credit-words>
   </credit>
@@ -167,7 +172,7 @@ Menoussi
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="310">
+    <measure number="1" width="306">
       <print>
         <system-layout>
           <system-margins>
@@ -198,7 +203,7 @@ Menoussi
         <duration>4</duration>
         <voice>1</voice>
       </forward>
-      <note default-x="238">
+      <note default-x="235">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -209,7 +214,7 @@ Menoussi
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="274">
+      <note default-x="270">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -222,14 +227,14 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="305">
+    <measure number="2" width="314">
       <attributes>
         <time symbol="common">
           <beats>4</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="58">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -239,7 +244,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="106">
+      <note default-x="115">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -253,7 +258,7 @@ Menoussi
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="162">
+      <note default-x="172">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -267,13 +272,13 @@ Menoussi
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="198">
+      <note default-x="207">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="233">
+      <note default-x="242">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -283,7 +288,7 @@ Menoussi
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="268">
+      <note default-x="277">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -295,7 +300,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="411">
+    <measure number="3" width="406">
       <attributes>
         <time>
           <beats>5</beats>
@@ -322,7 +327,7 @@ Menoussi
         <type>eighth</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -332,7 +337,7 @@ Menoussi
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="156">
+      <note default-x="154">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -342,7 +347,7 @@ Menoussi
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="193">
+      <note default-x="190">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -352,7 +357,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="252">
+      <note default-x="248">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -363,7 +368,7 @@ Menoussi
         <dot/>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="341">
+      <note default-x="335">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -375,7 +380,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="288">
+    <measure number="4" width="286">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -397,7 +402,7 @@ Menoussi
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="164">
+      <note default-x="162">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -411,13 +416,13 @@ Menoussi
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="194">
+      <note default-x="193">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="225">
+      <note default-x="224">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -427,7 +432,7 @@ Menoussi
         <type>eighth</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="256">
+      <note default-x="255">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -457,7 +462,7 @@ Menoussi
         <stem default-y="5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="76">
+      <note default-x="75">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -469,7 +474,7 @@ Menoussi
         <stem default-y="0">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="105">
+      <note default-x="106">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -512,14 +517,14 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="324">
+    <measure number="6" width="323">
       <attributes>
         <time>
           <beats>5</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="46">
+      <note default-x="45">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -550,7 +555,7 @@ Menoussi
         <type>eighth</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="137">
+      <note default-x="138">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -560,7 +565,7 @@ Menoussi
         <type>eighth</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -593,7 +598,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="207">
+    <measure number="7" width="208">
       <attributes>
         <time>
           <beats>3</beats>
@@ -628,13 +633,13 @@ Menoussi
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="122">
+      <note default-x="124">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="151">
+      <note default-x="152">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -647,7 +652,7 @@ Menoussi
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="310">
+    <measure number="1" width="306">
       <print>
         <measure-numbering>system</measure-numbering>
       </print>
@@ -671,7 +676,7 @@ Menoussi
         <duration>4</duration>
         <voice>1</voice>
       </forward>
-      <note default-x="238">
+      <note default-x="235">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -682,7 +687,7 @@ Menoussi
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="274">
+      <note default-x="270">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -695,14 +700,14 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="305">
+    <measure number="2" width="314">
       <attributes>
         <time symbol="common">
           <beats>4</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="58">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -712,7 +717,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="106">
+      <note default-x="115">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -726,7 +731,7 @@ Menoussi
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="162">
+      <note default-x="172">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -740,13 +745,13 @@ Menoussi
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="198">
+      <note default-x="207">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="233">
+      <note default-x="242">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -757,7 +762,7 @@ Menoussi
         <stem default-y="20">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="268">
+      <note default-x="277">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -770,7 +775,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="411">
+    <measure number="3" width="406">
       <attributes>
         <time>
           <beats>5</beats>
@@ -799,7 +804,7 @@ Menoussi
         <stem default-y="5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -810,7 +815,7 @@ Menoussi
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="156">
+      <note default-x="154">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -821,7 +826,7 @@ Menoussi
         <stem default-y="15">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="193">
+      <note default-x="190">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -831,7 +836,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="252">
+      <note default-x="248">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -842,7 +847,7 @@ Menoussi
         <dot/>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="341">
+      <note default-x="335">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -854,7 +859,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="288">
+    <measure number="4" width="286">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -876,7 +881,7 @@ Menoussi
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="164">
+      <note default-x="162">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -890,13 +895,13 @@ Menoussi
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="194">
+      <note default-x="193">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="225">
+      <note default-x="224">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -907,7 +912,7 @@ Menoussi
         <stem default-y="5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="256">
+      <note default-x="255">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -938,7 +943,7 @@ Menoussi
         <stem default-y="5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="76">
+      <note default-x="75">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -950,7 +955,7 @@ Menoussi
         <stem default-y="0">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="105">
+      <note default-x="106">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -995,14 +1000,14 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="324">
+    <measure number="6" width="323">
       <attributes>
         <time>
           <beats>5</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="46">
+      <note default-x="45">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1036,7 +1041,7 @@ Menoussi
         <stem default-y="0">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="137">
+      <note default-x="138">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1047,7 +1052,7 @@ Menoussi
         <stem default-y="5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1080,7 +1085,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="207">
+    <measure number="7" width="208">
       <attributes>
         <time>
           <beats>3</beats>
@@ -1115,13 +1120,13 @@ Menoussi
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="122">
+      <note default-x="124">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="151">
+      <note default-x="152">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -1134,7 +1139,7 @@ Menoussi
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="310">
+    <measure number="1" width="306">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1155,20 +1160,20 @@ Menoussi
       </attributes>
       <sound tempo="120"/>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>6</duration>
         <voice>1</voice>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="305">
+    <measure number="2" width="314">
       <attributes>
         <time symbol="common">
           <beats>4</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="58">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -1178,7 +1183,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="-25">down</stem>
       </note>
-      <note default-x="48">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1189,13 +1194,13 @@ Menoussi
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="106">
+      <note default-x="115">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="162">
+      <note default-x="172">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -1205,7 +1210,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="162">
+      <note default-x="172">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1216,7 +1221,7 @@ Menoussi
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="162">
+      <note default-x="172">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1227,7 +1232,7 @@ Menoussi
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="233">
+      <note default-x="242">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -1235,7 +1240,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="411">
+    <measure number="3" width="406">
       <attributes>
         <time>
           <beats>5</beats>
@@ -1252,7 +1257,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="23.5">up</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -1263,7 +1268,7 @@ Menoussi
         <stem default-y="35">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="156">
+      <note default-x="154">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1274,7 +1279,7 @@ Menoussi
         <stem default-y="40">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="193">
+      <note default-x="190">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1284,7 +1289,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="252">
+      <note default-x="248">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1307,7 +1312,7 @@ Menoussi
         <type>half</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="193">
+      <note default-x="190">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -1317,7 +1322,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="-25">down</stem>
       </note>
-      <note default-x="252">
+      <note default-x="248">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -1327,7 +1332,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="311">
+      <note default-x="307">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -1337,7 +1342,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="311">
+      <note default-x="307">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1351,7 +1356,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="288">
+    <measure number="4" width="286">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -1367,7 +1372,7 @@ Menoussi
         <duration>2</duration>
         <voice>1</voice>
       </forward>
-      <note default-x="225">
+      <note default-x="224">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1378,7 +1383,7 @@ Menoussi
         <stem default-y="40">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="256">
+      <note default-x="255">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1413,7 +1418,7 @@ Menoussi
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="164">
+      <note default-x="162">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -1423,7 +1428,7 @@ Menoussi
         <type>eighth</type>
         <stem default-y="-85">down</stem>
       </note>
-      <note default-x="164">
+      <note default-x="162">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1434,7 +1439,7 @@ Menoussi
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="194">
+      <note default-x="193">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -1467,7 +1472,7 @@ Menoussi
         <stem default-y="40">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="76">
+      <note default-x="75">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -1478,7 +1483,7 @@ Menoussi
         <stem default-y="35">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="105">
+      <note default-x="106">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -1535,7 +1540,7 @@ Menoussi
         <type>half</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="154">
+      <note default-x="153">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -1556,14 +1561,14 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="324">
+    <measure number="6" width="323">
       <attributes>
         <time>
           <beats>5</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="46">
+      <note default-x="45">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1596,7 +1601,7 @@ Menoussi
         <stem default-y="35">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="137">
+      <note default-x="138">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1607,7 +1612,7 @@ Menoussi
         <stem default-y="40">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -1630,7 +1635,7 @@ Menoussi
       <backup>
         <duration>10</duration>
       </backup>
-      <note default-x="46">
+      <note default-x="45">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -1640,7 +1645,7 @@ Menoussi
         <type>half</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -1684,7 +1689,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="207">
+    <measure number="7" width="208">
       <attributes>
         <time>
           <beats>3</beats>
@@ -1744,13 +1749,13 @@ Menoussi
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="122">
+      <note default-x="124">
         <rest/>
         <duration>1</duration>
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="151">
+      <note default-x="152">
         <rest/>
         <duration>2</duration>
         <voice>2</voice>
@@ -1763,14 +1768,14 @@ Menoussi
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="310">
+    <measure number="1" width="306">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
       <attributes>
         <divisions>2</divisions>
-        <key>
-          <fifths>0</fifths>
+        <key print-object="no">
+          <fifths>1</fifths>
           <mode>major</mode>
         </key>
         <time>
@@ -1783,7 +1788,21 @@ Menoussi
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="124">
+      <note>
+        <rest measure="yes"/>
+        <duration>6</duration>
+        <voice>1</voice>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="2" width="314">
+      <attributes>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note default-x="58">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1793,7 +1812,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="18.5">up</stem>
       </note>
-      <note default-x="136">
+      <note default-x="70">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1806,7 +1825,7 @@ Menoussi
         <accidental>sharp</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="124">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1817,7 +1836,7 @@ Menoussi
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="136">
+      <note default-x="70">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1828,7 +1847,7 @@ Menoussi
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="124">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1839,7 +1858,7 @@ Menoussi
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="136">
+      <note default-x="70">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1850,7 +1869,7 @@ Menoussi
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="124">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1861,13 +1880,19 @@ Menoussi
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="181">
+      <note default-x="115">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="239">
+      <note default-x="172">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="242">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -1875,21 +1900,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="305">
-      <attributes>
-        <time symbol="common">
-          <beats>4</beats>
-          <beat-type>4</beat-type>
-        </time>
-      </attributes>
-      <note>
-        <rest/>
-        <duration>8</duration>
-        <voice>1</voice>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="3" width="411">
+    <measure number="3" width="406">
       <attributes>
         <time>
           <beats>5</beats>
@@ -1897,13 +1908,13 @@ Menoussi
         </time>
       </attributes>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>10</duration>
         <voice>1</voice>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="288">
+    <measure number="4" width="286">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -1912,7 +1923,7 @@ Menoussi
         </time>
       </attributes>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>6</duration>
         <voice>1</voice>
       </note>
@@ -1926,13 +1937,13 @@ Menoussi
         </time>
       </attributes>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>8</duration>
         <voice>1</voice>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="324">
+    <measure number="6" width="323">
       <attributes>
         <time>
           <beats>5</beats>
@@ -1940,13 +1951,13 @@ Menoussi
         </time>
       </attributes>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>10</duration>
         <voice>1</voice>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="207">
+    <measure number="7" width="208">
       <attributes>
         <time>
           <beats>3</beats>
@@ -1954,7 +1965,7 @@ Menoussi
         </time>
       </attributes>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>6</duration>
         <voice>1</voice>
       </note>
@@ -1965,14 +1976,14 @@ Menoussi
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="310">
+    <measure number="1" width="306">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
       <attributes>
         <divisions>2</divisions>
-        <key>
-          <fifths>0</fifths>
+        <key print-object="no">
+          <fifths>1</fifths>
           <mode>major</mode>
         </key>
         <time>
@@ -1986,20 +1997,20 @@ Menoussi
       </attributes>
       <sound tempo="120"/>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>6</duration>
         <voice>1</voice>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="305">
+    <measure number="2" width="314">
       <attributes>
         <time symbol="common">
           <beats>4</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="58">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2009,7 +2020,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="48">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2020,13 +2031,13 @@ Menoussi
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="106">
+      <note default-x="115">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="161">
+      <note default-x="170">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
@@ -2034,7 +2045,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="411">
+    <measure number="3" width="406">
       <attributes>
         <time>
           <beats>5</beats>
@@ -2042,13 +2053,13 @@ Menoussi
         </time>
       </attributes>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>10</duration>
         <voice>1</voice>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="288">
+    <measure number="4" width="286">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -2057,7 +2068,7 @@ Menoussi
         </time>
       </attributes>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>6</duration>
         <voice>1</voice>
       </note>
@@ -2082,7 +2093,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="324">
+    <measure number="6" width="323">
       <attributes>
         <time>
           <beats>5</beats>
@@ -2090,13 +2101,13 @@ Menoussi
         </time>
       </attributes>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>10</duration>
         <voice>1</voice>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="207">
+    <measure number="7" width="208">
       <attributes>
         <time>
           <beats>3</beats>
@@ -2104,7 +2115,7 @@ Menoussi
         </time>
       </attributes>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>6</duration>
         <voice>1</voice>
       </note>
@@ -2115,7 +2126,7 @@ Menoussi
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="310">
+    <measure number="1" width="306">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2136,20 +2147,20 @@ Menoussi
       </attributes>
       <sound tempo="120"/>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>6</duration>
         <voice>1</voice>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="305">
+    <measure number="2" width="314">
       <attributes>
         <time symbol="common">
           <beats>4</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="58">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -2160,7 +2171,7 @@ Menoussi
         <dot/>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="233">
+      <note default-x="242">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -2168,7 +2179,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="411">
+    <measure number="3" width="406">
       <attributes>
         <time>
           <beats>5</beats>
@@ -2185,7 +2196,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2195,7 +2206,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="193">
+      <note default-x="190">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2205,7 +2216,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="11">up</stem>
       </note>
-      <note default-x="252">
+      <note default-x="248">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2215,7 +2226,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="311">
+      <note default-x="307">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -2227,7 +2238,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="288">
+    <measure number="4" width="286">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -2246,13 +2257,13 @@ Menoussi
         <dot/>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="194">
+      <note default-x="193">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="225">
+      <note default-x="224">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -2281,7 +2292,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="105">
+      <note default-x="106">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2291,7 +2302,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="153">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -2313,14 +2324,14 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="324">
+    <measure number="6" width="323">
       <attributes>
         <time>
           <beats>5</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="46">
+      <note default-x="45">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2330,7 +2341,7 @@ Menoussi
         <type>half</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="46">
+      <note default-x="45">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2341,7 +2352,7 @@ Menoussi
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2373,7 +2384,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="207">
+    <measure number="7" width="208">
       <attributes>
         <time>
           <beats>3</beats>
@@ -2391,13 +2402,13 @@ Menoussi
         <dot/>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="122">
+      <note default-x="124">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="151">
+      <note default-x="152">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -2410,7 +2421,7 @@ Menoussi
   </part>
   <!--=========================================================-->
   <part id="P7">
-    <measure number="1" width="310">
+    <measure number="1" width="306">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2431,20 +2442,20 @@ Menoussi
       </attributes>
       <sound tempo="120"/>
       <note>
-        <rest/>
+        <rest measure="yes"/>
         <duration>6</duration>
         <voice>1</voice>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="305">
+    <measure number="2" width="314">
       <attributes>
         <time symbol="common">
           <beats>4</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="58">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -2455,7 +2466,7 @@ Menoussi
         <dot/>
         <stem default-y="-53.5">down</stem>
       </note>
-      <note default-x="48">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2467,7 +2478,7 @@ Menoussi
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="48">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2479,7 +2490,7 @@ Menoussi
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="48">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2491,7 +2502,7 @@ Menoussi
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="233">
+      <note default-x="242">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -2499,7 +2510,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="411">
+    <measure number="3" width="406">
       <attributes>
         <time>
           <beats>5</beats>
@@ -2516,7 +2527,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2526,7 +2537,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="34">up</stem>
       </note>
-      <note default-x="193">
+      <note default-x="190">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2536,7 +2547,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="252">
+      <note default-x="248">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2559,7 +2570,7 @@ Menoussi
         <type>half</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="193">
+      <note default-x="190">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -2569,7 +2580,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="-25.5">down</stem>
       </note>
-      <note default-x="252">
+      <note default-x="248">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -2579,7 +2590,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="311">
+      <note default-x="307">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -2589,7 +2600,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="311">
+      <note default-x="307">
         <chord/>
         <pitch>
           <step>F</step>
@@ -2603,7 +2614,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="288">
+    <measure number="4" width="286">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -2619,7 +2630,7 @@ Menoussi
         <duration>2</duration>
         <voice>1</voice>
       </forward>
-      <note default-x="225">
+      <note default-x="224">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2679,7 +2690,7 @@ Menoussi
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="194">
+      <note default-x="193">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -2711,7 +2722,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="34">up</stem>
       </note>
-      <note default-x="105">
+      <note default-x="106">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -2721,7 +2732,7 @@ Menoussi
         <type>quarter</type>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="153">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -2755,7 +2766,7 @@ Menoussi
         <type>half</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="154">
+      <note default-x="153">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -2776,14 +2787,14 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="324">
+    <measure number="6" width="323">
       <attributes>
         <time>
           <beats>5</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="46">
+      <note default-x="45">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -2793,7 +2804,7 @@ Menoussi
         <type>half</type>
         <stem default-y="34">up</stem>
       </note>
-      <note default-x="46">
+      <note default-x="45">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2804,7 +2815,7 @@ Menoussi
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -2827,7 +2838,7 @@ Menoussi
       <backup>
         <duration>10</duration>
       </backup>
-      <note default-x="46">
+      <note default-x="45">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -2837,7 +2848,7 @@ Menoussi
         <type>half</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2881,7 +2892,7 @@ Menoussi
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="207">
+    <measure number="7" width="208">
       <attributes>
         <time>
           <beats>3</beats>
@@ -2947,13 +2958,13 @@ Menoussi
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="122">
+      <note default-x="124">
         <rest/>
         <duration>1</duration>
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="151">
+      <note default-x="152">
         <rest/>
         <duration>2</duration>
         <voice>2</voice>

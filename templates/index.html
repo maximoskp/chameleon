@@ -2,98 +2,169 @@
 <html>
 <head>
 <title>Upload</title>
- <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
  <script type='text/javascript' src='//www.midijs.net/lib/midi.js'></script>
  <script src="/static/js/opensheetmusicdisplay.min.js"></script>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="/static/css/materialize.min.css"  media="screen,projection"/>
+<link type="text/css" rel="stylesheet" href="/static/css/style.css"/>    
 </head>
 <body>
+
 <script>
-    var ID = function () {
+
+	var ID = function () {
         // Math.random should be unique because of its seeding algorithm.
         // Convert it to base 36 (numbers + letters), and grab the first 9 characters
         // after the decimal.
         return '_' + Math.random().toString(36).substr(2, 9);
     };
-</script>
-<script>    
+	
+	var initJson;
+	var keys = [];
     var my_ID = ID();
+	var radio_option = "Style1";
     $(document).ready(function(){
         // initialise grouping checkbox
         document.getElementById('groupingCheckbox').checked = false;
+		document.getElementById('harmonise').disabled = true;
+		// initialise radiobuttons
+		document.getElementById('radioStyle1').checked = true;
+		// initialise dropdown menus
+		document.getElementById("idiom_select1").selectedIndex = "0";
+		document.getElementById("idiom_select2").selectedIndex = "0";
+		document.getElementById("mode_select1").selectedIndex = "0";
+		document.getElementById("mode_select2").selectedIndex = "0";
+		document.getElementById("tonal_diff").selectedIndex = "0";
+		document.getElementById("voice_leading_select").value = "NoVL";
         osmd = new opensheetmusicdisplay.OpenSheetMusicDisplay("score_container");
-        document.getElementById('score_play_show').style.display = 'none';
+		document.getElementById('results').style.display = 'none';
         // request list of idiom names from server
         var dummy_json = {
             info: 'none'
         };
-        $.post( "/get_idiom_names", JSON.stringify(dummy_json), function(resp){
-            var idiom_names_list = resp['idiom_names_list'];
-            console.log('idiom_names_list: ', idiom_names_list);
-            // load dropdown menu
-            for(var i=0; i<idiom_names_list.length; i++){
+        $.post( "/get_idiom_names", JSON.stringify(dummy_json), function(initResp){
+            //var idiom_names_list = resp['idiom_names_list'];
+            for(var k in initResp) keys.push(k);			
+            console.log('idiom_names_list: ', keys);
+			initJson = initResp;
+			console.log('initJson: ', initJson);
+            //initializing dropdown menus for S1 and S2
+            for(var i=0; i<keys.length; i++){
                 var option = document.createElement("option");
-                option.value = idiom_names_list[i];
-                option.text = idiom_names_list[i];
-                document.getElementById("idiom_select").add(option);
+				var option2 = document.createElement("option");
+                option.value = keys[i];
+				option2.value = keys[i];
+                option.text = keys[i];
+				option2.text = keys[i];
+                document.getElementById("idiom_select1").add(option);
+				document.getElementById("idiom_select2").add(option2);
             }
+			//initializing dropdown menus for M1 and M2
+			allModes = initJson[keys[0]];
+			for(var i=0; i<allModes.length; i++){
+				var option = document.createElement("option");
+				var option2 = document.createElement("option");
+				option.value = allModes[i];
+				option2.value = allModes[i];
+			    option.text = allModes[i];
+				option2.text = allModes[i];
+				document.getElementById("mode_select1").add(option);
+				document.getElementById("mode_select2").add(option2);
+			}
         });
-        var option1 = document.createElement("option");
-        option1.value = "NoVL";
-        option1.text = "NoVL";
-        document.getElementById("voice_leading_select").add(option1);
-        var option2 = document.createElement("option");
-        option2.value = "BBVL";
-        option2.text = "BBVL";
-        document.getElementById("voice_leading_select").add(option2);
     });
-</script>
-<script>
-    var input = [];
-    var osmd = [];
-    var useGrouping = false;
-    var voiceLeading = 'NoVL';
-    var idiom_name = 'BachChorales';
+	
+	var input = [];
     var file_name_xml = [];
     var file_name_mid = [];
     var server_response_success = false;
     function submit_UI_info(){
         // inform server about grouping selected by this client
+        idiom1_name = document.getElementById("idiom_select1").value;
+		mode1_name = document.getElementById("mode_select1").value;
+		idiom2_name = document.getElementById("idiom_select2").value;
+		mode2_name = document.getElementById("mode_select2").value;	
+		tonal_diff = document.getElementById("tonal_diff").value;	
         useGrouping = document.getElementById('groupingCheckbox').checked;
-        console.log('inside submit_UI_info');
-        var parameters_json = {
-            useGrouping: useGrouping,
-            clientID: my_ID,
-            idiom_name: idiom_name,
-            voiceLeading: voiceLeading
-        };
-        $.post( "/set_parameters", JSON.stringify(parameters_json), function(resp){
-            if(resp['success']){
-                name_suffix = resp['name_suffix']
-                console.log('UI message received by server - success!');
-                server_response_success = true;
-                file_name_xml = input.files[0].name.split(".")[0]+name_suffix+".xml"
-                file_name_mid = input.files[0].name.split(".")[0]+name_suffix+".mid"
-                $("#score_info").html('Preparing score...');
-                document.getElementById('score_play_show').style.display = 'none';
-                $("#upload-form").submit();
-            }else{
-                alert('Server unavailable :( please try again later');
-            }
-        });
+		voiceLeading = document.getElementById("voice_leading_select").value;
+		harmType = document.querySelector('input[name="styles"]:checked').value;
+		
+		// check status of radio button and select options to be included in the json file
+		if (radio_option=="Blend" && (mode1_name=="Auto" || mode2_name=="Auto")){
+			var tmp_str = "When blending, auto mode should not be selected as an option.\n"
+			if (mode1_name=="Auto"){
+				mode1_name = document.getElementById("mode_select1").options[1].value;
+				tmp_str += "Mode 1 has been set to: " + mode1_name + "\n";
+			}
+			if (mode2_name=="Auto"){
+				mode2_name = document.getElementById("mode_select2").options[1].value;
+				tmp_str += "Mode 2 has been set to: " + mode2_name + "\n";
+			}
+			alert(tmp_str);
+			ret_state = false;
+		}
+		var idiom_name = [];
+		var mode_name = [];
+		var ton_diff = [];
+		if (radio_option=="Blend"){
+			ton_diff = tonal_diff;
+			console.log('ton_diff: ', ton_diff);
+			idiom_name = 'bl_' + idiom1_name + mode1_name + '_D' + ton_diff + '_' + idiom2_name + mode2_name;
+			mode_name = "Auto";
+		}else if (radio_option=="Style1"){
+			idiom_name = idiom1_name;
+			mode_name = mode1_name;
+		}else{
+			idiom_name = idiom2_name;
+			mode_name = mode2_name;
+		}
+		console.log('idiom_name: ', idiom_name);
+		console.log('mode_name: ', mode_name);
+		var parameters_json = {
+			useGrouping: useGrouping,
+			clientID: my_ID,
+			idiom_name: idiom_name,
+			mode_name: mode_name,
+			voiceLeading: voiceLeading,
+			harmType: harmType
+		};
+		$.post( "/set_parameters", JSON.stringify(parameters_json), function(resp){
+			if(resp['success']){
+				name_suffix = resp['name_suffix']
+				console.log('UI message received by server - success!');
+				server_response_success = true;
+				file_name_xml = input.files[0].name.split(".")[0]+name_suffix+".xml"
+				file_name_mid = input.files[0].name.split(".")[0]+name_suffix+".mid"
+				$("#score_info").html('Preparing score...Please Wait');
+				$("#upload-form").submit();
+			// $("#upload-form").submit(function(){
+			//		$.post($(this).attr('action'), $(this).serialize(), function(json) {
+				//	  alert(json);
+					//}, 'json');
+				//});		
+			}else{
+				alert('Server unavailable :( please try again later');
+			}
+		});
     };
+	
     function submit_form(){
         // submit UI info before sending the form
+		$("#upload-form").fadeOut(1000); 
+		$("#all_parameters").fadeOut(1500);
+		$("#results").fadeIn(2000);
         console.log('submitting UI info');
-        submit_UI_info();
-        setTimeout(function(){
-            $("#score_info").html('');
-            osmd.load('static/harmonisations/'+file_name_xml).then( function() {
-                osmd.zoom = 0.4;
-                osmd.render();
-            });
-            document.getElementById('score_play_show').style.display = 'block';
-        }, 5000);
+		submit_UI_info();
+		setTimeout(function(){
+			$("#score_info").html('Harmonisation Completed!');
+			osmd.load('static/harmonisations/'+file_name_xml).then( function() {
+				osmd.zoom = 0.6;
+				osmd.render();
+			});
+		// document.getElementById('score_container').style.display = 'block';
+		}, 5000);
         // console.log('file name is: ', file_name_xml);
         // setTimeout(function(){
         //     if(server_response_success){
@@ -115,45 +186,201 @@
         //     }
         // });
     };
-    function select_idiom(){
-        idiom_name = document.getElementById("idiom_select").value;
-        console.log('selected idiom: ', idiom_name);
+	
+	
+	
+	function select_idiom1(){
+        idiom_name = document.getElementById("idiom_select1").value;
+		var allModes = initJson[idiom_name];
+		// delete all the previous options
+		document.getElementById("mode_select1").options.length = 0;
+		// load the corresponding dropdown menu
+        for(var i=0; i<allModes.length; i++){
+            var option = document.createElement("option");
+            option.value = allModes[i];
+            option.text = allModes[i];
+            document.getElementById("mode_select1").add(option);
+        }	
     }
-    function select_voice_leading(){
-        voiceLeading = document.getElementById("voice_leading_select").value;
-        console.log('selected voice leading: ', voiceLeading);
+	
+	function select_idiom2(){
+        idiom_name = document.getElementById("idiom_select2").value;
+		var allModes = initJson[idiom_name];
+		// delete all the previous options
+		document.getElementById("mode_select2").options.length = 0;
+		// load the corresponding dropdown menu
+        for(var i=0; i<allModes.length; i++){
+            var option = document.createElement("option");
+            option.value = allModes[i];
+            option.text = allModes[i];
+            document.getElementById("mode_select2").add(option);
+        }	
     }
-</script>
-<form id="upload-form" action="{{ url_for('upload') }}" method="POST" enctype="multipart/form-data">
+	
+</script>    
 
-    <strong>Upload a melody file in the required template format for testing harmonisation in the selected style</strong><br>
-    Style: <select id="idiom_select" onchange="select_idiom()"></select>
-    Melody: 
-    <input id="file-picker" type="file" name="file" accept=".xml,.mxl">
-    <div id="msg"></div>
-    <!-- <input type="submit" value="Harmonise!" id="upload-button"> -->
-</form>
-<div>
-    Use chord families: 
-    <input type="checkbox" id="groupingCheckbox" onchange="checkboxChanged(this)">
+<div class="container">
+  <div class="section hero">
+  </div>
+  <div class="section">
+   <form id="upload-form" action="{{ url_for('upload') }}" method="POST" enctype="multipart/form-data">
+	<div class="row">
+	    <div class="col s12 mb35" ><h5 style="text-align:center">Upload a melody file in the required template format for testing harmonisation in the selected style</h5></div>
+		<div class=" mb35 col s6 offset-s3">
+			  <div class="file-field input-field">
+				  <div class="btn">
+					<span><i class="material-icons left">file_upload</i> Upload Melody</span>
+					<input id="file-picker" type="file" name="file" accept=".xml,.mxl">
+				  </div>
+				  <div class="file-path-wrapper">
+					<input class="file-path validate" type="text">
+					<div id="msg"></div>
+				  </div>
+				</div>
+		</div>
+	</div>
+	<div class="row">
+		<h6 style="text-align:center">Not sure how a template should look like? Have a look at <a href="http://ccm.web.auth.gr/melodyinput.html" target="_blank">this page</a> 
+		and/or download <a href="https://www.dropbox.com/s/nu9wxngvnw25k7n/beethovenR2.xml?dl=1" download>this example template file</a></h6>
+	</div>
+    </form>
+    <form id="all_parameters">
+	<div class="row">	
+		<div class="col s6 mb35">
+		    <div class="border-wrapper">
+				 <div class="input-field col s12 mb25">
+					<label>Style 1</label>
+					<select class="browser-default" id="idiom_select1" onchange="select_idiom1()">
+					</select>
+					
+				  </div>
+				  <div class="input-field col s12">
+					<label>Mode 1</label>
+					<select class="browser-default" id="mode_select1">
+					</select>
+					
+				  </div>
+			</div>
+		</div>
+		
+		<div class="col s6 mb35">
+			<div class="border-wrapper">
+			<div class="input-field col s12 mb25">
+			<label>Style 2</label>
+				<select class="browser-default" id="idiom_select2" onchange="select_idiom2()">
+				</select>
+				
+			  </div>
+			  <div class="input-field col s12">
+				<label>Mode 2</label>
+				<select class="browser-default" id="mode_select2">
+				</select>
+				
+			  </div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		 <div class="col s6 offset-s3 mb35">
+			<div class="border-wrapper">
+				 <div class="input-field col s12">
+					<label>Tonal Difference</label>
+					<select class="browser-default" id="tonal_diff">
+					  <option value="0">0</option>
+					  <option value="1">1</option>
+					  <option value="2">2</option>
+					  <option value="3">3</option>
+					  <option value="4">4</option>
+					  <option value="5">5</option>
+					  <option value="6">6</option>
+					  <option value="7">7</option>
+					  <option value="8">8</option>
+					  <option value="9">9</option>
+					  <option value="10">10</option>
+					  <option value="11">11</option>
+					</select>
+					
+				  </div>
+			  </div>
+		 </div>
+	</div>
+	<div class="row">
+	  
+	  <div class="col s6">
+		  <div class="border-wrapper">	
+			<span class="label">Options</span>
+				<div class="input-field col s12">
+				<p>
+				  <label>
+					<input type="checkbox" id="groupingCheckbox"/>
+					<span>Use Chord Families </span>
+				  </label>
+				</p>
+				
+			  </div>
+			  <div class="input-field col s12">
+			    <label>Voice Leading</label>
+				<select class="browser-default" id="voice_leading_select">				 
+				  <option value="NoVL">NoVL</option>
+				  <option value="BBVL">BBVL</option>
+				</select>
+				
+			  </div>
+			</div>
+		</div>
+		 <div class="col s6 submit-area">
+			<div class="border-wrapper">
+			 <div class=" col s6">
+				<span class="label">Harmonise</span>
+				<p>
+				 <label>
+					<input id="radioStyle1" name="styles" value="Style1" type="radio" checked onclick="radioClick(this);" />
+					<span>Style 1</span>
+				  </label>
+				</p>
+				<p>
+				 <label>
+					<input id="radioStyle2" name="styles" value="Style2" type="radio" onclick="radioClick(this);" />
+					<span>Style 2</span>
+				  </label>
+				</p>
+				<p>
+				 <label>
+					<input id="radioBlend" name="styles" value="Blend" type="radio" onclick="radioClick(this);" />
+					<span>Blend</span>
+				  </label>
+				</p>
+			  </div>
+			  <div class="input-field col s6">
+				   <button class="btn mt50 btn-large waves-effect waves-light" id="harmonise" type="button"  name="action" onclick="submit_form()" onsubmit="return false">Harmonise
+						<i class="material-icons right">send</i>
+					  </button>
+			  </div>
+			</div>
+		</div>
+	</div>
+
+	</form>
+		
 </div>
-<div>
-    Voice leading: <select id="voice_leading_select" onchange="select_voice_leading()"></select>
 </div>
-<button id='harmbutt' onclick="submit_form()">Harmonise!</button>
-&nbsp;
-<div>
-  Not sure how a template should look like?
-  Have a look at <a href="http://ccm.web.auth.gr/melodyinput.html" target="_blank">this page</a> and/or download <a href="https://www.dropbox.com/s/nu9wxngvnw25k7n/beethovenR2.xml?dl=1" download>this example template file</a>.
+<div class="container" id="results">
+	<h6 style="text-align:center" id="score_info"></h6>
+	<div id="score_play_show">
+			<div class="row mb50 text-center" id="score_buttons">
+			 <a class="waves-effect waves-light btn-large" onclick="playMidi()"><i class="material-icons left">play_arrow</i>play</a>
+			 <a class="waves-effect waves-light btn-large" onclick="stopMidi()"><i class="material-icons left">stop</i>stop</a>
+			 <a class="waves-effect waves-light btn-large" id="downloadXML"><i class="material-icons left">file_download</i>download</a>
+			</div>
+		<div class="row mb50 text-center">
+		    <div id="score_container"></div>
+			<a class="waves-effect waves-light btn-large" onclick="returnBack()"><i class="material-icons left">home</i>Harmonise Again!</a>
+		</div>
+	</div>
 </div>
-<div id="score_info"></div>
-<div id="score_play_show">
-    <div style="display: flex; flex-direction: row; justify-content: center; align-items: centre; width: 400px">
-        <button onclick="playMidi()">Play</button>
-        <button onclick="stopMidi()">Stop</button>
-    </div>
-    <div id="score_container"></div>
-</div>
+ <script src="/static/js/materialize.min.js"></script>
+ <script src="/static/js/scripts.js"></script>
+ 
 </body>
 <script>
     $("#file-picker").change(function(){
@@ -165,12 +392,14 @@
             var ext= input.files[i].name.substring(input.files[i].name.lastIndexOf('.')+1).toLowerCase()
             if ((ext == 'xml') || (ext == 'mxl'))
             {
-                $("#msg").text("Files are supported")
+                $("#msg").text("The file is supported!")
+				document.getElementById('harmonise').disabled = false;
             }
             else
             {
-                $("#msg").text("Files are NOT supported")
+                $("#msg").text("The file is NOT supported")
                 document.getElementById("file-picker").value ="";
+				document.getElementById('harmonise').disabled = true;
             }
         }
     } );
@@ -189,5 +418,66 @@
     function stopMidi(){
         MIDIjs.stop();
     };
+	
+	$("#downloadXML").click(function(e) {
+	download_file('static/harmonisations/'+file_name_xml, 'static/harmonisations/'+file_name_xml);
+    });
+
+	function radioClick(r){
+		radio_option = r.value;
+		console.log('radio_option: ', radio_option);
+	}
+	
+	function download_file(fileURL, fileName) {
+    // for non-IE
+    if (!window.ActiveXObject) {
+        var save = document.createElement('a');
+        save.href = fileURL;
+        save.target = '_blank';
+        var filename = fileURL.substring(fileURL.lastIndexOf('/')+1);
+        save.download = fileName || filename;
+	       if ( navigator.userAgent.toLowerCase().match(/(ipad|iphone|safari)/) && navigator.userAgent.search("Chrome") < 0) {
+				document.location = save.href;
+        // window event not working here
+			}else{
+		        var evt = new MouseEvent('click', {
+		            'view': window,
+		            'bubbles': true,
+		            'cancelable': false
+		        });
+		        save.dispatchEvent(evt);
+		        (window.URL || window.webkitURL).revokeObjectURL(save.href);
+			}
+    }
+
+    // for IE < 11
+    else if ( !! window.ActiveXObject && document.execCommand)     {
+        var _window = window.open(fileURL, '_blank');
+        _window.document.close();
+        _window.document.execCommand('SaveAs', true, fileName || fileURL)
+        _window.close();
+    }
+    };
+	
+	
+	function returnBack(){
+		MIDIjs.stop();
+		$("#results").fadeOut(1500);
+		$("#upload-form").fadeIn(1500); 
+		$("#all_parameters").fadeIn(2000);
+		// reset default page params
+		// initialise grouping checkbox
+        document.getElementById('groupingCheckbox').checked = false;
+		document.getElementById('harmonise').disabled = true;
+		// initialise radiobuttons
+		document.getElementById('radioStyle1').checked = true;
+		// initialise dropdown menus
+		document.getElementById("idiom_select1").selectedIndex = "0";
+		document.getElementById("idiom_select2").selectedIndex = "0";
+		document.getElementById("mode_select1").selectedIndex = "0";
+		document.getElementById("mode_select2").selectedIndex = "0";
+		document.getElementById("tonal_diff").selectedIndex = "0";
+		document.getElementById("voice_leading_select").value = "NoVL";
+	};
 </script>
 </html>

@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2016-04-05</encoding-date>
+      <encoding-date>2019-05-15</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -170,7 +170,7 @@ Book I
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="532">
+    <measure number="1" width="530">
       <print>
         <system-layout>
           <system-margins>
@@ -197,7 +197,7 @@ Book I
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="168">
+      <note default-x="166">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -207,7 +207,7 @@ Book I
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="259">
+      <note default-x="257">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -221,7 +221,7 @@ Book I
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="333">
+      <note default-x="330">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -236,7 +236,7 @@ Book I
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="378">
+      <note default-x="375">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -247,7 +247,7 @@ Book I
         <stem default-y="-5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="423">
+      <note default-x="421">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -258,7 +258,7 @@ Book I
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="469">
+      <note default-x="466">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -279,7 +279,7 @@ Book I
           <tuplet number="1" placement="above" type="start"/>
         </notations>
       </note>
-      <note default-x="490">
+      <note default-x="487">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -296,7 +296,7 @@ Book I
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
       </note>
-      <note default-x="511">
+      <note default-x="508">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -371,7 +371,7 @@ Book I
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="196">
+    <measure number="3" width="199">
       <note default-x="16">
         <pitch>
           <step>B</step>
@@ -387,7 +387,7 @@ Book I
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="532">
+    <measure number="1" width="530">
       <print>
         <measure-numbering>system</measure-numbering>
       </print>
@@ -407,7 +407,7 @@ Book I
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="168">
+      <note default-x="166">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -418,7 +418,7 @@ Book I
         <type>quarter</type>
         <stem default-y="-19.5">up</stem>
       </note>
-      <note default-x="259">
+      <note default-x="257">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -432,7 +432,7 @@ Book I
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="333">
+      <note default-x="330">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -447,7 +447,7 @@ Book I
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="378">
+      <note default-x="375">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -459,7 +459,7 @@ Book I
         <stem default-y="-20">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="423">
+      <note default-x="421">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -470,7 +470,7 @@ Book I
         <stem default-y="-15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="469">
+      <note default-x="466">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -539,7 +539,7 @@ Book I
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="196">
+    <measure number="3" width="199">
       <note default-x="16">
         <pitch>
           <step>B</step>
@@ -555,7 +555,7 @@ Book I
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="532">
+    <measure number="1" width="530">
       <print>
         <measure-numbering>system</measure-numbering>
       </print>
@@ -575,7 +575,7 @@ Book I
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="168">
+      <note default-x="166">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -585,7 +585,7 @@ Book I
         <type>quarter</type>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="259">
+      <note default-x="257">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -595,7 +595,7 @@ Book I
         <type>quarter</type>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="333">
+      <note default-x="330">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -606,7 +606,7 @@ Book I
         <stem default-y="-10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="378">
+      <note default-x="375">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -617,7 +617,7 @@ Book I
         <stem default-y="-5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="423">
+      <note default-x="421">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -628,7 +628,7 @@ Book I
         <stem default-y="-15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="469">
+      <note default-x="466">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -696,7 +696,7 @@ Book I
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="196">
+    <measure number="3" width="199">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -711,7 +711,7 @@ Book I
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="532">
+    <measure number="1" width="530">
       <print>
         <measure-numbering>system</measure-numbering>
       </print>
@@ -731,7 +731,7 @@ Book I
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="168">
+      <note default-x="166">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -741,7 +741,7 @@ Book I
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="259">
+      <note default-x="257">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -757,7 +757,7 @@ Book I
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="333">
+      <note default-x="330">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -773,7 +773,7 @@ Book I
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="378">
+      <note default-x="375">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -785,7 +785,7 @@ Book I
         <stem default-y="5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="423">
+      <note default-x="421">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -797,7 +797,7 @@ Book I
         <stem default-y="0">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="469">
+      <note default-x="466">
         <pitch>
           <step>F</step>
           <octave>2</octave>
@@ -867,7 +867,7 @@ Book I
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="196">
+    <measure number="3" width="199">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -881,7 +881,7 @@ Book I
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="532">
+    <measure number="1" width="530">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -901,7 +901,7 @@ Book I
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="168">
+      <note default-x="166">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -911,7 +911,7 @@ Book I
         <type>quarter</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="157">
+      <note default-x="153">
         <chord/>
         <pitch>
           <step>A</step>
@@ -924,7 +924,7 @@ Book I
         <accidental>flat</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="168">
+      <note default-x="166">
         <chord/>
         <pitch>
           <step>B</step>
@@ -937,7 +937,7 @@ Book I
         <accidental>flat</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="157">
+      <note default-x="153">
         <chord/>
         <pitch>
           <step>C</step>
@@ -948,7 +948,7 @@ Book I
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="168">
+      <note default-x="166">
         <chord/>
         <pitch>
           <step>D</step>
@@ -959,7 +959,7 @@ Book I
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="157">
+      <note default-x="153">
         <chord/>
         <pitch>
           <step>E</step>
@@ -972,7 +972,7 @@ Book I
         <accidental>flat</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="168">
+      <note default-x="166">
         <chord/>
         <pitch>
           <step>F</step>
@@ -983,13 +983,13 @@ Book I
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="259">
+      <note default-x="257">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="331">
+      <note default-x="328">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
@@ -1005,7 +1005,7 @@ Book I
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="196">
+    <measure number="3" width="199">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -1015,7 +1015,7 @@ Book I
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="532">
+    <measure number="1" width="530">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1035,7 +1035,7 @@ Book I
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="168">
+      <note default-x="166">
         <pitch>
           <step>C</step>
           <alter>-2</alter>
@@ -1046,19 +1046,19 @@ Book I
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="214">
+      <note default-x="211">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="259">
+      <note default-x="257">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="331">
+      <note default-x="328">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
@@ -1074,7 +1074,7 @@ Book I
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="196">
+    <measure number="3" width="199">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -1084,7 +1084,7 @@ Book I
   </part>
   <!--=========================================================-->
   <part id="P7">
-    <measure number="1" width="532">
+    <measure number="1" width="530">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1104,7 +1104,7 @@ Book I
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="168">
+      <note default-x="166">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1114,7 +1114,7 @@ Book I
         <type>quarter</type>
         <stem default-y="6">up</stem>
       </note>
-      <note default-x="259">
+      <note default-x="257">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -1124,7 +1124,7 @@ Book I
         <type>quarter</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="333">
+      <note default-x="330">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1134,7 +1134,7 @@ Book I
         <type>quarter</type>
         <stem default-y="-9.5">up</stem>
       </note>
-      <note default-x="423">
+      <note default-x="421">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -1149,7 +1149,7 @@ Book I
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="168">
+      <note default-x="166">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -1160,7 +1160,7 @@ Book I
         <type>quarter</type>
         <stem default-y="-84">down</stem>
       </note>
-      <note default-x="259">
+      <note default-x="257">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -1170,7 +1170,7 @@ Book I
         <type>quarter</type>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="333">
+      <note default-x="330">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -1181,7 +1181,7 @@ Book I
         <type>quarter</type>
         <stem default-y="-84">down</stem>
       </note>
-      <note default-x="423">
+      <note default-x="421">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -1281,7 +1281,7 @@ Book I
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="196">
+    <measure number="3" width="199">
       <note default-x="16">
         <pitch>
           <step>B</step>
@@ -1309,7 +1309,7 @@ Book I
   </part>
   <!--=========================================================-->
   <part id="P8">
-    <measure number="1" width="532">
+    <measure number="1" width="530">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1329,7 +1329,7 @@ Book I
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="168">
+      <note default-x="166">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -1339,7 +1339,7 @@ Book I
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="259">
+      <note default-x="257">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -1349,7 +1349,7 @@ Book I
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="333">
+      <note default-x="330">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -1359,7 +1359,7 @@ Book I
         <type>quarter</type>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="423">
+      <note default-x="421">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -1372,7 +1372,7 @@ Book I
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="168">
+      <note default-x="166">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -1382,7 +1382,7 @@ Book I
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="259">
+      <note default-x="257">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -1394,7 +1394,7 @@ Book I
         <accidental>flat</accidental>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="333">
+      <note default-x="330">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -1405,7 +1405,7 @@ Book I
         <type>quarter</type>
         <stem default-y="-58.5">down</stem>
       </note>
-      <note default-x="423">
+      <note default-x="421">
         <pitch>
           <step>F</step>
           <octave>2</octave>
@@ -1509,7 +1509,7 @@ Book I
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="196">
+    <measure number="3" width="199">
       <note default-x="16">
         <pitch>
           <step>G</step>

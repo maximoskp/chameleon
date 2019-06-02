@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2016-05-04</encoding-date>
+      <encoding-date>2019-05-09</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -151,7 +151,7 @@ Fetes
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="597">
+    <measure number="1" width="596">
       <print>
         <system-layout>
           <system-margins>
@@ -198,50 +198,43 @@ Fetes
         <accidental>flat</accidental>
         <stem default-y="-20">down</stem>
       </note>
-      <forward>
+      <note default-x="209">
+        <rest/>
         <duration>1</duration>
         <voice>1</voice>
-      </forward>
-      <forward>
+        <type>eighth</type>
+      </note>
+      <note default-x="241">
+        <rest/>
         <duration>2</duration>
         <voice>1</voice>
-      </forward>
-      <forward>
+        <type>quarter</type>
+      </note>
+      <note default-x="321">
+        <rest/>
         <duration>4</duration>
         <voice>1</voice>
-      </forward>
-      <forward>
+        <type>half</type>
+      </note>
+      <note default-x="506">
+        <rest/>
         <duration>2</duration>
         <voice>1</voice>
-      </forward>
+        <type>quarter</type>
+      </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="428">
-      <forward>
-        <duration>1</duration>
+    <measure number="2" width="429">
+      <note>
+        <rest measure="yes"/>
+        <duration>10</duration>
         <voice>1</voice>
-      </forward>
-      <forward>
-        <duration>1</duration>
-        <voice>1</voice>
-      </forward>
-      <forward>
-        <duration>2</duration>
-        <voice>1</voice>
-      </forward>
-      <forward>
-        <duration>4</duration>
-        <voice>1</voice>
-      </forward>
-      <forward>
-        <duration>2</duration>
-        <voice>1</voice>
-      </forward>
+      </note>
     </measure>
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="597">
+    <measure number="1" width="596">
       <print>
         <measure-numbering>system</measure-numbering>
       </print>
@@ -324,7 +317,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="199">
+      <note default-x="198">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -339,7 +332,7 @@ Fetes
         <stem default-y="-32.5">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="199">
+      <note default-x="198">
         <chord/>
         <pitch>
           <step>C</step>
@@ -355,7 +348,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="199">
+      <note default-x="198">
         <chord/>
         <pitch>
           <step>E</step>
@@ -514,7 +507,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="284">
+      <note default-x="283">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -533,7 +526,7 @@ Fetes
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="284">
+      <note default-x="283">
         <chord/>
         <pitch>
           <step>B</step>
@@ -664,7 +657,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="394">
+      <note default-x="393">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -682,7 +675,7 @@ Fetes
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="394">
+      <note default-x="393">
         <chord/>
         <pitch>
           <step>B</step>
@@ -698,7 +691,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="394">
+      <note default-x="393">
         <chord/>
         <pitch>
           <step>D</step>
@@ -713,7 +706,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="415">
+      <note default-x="414">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -731,7 +724,7 @@ Fetes
           <tuplet number="1" placement="below" type="start"/>
         </notations>
       </note>
-      <note default-x="415">
+      <note default-x="414">
         <chord/>
         <pitch>
           <step>F</step>
@@ -747,7 +740,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="415">
+      <note default-x="414">
         <chord/>
         <pitch>
           <step>A</step>
@@ -762,7 +755,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="415">
+      <note default-x="414">
         <chord/>
         <pitch>
           <step>D</step>
@@ -777,7 +770,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="436">
+      <note default-x="435">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -793,7 +786,7 @@ Fetes
         <stem default-y="-52">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="436">
+      <note default-x="435">
         <chord/>
         <pitch>
           <step>A</step>
@@ -808,7 +801,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="458">
+      <note default-x="457">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -827,7 +820,7 @@ Fetes
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="458">
+      <note default-x="457">
         <chord/>
         <pitch>
           <step>A</step>
@@ -842,7 +835,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="507">
+      <note default-x="506">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -861,7 +854,7 @@ Fetes
           <tuplet number="1" placement="below" type="start"/>
         </notations>
       </note>
-      <note default-x="507">
+      <note default-x="506">
         <chord/>
         <pitch>
           <step>A</step>
@@ -878,7 +871,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="507">
+      <note default-x="506">
         <chord/>
         <pitch>
           <step>C</step>
@@ -894,7 +887,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="507">
+      <note default-x="506">
         <chord/>
         <pitch>
           <step>F</step>
@@ -910,7 +903,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="556">
+      <note default-x="555">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -926,7 +919,7 @@ Fetes
         <stem default-y="-41">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="556">
+      <note default-x="555">
         <chord/>
         <pitch>
           <step>A</step>
@@ -943,7 +936,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="556">
+      <note default-x="555">
         <chord/>
         <pitch>
           <step>C</step>
@@ -959,7 +952,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="578">
+      <note default-x="577">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -977,7 +970,7 @@ Fetes
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="578">
+      <note default-x="577">
         <chord/>
         <pitch>
           <step>A</step>
@@ -993,7 +986,7 @@ Fetes
         </time-modification>
         <stem>down</stem>
       </note>
-      <note default-x="578">
+      <note default-x="577">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1010,7 +1003,7 @@ Fetes
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="428">
+    <measure number="2" width="429">
       <note default-x="23">
         <pitch>
           <step>A</step>
@@ -1077,7 +1070,7 @@ Fetes
         </time-modification>
         <stem>up</stem>
       </note>
-      <note default-x="73">
+      <note default-x="72">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1095,7 +1088,7 @@ Fetes
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="73">
+      <note default-x="72">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1111,7 +1104,7 @@ Fetes
         </time-modification>
         <stem>up</stem>
       </note>
-      <note default-x="73">
+      <note default-x="72">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1238,7 +1231,7 @@ Fetes
         </time-modification>
         <stem>up</stem>
       </note>
-      <note default-x="177">
+      <note default-x="178">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -1305,7 +1298,7 @@ Fetes
         </time-modification>
         <stem>up</stem>
       </note>
-      <note default-x="243">
+      <note default-x="244">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1324,7 +1317,7 @@ Fetes
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="243">
+      <note default-x="244">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1340,7 +1333,7 @@ Fetes
         </time-modification>
         <stem>up</stem>
       </note>
-      <note default-x="243">
+      <note default-x="244">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1373,7 +1366,7 @@ Fetes
           <tuplet number="1" placement="above" type="start"/>
         </notations>
       </note>
-      <note default-x="280">
+      <note default-x="281">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1388,7 +1381,7 @@ Fetes
         <stem default-y="70">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="280">
+      <note default-x="281">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1404,7 +1397,7 @@ Fetes
         </time-modification>
         <stem>up</stem>
       </note>
-      <note default-x="280">
+      <note default-x="281">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1419,7 +1412,7 @@ Fetes
         </time-modification>
         <stem>up</stem>
       </note>
-      <note default-x="302">
+      <note default-x="303">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1437,7 +1430,7 @@ Fetes
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="302">
+      <note default-x="303">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1453,7 +1446,7 @@ Fetes
         </time-modification>
         <stem>up</stem>
       </note>
-      <note default-x="302">
+      <note default-x="303">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1487,7 +1480,7 @@ Fetes
           <tuplet number="1" placement="above" type="start"/>
         </notations>
       </note>
-      <note default-x="388">
+      <note default-x="389">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -1503,7 +1496,7 @@ Fetes
         <stem default-y="80">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="388">
+      <note default-x="389">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1520,7 +1513,7 @@ Fetes
         </time-modification>
         <stem>up</stem>
       </note>
-      <note default-x="388">
+      <note default-x="389">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1536,7 +1529,7 @@ Fetes
         </time-modification>
         <stem>up</stem>
       </note>
-      <note default-x="409">
+      <note default-x="410">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -1554,7 +1547,7 @@ Fetes
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="409">
+      <note default-x="410">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1570,7 +1563,7 @@ Fetes
         </time-modification>
         <stem>up</stem>
       </note>
-      <note default-x="409">
+      <note default-x="410">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1633,7 +1626,7 @@ Fetes
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="128">
+      <note default-x="129">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -1645,7 +1638,7 @@ Fetes
         <stem default-y="-45">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="128">
+      <note default-x="129">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1656,7 +1649,7 @@ Fetes
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="177">
+      <note default-x="178">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -1703,7 +1696,7 @@ Fetes
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="291">
+      <note default-x="292">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1715,7 +1708,7 @@ Fetes
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="291">
+      <note default-x="292">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1738,7 +1731,7 @@ Fetes
         <stem default-y="-45">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="398">
+      <note default-x="399">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -1751,7 +1744,7 @@ Fetes
         <stem default-y="-40">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="398">
+      <note default-x="399">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1767,7 +1760,7 @@ Fetes
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="597">
+    <measure number="1" width="596">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1796,7 +1789,7 @@ Fetes
         <type>eighth</type>
         <stem default-y="-60">down</stem>
       </note>
-      <note default-x="166">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1820,7 +1813,7 @@ Fetes
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="166">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1842,7 +1835,7 @@ Fetes
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="166">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1868,7 +1861,7 @@ Fetes
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="210">
+      <note default-x="209">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -1886,7 +1879,7 @@ Fetes
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="507">
+      <note default-x="506">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -1894,7 +1887,7 @@ Fetes
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="428">
+    <measure number="2" width="429">
       <note>
         <rest measure="yes"/>
         <duration>10</duration>
@@ -1904,7 +1897,7 @@ Fetes
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="597">
+    <measure number="1" width="596">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1945,7 +1938,7 @@ Fetes
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="507">
+      <note default-x="506">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -1953,7 +1946,7 @@ Fetes
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="428">
+    <measure number="2" width="429">
       <note default-x="23">
         <pitch>
           <step>E</step>
@@ -1968,7 +1961,7 @@ Fetes
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="597">
+    <measure number="1" width="596">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2088,7 +2081,7 @@ Fetes
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="415">
+      <note default-x="414">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -2098,7 +2091,7 @@ Fetes
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="415">
+      <note default-x="414">
         <chord/>
         <pitch>
           <step>F</step>
@@ -2110,7 +2103,7 @@ Fetes
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="415">
+      <note default-x="414">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2121,7 +2114,7 @@ Fetes
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="507">
+      <note default-x="506">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -2132,7 +2125,7 @@ Fetes
         <accidental>natural</accidental>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="507">
+      <note default-x="506">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2145,7 +2138,7 @@ Fetes
         <accidental>flat</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="507">
+      <note default-x="506">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2159,7 +2152,7 @@ Fetes
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="428">
+    <measure number="2" width="429">
       <note default-x="23">
         <pitch>
           <step>A</step>
@@ -2226,7 +2219,7 @@ Fetes
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="177">
+      <note default-x="178">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -2236,7 +2229,7 @@ Fetes
         <type>quarter</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="177">
+      <note default-x="178">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2249,7 +2242,7 @@ Fetes
         <accidental>flat</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="177">
+      <note default-x="178">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2333,7 +2326,7 @@ Fetes
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="597">
+    <measure number="1" width="596">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2352,18 +2345,112 @@ Fetes
           <line>4</line>
         </clef>
       </attributes>
-      <note>
-        <rest measure="yes"/>
-        <duration>10</duration>
+      <note default-x="177">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
         <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-35">down</stem>
+      </note>
+      <note default-x="241">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-50">down</stem>
+      </note>
+      <note default-x="323">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem default-y="-40">down</stem>
+      </note>
+      <note default-x="414">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-55">down</stem>
+      </note>
+      <note default-x="506">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem default-y="-45">down</stem>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="428">
-      <note>
-        <rest measure="yes"/>
-        <duration>10</duration>
+    <measure number="2" width="429">
+      <note default-x="23">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
         <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-35">down</stem>
+      </note>
+      <note default-x="91">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-50">down</stem>
+      </note>
+      <note default-x="178">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem default-y="-40">down</stem>
+      </note>
+      <note default-x="262">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-55">down</stem>
+      </note>
+      <note default-x="341">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem default-y="-45">down</stem>
       </note>
     </measure>
   </part>

@@ -5,9 +5,9 @@
   <identification>
     <creator type="composer">Bach, Chorale, "Jesu, der du meine Seele"</creator>
     <encoding>
-      <software>Finale 2014 for Mac</software>
-      <software>Dolet Light for Finale 2014</software>
-      <encoding-date>2015-09-29</encoding-date>
+      <software>Finale 2014.5 for Windows</software>
+      <software>Dolet Light for Finale 2014.5</software>
+      <encoding-date>2019-01-25</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -257,7 +257,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="285">
+    <measure number="4" width="284">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -274,7 +274,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="253">
+    <measure number="6" width="252">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -282,7 +282,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="274">
+    <measure number="7" width="275">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -290,7 +290,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="332">
+    <measure number="8" width="336">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -299,7 +299,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="251">
+    <measure number="9" width="250">
       <barline location="left">
         <bar-style>heavy-light</bar-style>
         <repeat direction="forward" winged="none"/>
@@ -317,7 +317,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="236">
+    <measure number="10" width="235">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -339,7 +339,7 @@ The Eagle
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="191">
+      <note default-x="190">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -352,7 +352,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="266">
+    <measure number="11" width="265">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -364,7 +364,7 @@ The Eagle
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="61">
+      <note default-x="60">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -375,7 +375,7 @@ The Eagle
         <stem default-y="-52">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="105">
+      <note default-x="104">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -411,7 +411,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="12" width="251">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -429,8 +429,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="298">
-      <note default-x="16">
+    <measure number="13" width="297">
+      <note default-x="17">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -452,7 +452,7 @@ The Eagle
         <stem default-y="10">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -462,7 +462,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="197">
+      <note default-x="196">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -472,7 +472,7 @@ The Eagle
         <type>eighth</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="247">
+      <note default-x="246">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -484,8 +484,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="254">
-      <note default-x="16">
+    <measure number="14" width="255">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -495,7 +495,7 @@ The Eagle
         <type>half</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="162">
+      <note default-x="163">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -519,7 +519,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="282">
+    <measure number="15" width="283">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -531,7 +531,7 @@ The Eagle
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="58">
+      <note default-x="59">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -564,7 +564,7 @@ The Eagle
         <stem default-y="-60">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -576,9 +576,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="318">
+    <measure number="16" width="317">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -588,7 +588,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="230">
+      <note default-x="229">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -599,7 +599,7 @@ The Eagle
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="274">
+      <note default-x="273">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -613,7 +613,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="17" width="259">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -689,7 +689,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="19" width="266">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -719,7 +719,7 @@ The Eagle
         <type>eighth</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="217">
+      <note default-x="218">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -733,7 +733,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="20" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -743,7 +743,7 @@ The Eagle
         <type>half</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="197">
+      <note default-x="196">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -754,7 +754,7 @@ The Eagle
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="240">
+      <note default-x="239">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -855,7 +855,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="249">
+    <measure number="23" width="250">
       <note default-x="16">
         <pitch>
           <step>B</step>
@@ -888,7 +888,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="176">
+      <note default-x="177">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -902,7 +902,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="24" width="281">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -912,7 +912,7 @@ The Eagle
         <type>half</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -923,7 +923,7 @@ The Eagle
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="238">
+      <note default-x="237">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -936,7 +936,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="269">
+    <measure number="25" width="268">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -959,7 +959,7 @@ The Eagle
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="99">
+      <note default-x="98">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -994,7 +994,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="26" width="277">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1026,8 +1026,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="27" width="258">
-      <note default-x="17">
+    <measure number="27" width="259">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1037,7 +1037,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="85">
+      <note default-x="86">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1059,7 +1059,7 @@ The Eagle
         <stem default-y="-55">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="171">
+      <note default-x="172">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1070,7 +1070,7 @@ The Eagle
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="214">
+      <note default-x="215">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1083,12 +1083,12 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="291">
+    <measure number="28" width="290">
       <print new-page="yes"/>
       <barline location="left">
         <ending default-y="40" end-length="30" font-size="8.3" number="1" type="start">1</ending>
       </barline>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1162,7 +1162,7 @@ The Eagle
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="237">
+    <measure number="30" width="238">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -1170,7 +1170,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="269">
+    <measure number="31" width="270">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -1178,7 +1178,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="294">
+    <measure number="32" width="293">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -1203,7 +1203,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="35" width="269">
+    <measure number="35" width="270">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -1220,7 +1220,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="37" width="213">
+    <measure number="37" width="212">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -1236,7 +1236,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="39" width="283">
+    <measure number="39" width="284">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -1244,7 +1244,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="40" width="292">
+    <measure number="40" width="291">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -1269,7 +1269,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="43" width="263">
+    <measure number="43" width="264">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -1277,7 +1277,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="44" width="250">
+    <measure number="44" width="249">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -1310,7 +1310,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="48" width="220">
+    <measure number="48" width="221">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -1586,7 +1586,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="285">
+    <measure number="4" width="284">
       <print new-page="yes"/>
       <note default-x="59">
         <pitch>
@@ -1721,7 +1721,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="253">
+    <measure number="6" width="252">
       <note default-x="16">
         <pitch>
           <step>B</step>
@@ -1743,7 +1743,7 @@ The Eagle
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="95">
+      <note default-x="94">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -1753,7 +1753,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="95">
+      <note default-x="94">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1787,7 +1787,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="274">
+    <measure number="7" width="275">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -1810,7 +1810,7 @@ The Eagle
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="66">
+      <note default-x="65">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -1821,7 +1821,7 @@ The Eagle
         <stem default-y="10">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="66">
+      <note default-x="65">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1853,7 +1853,7 @@ The Eagle
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="194">
+      <note default-x="195">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -1863,7 +1863,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="194">
+      <note default-x="195">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1876,9 +1876,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="332">
+    <measure number="8" width="336">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="59">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -1888,7 +1888,7 @@ The Eagle
         <type>eighth</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="59">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1899,13 +1899,13 @@ The Eagle
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="101">
+      <note default-x="105">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="148">
+      <note default-x="151">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1916,7 +1916,7 @@ The Eagle
         <stem default-y="-60">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="194">
+      <note default-x="197">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1927,7 +1927,7 @@ The Eagle
         <stem default-y="-58">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="239">
+      <note default-x="243">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1938,7 +1938,7 @@ The Eagle
         <stem default-y="-57">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="285">
+      <note default-x="289">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1951,7 +1951,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="251">
+    <measure number="9" width="250">
       <barline location="left">
         <bar-style>heavy-light</bar-style>
         <repeat direction="forward" winged="none"/>
@@ -1969,7 +1969,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="236">
+    <measure number="10" width="235">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -1991,7 +1991,7 @@ The Eagle
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="191">
+      <note default-x="190">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2004,7 +2004,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="266">
+    <measure number="11" width="265">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -2016,7 +2016,7 @@ The Eagle
         <stem default-y="30">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="61">
+      <note default-x="60">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -2027,7 +2027,7 @@ The Eagle
         <stem default-y="28.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="105">
+      <note default-x="104">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2084,7 +2084,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="12" width="251">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2106,7 +2106,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2122,8 +2122,8 @@ The Eagle
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="298">
-      <note default-x="16">
+    <measure number="13" width="297">
+      <note default-x="17">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2145,7 +2145,7 @@ The Eagle
         <stem default-y="10">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -2155,7 +2155,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="197">
+      <note default-x="196">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2166,7 +2166,7 @@ The Eagle
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="247">
+      <note default-x="246">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -2180,7 +2180,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2202,7 +2202,7 @@ The Eagle
         <stem default-y="-85">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2212,7 +2212,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-83">down</stem>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2223,7 +2223,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="197">
+      <note default-x="196">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2233,7 +2233,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-83">down</stem>
       </note>
-      <note default-x="197">
+      <note default-x="196">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2246,8 +2246,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="254">
-      <note default-x="16">
+    <measure number="14" width="255">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -2257,7 +2257,7 @@ The Eagle
         <type>half</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2268,7 +2268,7 @@ The Eagle
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2279,7 +2279,7 @@ The Eagle
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="162">
+      <note default-x="163">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2303,7 +2303,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="282">
+    <measure number="15" width="283">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -2315,7 +2315,7 @@ The Eagle
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="58">
+      <note default-x="59">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2348,7 +2348,7 @@ The Eagle
         <stem default-y="-60">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2360,9 +2360,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="318">
+    <measure number="16" width="317">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2372,7 +2372,7 @@ The Eagle
         <type>half</type>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2383,7 +2383,7 @@ The Eagle
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2394,7 +2394,7 @@ The Eagle
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="230">
+      <note default-x="229">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2405,7 +2405,7 @@ The Eagle
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="274">
+      <note default-x="273">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2419,7 +2419,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="17" width="259">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -2542,7 +2542,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="19" width="266">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2552,7 +2552,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2594,7 +2594,7 @@ The Eagle
         <type>eighth</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="217">
+      <note default-x="218">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -2607,7 +2607,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2638,7 +2638,7 @@ The Eagle
         <stem default-y="-85">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="217">
+      <note default-x="218">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2674,7 +2674,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="20" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -2684,7 +2684,7 @@ The Eagle
         <type>half</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2695,7 +2695,7 @@ The Eagle
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2706,7 +2706,7 @@ The Eagle
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="197">
+      <note default-x="196">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2717,7 +2717,7 @@ The Eagle
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="240">
+      <note default-x="239">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2821,7 +2821,7 @@ The Eagle
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="186">
+      <note default-x="185">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -2871,7 +2871,7 @@ The Eagle
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="249">
+    <measure number="23" width="250">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -2948,7 +2948,7 @@ The Eagle
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="176">
+      <note default-x="177">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2958,7 +2958,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="176">
+      <note default-x="177">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2969,7 +2969,7 @@ The Eagle
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="176">
+      <note default-x="177">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2984,7 +2984,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="24" width="281">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -2994,7 +2994,7 @@ The Eagle
         <type>half</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3005,7 +3005,7 @@ The Eagle
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3016,7 +3016,7 @@ The Eagle
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -3027,7 +3027,7 @@ The Eagle
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="238">
+      <note default-x="237">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -3040,7 +3040,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="269">
+    <measure number="25" width="268">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -3063,7 +3063,7 @@ The Eagle
         <stem default-y="-57">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="99">
+      <note default-x="98">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -3098,7 +3098,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="26" width="277">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -3108,7 +3108,7 @@ The Eagle
         <type>half</type>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3119,7 +3119,7 @@ The Eagle
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3154,8 +3154,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="27" width="258">
-      <note default-x="17">
+    <measure number="27" width="259">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -3165,7 +3165,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="85">
+      <note default-x="86">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -3187,7 +3187,7 @@ The Eagle
         <stem default-y="15">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="171">
+      <note default-x="172">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3198,7 +3198,7 @@ The Eagle
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="214">
+      <note default-x="215">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -3212,7 +3212,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3233,12 +3233,12 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="291">
+    <measure number="28" width="290">
       <print new-page="yes"/>
       <barline location="left">
         <ending default-y="40" end-length="30" font-size="8.3" number="1" type="start">1</ending>
       </barline>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3260,7 +3260,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -3342,7 +3342,7 @@ The Eagle
         <stem default-y="20">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -3407,7 +3407,7 @@ The Eagle
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="237">
+    <measure number="30" width="238">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -3506,7 +3506,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="269">
+    <measure number="31" width="270">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -3518,7 +3518,7 @@ The Eagle
         <stem default-y="25">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="59">
+      <note default-x="58">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -3529,7 +3529,7 @@ The Eagle
         <stem default-y="25">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="100">
+      <note default-x="101">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3540,7 +3540,7 @@ The Eagle
         <stem default-y="25">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="142">
+      <note default-x="143">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -3551,7 +3551,7 @@ The Eagle
         <stem default-y="25">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -3562,7 +3562,7 @@ The Eagle
         <stem default-y="25">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="226">
+      <note default-x="227">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -3597,7 +3597,7 @@ The Eagle
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="59">
+      <note default-x="58">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -3606,7 +3606,7 @@ The Eagle
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="100">
+      <note default-x="101">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -3626,9 +3626,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="294">
+    <measure number="32" width="293">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -3638,7 +3638,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="124">
+      <note default-x="123">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -3671,7 +3671,7 @@ The Eagle
         <stem default-y="21.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="251">
+      <note default-x="250">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3694,7 +3694,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="124">
+      <note default-x="123">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -3727,7 +3727,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="33" width="265">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3737,7 +3737,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="87">
+      <note default-x="88">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -3757,7 +3757,7 @@ The Eagle
         <stem default-y="27.5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="175">
+      <note default-x="176">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -3782,7 +3782,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -3792,7 +3792,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3824,7 +3824,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="34" width="258">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -3845,7 +3845,7 @@ The Eagle
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3868,7 +3868,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="35" width="269">
+    <measure number="35" width="270">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -3891,7 +3891,7 @@ The Eagle
         <stem default-y="30">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="101">
+      <note default-x="100">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -3913,7 +3913,7 @@ The Eagle
         <stem default-y="30">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -3924,7 +3924,7 @@ The Eagle
         <stem default-y="30">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="226">
+      <note default-x="227">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -3966,7 +3966,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -4001,7 +4001,7 @@ The Eagle
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4012,7 +4012,7 @@ The Eagle
         <stem default-y="15">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="216">
+      <note default-x="215">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -4023,7 +4023,7 @@ The Eagle
         <stem default-y="15">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="261">
+      <note default-x="260">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -4058,7 +4058,7 @@ The Eagle
         <stem default-y="-90">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -4069,7 +4069,7 @@ The Eagle
         <stem default-y="-90">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="216">
+      <note default-x="215">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -4080,7 +4080,7 @@ The Eagle
         <stem default-y="-90">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="261">
+      <note default-x="260">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -4093,7 +4093,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="37" width="213">
+    <measure number="37" width="212">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -4146,7 +4146,7 @@ The Eagle
         <stem default-y="5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="59">
+      <note default-x="58">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -4157,7 +4157,7 @@ The Eagle
         <stem default-y="5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="104">
+      <note default-x="103">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -4190,7 +4190,7 @@ The Eagle
         <stem default-y="5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="238">
+      <note default-x="237">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -4203,7 +4203,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="39" width="283">
+    <measure number="39" width="284">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -4215,7 +4215,7 @@ The Eagle
         <dot/>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="140">
+      <note default-x="141">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4237,7 +4237,7 @@ The Eagle
         <stem default-y="-57">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="235">
+      <note default-x="236">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -4250,9 +4250,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="40" width="292">
+    <measure number="40" width="291">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -4284,7 +4284,7 @@ The Eagle
         <stem default-y="18.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="207">
+      <note default-x="206">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4295,7 +4295,7 @@ The Eagle
         <stem default-y="16.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="249">
+      <note default-x="248">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -4318,7 +4318,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="124">
+      <note default-x="123">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -4327,7 +4327,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="207">
+      <note default-x="206">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -4337,7 +4337,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-83">down</stem>
       </note>
-      <note default-x="207">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4395,7 +4395,7 @@ The Eagle
         <stem default-y="-63">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="184">
+      <note default-x="183">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4488,8 +4488,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="43" width="263">
-      <note default-x="17">
+    <measure number="43" width="264">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4522,7 +4522,7 @@ The Eagle
         <stem default-y="17.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="218">
+      <note default-x="219">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -4536,7 +4536,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -4546,7 +4546,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="175">
+      <note default-x="176">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -4557,7 +4557,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="44" width="250">
+    <measure number="44" width="249">
       <print new-page="yes"/>
       <note default-x="53">
         <pitch>
@@ -4580,7 +4580,7 @@ The Eagle
         <stem default-y="20">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="145">
+      <note default-x="144">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -4648,7 +4648,7 @@ The Eagle
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="76">
+      <note default-x="75">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4659,7 +4659,7 @@ The Eagle
         <stem default-y="-60">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="113">
+      <note default-x="112">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -4681,7 +4681,7 @@ The Eagle
         <stem default-y="-55">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="186">
+      <note default-x="185">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -4712,7 +4712,7 @@ The Eagle
         <stem default-y="-61">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -4723,7 +4723,7 @@ The Eagle
         <stem default-y="-62">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="118">
+      <note default-x="119">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -4783,7 +4783,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="48" width="220">
+    <measure number="48" width="221">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -4816,19 +4816,19 @@ The Eagle
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="54">
+      <note default-x="53">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="90">
+      <note default-x="91">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5010,7 +5010,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="285">
+    <measure number="4" width="284">
       <print new-page="yes"/>
       <note default-x="59">
         <pitch>
@@ -5118,7 +5118,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="253">
+    <measure number="6" width="252">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -5168,8 +5168,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="274">
-      <note default-x="16">
+    <measure number="7" width="275">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5180,7 +5180,7 @@ The Eagle
         <dot/>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5192,7 +5192,7 @@ The Eagle
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -5206,9 +5206,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="332">
+    <measure number="8" width="336">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="59">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5218,7 +5218,7 @@ The Eagle
         <type>eighth</type>
         <stem default-y="-70">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="59">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5229,7 +5229,7 @@ The Eagle
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="59">
         <chord/>
         <pitch>
           <step>A</step>
@@ -5240,19 +5240,19 @@ The Eagle
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="101">
+      <note default-x="105">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="148">
+      <note default-x="151">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="240">
+      <note default-x="243">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5260,7 +5260,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="251">
+    <measure number="9" width="250">
       <barline location="left">
         <bar-style>heavy-light</bar-style>
         <repeat direction="forward" winged="none"/>
@@ -5320,7 +5320,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="236">
+    <measure number="10" width="235">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -5342,7 +5342,7 @@ The Eagle
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="89">
+      <note default-x="88">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -5352,7 +5352,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="89">
+      <note default-x="88">
         <chord/>
         <pitch>
           <step>F</step>
@@ -5363,7 +5363,7 @@ The Eagle
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="89">
+      <note default-x="88">
         <chord/>
         <pitch>
           <step>A</step>
@@ -5376,7 +5376,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="266">
+    <measure number="11" width="265">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -5442,7 +5442,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="12" width="251">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -5464,7 +5464,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5486,8 +5486,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="298">
-      <note default-x="16">
+    <measure number="13" width="297">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5497,7 +5497,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5508,7 +5508,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -5519,7 +5519,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -5529,7 +5529,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="197">
+      <note default-x="196">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -5541,8 +5541,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="254">
-      <note default-x="16">
+    <measure number="14" width="255">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5552,7 +5552,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5563,7 +5563,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -5603,7 +5603,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="282">
+    <measure number="15" width="283">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -5614,7 +5614,7 @@ The Eagle
         <type>half</type>
         <stem default-y="28.5">up</stem>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -5660,7 +5660,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="103">
+      <note default-x="104">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -5669,7 +5669,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -5680,9 +5680,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="318">
+    <measure number="16" width="317">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -5715,7 +5715,7 @@ The Eagle
         <stem default-y="47">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="187">
+      <note default-x="186">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5726,7 +5726,7 @@ The Eagle
         <stem default-y="45">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="230">
+      <note default-x="229">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5739,7 +5739,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5859,7 +5859,7 @@ The Eagle
         <stem default-y="40">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="173">
+      <note default-x="172">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5894,7 +5894,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="19" width="266">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -5925,7 +5925,7 @@ The Eagle
         <stem default-y="-45">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="217">
+      <note default-x="218">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -5940,7 +5940,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="20" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5950,7 +5950,7 @@ The Eagle
         <type>half</type>
         <stem default-y="28.5">up</stem>
       </note>
-      <note default-x="197">
+      <note default-x="196">
         <rest>
           <display-step>C</display-step>
           <display-octave>3</display-octave>
@@ -6064,7 +6064,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="186">
+      <note default-x="185">
         <rest>
           <display-step>C</display-step>
           <display-octave>3</display-octave>
@@ -6166,7 +6166,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="249">
+    <measure number="23" width="250">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -6209,7 +6209,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="176">
+      <note default-x="177">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -6223,7 +6223,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="24" width="281">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6254,7 +6254,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="126">
+      <note default-x="125">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -6264,7 +6264,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="126">
+      <note default-x="125">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6286,7 +6286,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="269">
+    <measure number="25" width="268">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -6308,7 +6308,7 @@ The Eagle
         <stem default-y="40">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="226">
+      <note default-x="225">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -6352,7 +6352,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="184">
+      <note default-x="183">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -6364,7 +6364,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="26" width="277">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -6397,7 +6397,7 @@ The Eagle
         <stem default-y="47">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="147">
+      <note default-x="146">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6421,7 +6421,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6451,8 +6451,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="27" width="258">
-      <note default-x="17">
+    <measure number="27" width="259">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -6462,7 +6462,7 @@ The Eagle
         <type>half</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="171">
+      <note default-x="172">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -6473,7 +6473,7 @@ The Eagle
         <stem default-y="40">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="214">
+      <note default-x="215">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -6487,7 +6487,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6508,12 +6508,12 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="291">
+    <measure number="28" width="290">
       <print new-page="yes"/>
       <barline location="left">
         <ending default-y="40" end-length="30" font-size="8.3" number="1" type="start">1</ending>
       </barline>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -6558,7 +6558,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6682,7 +6682,7 @@ The Eagle
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="237">
+    <measure number="30" width="238">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -6722,7 +6722,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="269">
+    <measure number="31" width="270">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -6744,7 +6744,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="100">
+      <note default-x="101">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -6754,7 +6754,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="23.5">up</stem>
       </note>
-      <note default-x="100">
+      <note default-x="101">
         <chord/>
         <pitch>
           <step>G</step>
@@ -6765,7 +6765,7 @@ The Eagle
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <pitch>
           <step>F</step>
           <octave>2</octave>
@@ -6775,7 +6775,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <chord/>
         <pitch>
           <step>F</step>
@@ -6788,9 +6788,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="294">
+    <measure number="32" width="293">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -6800,7 +6800,7 @@ The Eagle
         <type>half</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6835,7 +6835,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="33" width="265">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -6845,7 +6845,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -6856,7 +6856,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="87">
+      <note default-x="88">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -6881,7 +6881,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="34" width="258">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6891,7 +6891,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6902,13 +6902,13 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="85">
+      <note default-x="86">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -6943,7 +6943,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="35" width="269">
+    <measure number="35" width="270">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -6954,7 +6954,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="39">up</stem>
       </note>
-      <note default-x="101">
+      <note default-x="100">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -6976,7 +6976,7 @@ The Eagle
         <stem default-y="35">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -7017,7 +7017,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -7040,7 +7040,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="216">
+      <note default-x="215">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -7052,7 +7052,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="37" width="213">
+    <measure number="37" width="212">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -7085,7 +7085,7 @@ The Eagle
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="138">
+      <note default-x="137">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -7095,7 +7095,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="138">
+      <note default-x="137">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7119,7 +7119,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="28.5">up</stem>
       </note>
-      <note default-x="104">
+      <note default-x="103">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -7140,7 +7140,7 @@ The Eagle
         <stem default-y="35">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="238">
+      <note default-x="237">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -7176,7 +7176,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="39" width="283">
+    <measure number="39" width="284">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -7208,7 +7208,7 @@ The Eagle
         <type>eighth</type>
         <stem default-y="20.5">up</stem>
       </note>
-      <note default-x="140">
+      <note default-x="141">
         <rest>
           <display-step>C</display-step>
           <display-octave>3</display-octave>
@@ -7217,7 +7217,7 @@ The Eagle
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="188">
+      <note default-x="189">
         <rest>
           <display-step>C</display-step>
           <display-octave>3</display-octave>
@@ -7259,9 +7259,9 @@ The Eagle
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="40" width="292">
+    <measure number="40" width="291">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>B</step>
           <octave>1</octave>
@@ -7271,7 +7271,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7282,13 +7282,13 @@ The Eagle
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="124">
+      <note default-x="123">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="207">
+      <note default-x="206">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -7298,7 +7298,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="207">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7339,7 +7339,7 @@ The Eagle
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="184">
+      <note default-x="183">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -7349,7 +7349,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="184">
+      <note default-x="183">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7360,7 +7360,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="184">
+      <note default-x="183">
         <chord/>
         <pitch>
           <step>A</step>
@@ -7441,8 +7441,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="43" width="263">
-      <note default-x="17">
+    <measure number="43" width="264">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -7471,7 +7471,7 @@ The Eagle
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="175">
+      <note default-x="176">
         <rest>
           <display-step>C</display-step>
           <display-octave>3</display-octave>
@@ -7483,7 +7483,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -7493,7 +7493,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7524,9 +7524,9 @@ The Eagle
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="44" width="250">
+    <measure number="44" width="249">
       <print new-page="yes"/>
-      <note default-x="54">
+      <note default-x="53">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -7538,7 +7538,7 @@ The Eagle
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="145">
+      <note default-x="144">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -7583,7 +7583,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="44">up</stem>
       </note>
-      <note default-x="76">
+      <note default-x="75">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -7594,7 +7594,7 @@ The Eagle
         <stem default-y="45">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="113">
+      <note default-x="112">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -7615,7 +7615,7 @@ The Eagle
         <type>eighth</type>
         <stem default-y="36">up</stem>
       </note>
-      <note default-x="186">
+      <note default-x="185">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -7646,7 +7646,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="150">
+      <note default-x="149">
         <rest>
           <display-step>C</display-step>
           <display-octave>3</display-octave>
@@ -7668,7 +7668,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -7726,7 +7726,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="48" width="220">
+    <measure number="48" width="221">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -7748,19 +7748,19 @@ The Eagle
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="54">
+      <note default-x="53">
         <rest/>
         <duration>1</duration>
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="90">
+      <note default-x="91">
         <rest/>
         <duration>2</duration>
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <rest/>
         <duration>2</duration>
         <voice>2</voice>
@@ -7803,7 +7803,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="85">
+      <note default-x="84">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7825,7 +7825,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="85">
+      <note default-x="84">
         <chord/>
         <pitch>
           <step>D</step>
@@ -7847,7 +7847,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="85">
+      <note default-x="84">
         <chord/>
         <pitch>
           <step>F</step>
@@ -7899,7 +7899,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="285">
+    <measure number="4" width="284">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -7916,7 +7916,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="253">
+    <measure number="6" width="252">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -7924,7 +7924,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="274">
+    <measure number="7" width="275">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -7932,7 +7932,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="332">
+    <measure number="8" width="336">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -7941,7 +7941,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="251">
+    <measure number="9" width="250">
       <barline location="left">
         <bar-style>heavy-light</bar-style>
         <repeat direction="forward" winged="none"/>
@@ -7953,7 +7953,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="236">
+    <measure number="10" width="235">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -7961,7 +7961,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="266">
+    <measure number="11" width="265">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -7978,7 +7978,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="298">
+    <measure number="13" width="297">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -7986,7 +7986,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="254">
+    <measure number="14" width="255">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -7994,7 +7994,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="282">
+    <measure number="15" width="283">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8002,7 +8002,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="318">
+    <measure number="16" width="317">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -8060,7 +8060,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="249">
+    <measure number="23" width="250">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8077,7 +8077,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="269">
+    <measure number="25" width="268">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8093,7 +8093,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="27" width="258">
+    <measure number="27" width="259">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8101,7 +8101,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="291">
+    <measure number="28" width="290">
       <print new-page="yes"/>
       <barline location="left">
         <ending default-y="40" end-length="30" font-size="8.3" number="1" type="start">1</ending>
@@ -8134,7 +8134,7 @@ The Eagle
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="237">
+    <measure number="30" width="238">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8142,7 +8142,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="269">
+    <measure number="31" width="270">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8150,7 +8150,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="294">
+    <measure number="32" width="293">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -8175,7 +8175,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="35" width="269">
+    <measure number="35" width="270">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8192,7 +8192,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="37" width="213">
+    <measure number="37" width="212">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8208,7 +8208,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="39" width="283">
+    <measure number="39" width="284">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8216,7 +8216,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="40" width="292">
+    <measure number="40" width="291">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -8241,7 +8241,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="43" width="263">
+    <measure number="43" width="264">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8249,7 +8249,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="44" width="250">
+    <measure number="44" width="249">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -8282,7 +8282,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="48" width="220">
+    <measure number="48" width="221">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8372,7 +8372,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="285">
+    <measure number="4" width="284">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -8389,7 +8389,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="253">
+    <measure number="6" width="252">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8397,7 +8397,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="274">
+    <measure number="7" width="275">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8405,7 +8405,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="332">
+    <measure number="8" width="336">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -8414,7 +8414,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="251">
+    <measure number="9" width="250">
       <barline location="left">
         <bar-style>heavy-light</bar-style>
         <repeat direction="forward" winged="none"/>
@@ -8440,13 +8440,13 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="107">
+      <note default-x="106">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="179">
+      <note default-x="177">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -8454,7 +8454,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="236">
+    <measure number="10" width="235">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8462,7 +8462,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="266">
+    <measure number="11" width="265">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8479,8 +8479,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="298">
-      <note default-x="16">
+    <measure number="13" width="297">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -8490,7 +8490,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -8504,7 +8504,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="254">
+    <measure number="14" width="255">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8512,7 +8512,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="282">
+    <measure number="15" width="283">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8520,7 +8520,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="318">
+    <measure number="16" width="317">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -8546,7 +8546,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="19" width="266">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -8556,7 +8556,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -8573,7 +8573,7 @@ The Eagle
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="170">
+      <note default-x="171">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -8606,7 +8606,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="249">
+    <measure number="23" width="250">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -8617,7 +8617,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="105">
+      <note default-x="106">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -8640,7 +8640,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="269">
+    <measure number="25" width="268">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8656,7 +8656,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="27" width="258">
+    <measure number="27" width="259">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8664,7 +8664,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="291">
+    <measure number="28" width="290">
       <print new-page="yes"/>
       <barline location="left">
         <ending default-y="40" end-length="30" font-size="8.3" number="1" type="start">1</ending>
@@ -8697,7 +8697,7 @@ The Eagle
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="237">
+    <measure number="30" width="238">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -8733,7 +8733,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="269">
+    <measure number="31" width="270">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8741,7 +8741,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="294">
+    <measure number="32" width="293">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -8759,7 +8759,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="34" width="258">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -8769,9 +8769,21 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
+      <note default-x="86">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="172">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
     </measure>
     <!--=======================================================-->
-    <measure number="35" width="269">
+    <measure number="35" width="270">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8788,7 +8800,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="37" width="213">
+    <measure number="37" width="212">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8821,7 +8833,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="39" width="283">
+    <measure number="39" width="284">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8829,7 +8841,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="40" width="292">
+    <measure number="40" width="291">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -8863,7 +8875,7 @@ The Eagle
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="180">
+      <note default-x="179">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -8871,7 +8883,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="43" width="263">
+    <measure number="43" width="264">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -8879,7 +8891,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="44" width="250">
+    <measure number="44" width="249">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -8912,7 +8924,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="48" width="220">
+    <measure number="48" width="221">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -9094,7 +9106,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="285">
+    <measure number="4" width="284">
       <print new-page="yes"/>
       <note default-x="59">
         <pitch>
@@ -9195,7 +9207,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="253">
+    <measure number="6" width="252">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -9245,8 +9257,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="274">
-      <note default-x="16">
+    <measure number="7" width="275">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -9261,7 +9273,7 @@ The Eagle
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9277,7 +9289,7 @@ The Eagle
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -9295,9 +9307,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="332">
+    <measure number="8" width="336">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="59">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -9311,7 +9323,7 @@ The Eagle
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="56">
+      <note default-x="59">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9326,7 +9338,7 @@ The Eagle
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="56">
+      <note default-x="59">
         <chord/>
         <pitch>
           <step>A</step>
@@ -9341,19 +9353,19 @@ The Eagle
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="101">
+      <note default-x="105">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="148">
+      <note default-x="151">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="240">
+      <note default-x="243">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -9361,7 +9373,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="251">
+    <measure number="9" width="250">
       <barline location="left">
         <bar-style>heavy-light</bar-style>
         <repeat direction="forward" winged="none"/>
@@ -9379,7 +9391,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="236">
+    <measure number="10" width="235">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -9393,7 +9405,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="266">
+    <measure number="11" width="265">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -9404,7 +9416,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="105">
+      <note default-x="104">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -9461,7 +9473,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="12" width="251">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -9483,7 +9495,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -9493,7 +9505,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9510,8 +9522,8 @@ The Eagle
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="298">
-      <note default-x="16">
+    <measure number="13" width="297">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -9521,7 +9533,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -9534,7 +9546,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -9544,7 +9556,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9555,7 +9567,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -9565,7 +9577,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-84">down</stem>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9578,8 +9590,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="254">
-      <note default-x="16">
+    <measure number="14" width="255">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -9601,7 +9613,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -9611,7 +9623,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9622,7 +9634,7 @@ The Eagle
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="162">
+      <note default-x="163">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -9633,7 +9645,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="282">
+    <measure number="15" width="283">
       <note default-x="14">
         <pitch>
           <step>C</step>
@@ -9644,7 +9656,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -9656,9 +9668,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="318">
+    <measure number="16" width="317">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -9672,7 +9684,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -9683,7 +9695,7 @@ The Eagle
         <dot/>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>A</step>
@@ -9787,7 +9799,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="19" width="266">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -9820,7 +9832,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -9830,7 +9842,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-84">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9887,7 +9899,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="20" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -9897,7 +9909,7 @@ The Eagle
         <type>half</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="197">
+      <note default-x="196">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -9910,7 +9922,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -9921,7 +9933,7 @@ The Eagle
         <dot/>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9980,7 +9992,7 @@ The Eagle
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="186">
+      <note default-x="185">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -10030,7 +10042,7 @@ The Eagle
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="249">
+    <measure number="23" width="250">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -10100,7 +10112,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="24" width="281">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -10110,7 +10122,7 @@ The Eagle
         <type>half</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -10123,7 +10135,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -10133,7 +10145,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10155,7 +10167,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="269">
+    <measure number="25" width="268">
       <note default-x="14">
         <pitch>
           <step>C</step>
@@ -10179,7 +10191,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="26" width="277">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -10202,7 +10214,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -10212,7 +10224,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>A</step>
@@ -10234,8 +10246,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="27" width="258">
-      <note default-x="17">
+    <measure number="27" width="259">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -10245,7 +10257,7 @@ The Eagle
         <type>half</type>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="171">
+      <note default-x="172">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -10258,7 +10270,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -10279,12 +10291,12 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="291">
+    <measure number="28" width="290">
       <print new-page="yes"/>
       <barline location="left">
         <ending default-y="40" end-length="30" font-size="8.3" number="1" type="start">1</ending>
       </barline>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -10306,7 +10318,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -10438,7 +10450,7 @@ The Eagle
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="237">
+    <measure number="30" width="238">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -10515,7 +10527,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="269">
+    <measure number="31" width="270">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -10526,7 +10538,7 @@ The Eagle
         <type>half</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -10571,9 +10583,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="294">
+    <measure number="32" width="293">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -10605,7 +10617,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="124">
+      <note default-x="123">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -10638,7 +10650,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="33" width="265">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -10669,7 +10681,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -10679,7 +10691,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10711,7 +10723,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="34" width="258">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -10733,8 +10745,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="35" width="269">
-      <note default-x="16">
+    <measure number="35" width="270">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -10744,7 +10756,7 @@ The Eagle
         <type>half</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -10757,7 +10769,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -10767,7 +10779,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -10791,7 +10803,7 @@ The Eagle
         <type>half</type>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="216">
+      <note default-x="215">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -10814,7 +10826,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="216">
+      <note default-x="215">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -10824,7 +10836,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-74">down</stem>
       </note>
-      <note default-x="216">
+      <note default-x="215">
         <chord/>
         <pitch>
           <step>G</step>
@@ -10837,7 +10849,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="37" width="213">
+    <measure number="37" width="212">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -10938,7 +10950,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="39" width="283">
+    <measure number="39" width="284">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -10972,7 +10984,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="188">
+      <note default-x="189">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -10983,9 +10995,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="40" width="292">
+    <measure number="40" width="291">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -10995,7 +11007,7 @@ The Eagle
         <type>half</type>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="207">
+      <note default-x="206">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -11017,7 +11029,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="124">
+      <note default-x="123">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -11026,7 +11038,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="207">
+      <note default-x="206">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -11036,7 +11048,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-84">down</stem>
       </note>
-      <note default-x="207">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>E</step>
@@ -11070,7 +11082,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="184">
+      <note default-x="183">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -11154,8 +11166,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="43" width="263">
-      <note default-x="17">
+    <measure number="43" width="264">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -11178,7 +11190,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -11188,7 +11200,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="175">
+      <note default-x="176">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -11199,7 +11211,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="44" width="250">
+    <measure number="44" width="249">
       <print new-page="yes"/>
       <note default-x="53">
         <pitch>
@@ -11244,7 +11256,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="76">
+      <note default-x="75">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -11277,7 +11289,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -11327,7 +11339,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="48" width="220">
+    <measure number="48" width="221">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -11338,7 +11350,7 @@ The Eagle
         <type>eighth</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="54">
+      <note default-x="53">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -11347,7 +11359,7 @@ The Eagle
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="90">
+      <note default-x="91">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -11356,7 +11368,7 @@ The Eagle
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -11389,7 +11401,7 @@ The Eagle
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="54">
+      <note default-x="53">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -11398,7 +11410,7 @@ The Eagle
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="90">
+      <note default-x="91">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -11407,7 +11419,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -11592,7 +11604,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="285">
+    <measure number="4" width="284">
       <print new-page="yes"/>
       <note default-x="59">
         <pitch>
@@ -11693,7 +11705,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="253">
+    <measure number="6" width="252">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -11743,8 +11755,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="274">
-      <note default-x="16">
+    <measure number="7" width="275">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -11759,7 +11771,7 @@ The Eagle
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -11775,7 +11787,7 @@ The Eagle
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -11793,9 +11805,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="332">
+    <measure number="8" width="336">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="59">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -11809,7 +11821,7 @@ The Eagle
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="56">
+      <note default-x="59">
         <chord/>
         <pitch>
           <step>E</step>
@@ -11824,7 +11836,7 @@ The Eagle
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="56">
+      <note default-x="59">
         <chord/>
         <pitch>
           <step>A</step>
@@ -11839,19 +11851,19 @@ The Eagle
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="101">
+      <note default-x="105">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="148">
+      <note default-x="151">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="240">
+      <note default-x="243">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -11859,7 +11871,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="251">
+    <measure number="9" width="250">
       <barline location="left">
         <bar-style>heavy-light</bar-style>
         <repeat direction="forward" winged="none"/>
@@ -11913,7 +11925,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="236">
+    <measure number="10" width="235">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -11963,7 +11975,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="266">
+    <measure number="11" width="265">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -11991,7 +12003,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="12" width="251">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -12001,7 +12013,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>A</step>
@@ -12023,8 +12035,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="298">
-      <note default-x="16">
+    <measure number="13" width="297">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -12034,7 +12046,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -12045,7 +12057,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -12056,7 +12068,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -12068,8 +12080,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="254">
-      <note default-x="16">
+    <measure number="14" width="255">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -12079,7 +12091,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -12090,7 +12102,7 @@ The Eagle
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -12109,7 +12121,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="282">
+    <measure number="15" width="283">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -12120,7 +12132,7 @@ The Eagle
         <type>half</type>
         <stem default-y="29">up</stem>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -12158,9 +12170,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="318">
+    <measure number="16" width="317">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -12170,7 +12182,7 @@ The Eagle
         <type>half</type>
         <stem default-y="39">up</stem>
       </note>
-      <note default-x="230">
+      <note default-x="229">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -12183,7 +12195,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -12286,7 +12298,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="19" width="266">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -12320,7 +12332,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="20" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -12334,7 +12346,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -12345,7 +12357,7 @@ The Eagle
         <dot/>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -12452,7 +12464,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="249">
+    <measure number="23" width="250">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -12511,7 +12523,7 @@ The Eagle
     <!--=======================================================-->
     <measure number="24" width="281">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -12533,7 +12545,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -12543,7 +12555,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -12565,7 +12577,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="269">
+    <measure number="25" width="268">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -12615,7 +12627,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="26" width="277">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -12638,7 +12650,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -12651,8 +12663,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="27" width="258">
-      <note default-x="17">
+    <measure number="27" width="259">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -12662,7 +12674,7 @@ The Eagle
         <type>half</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="171">
+      <note default-x="172">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -12675,7 +12687,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -12688,12 +12700,12 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="291">
+    <measure number="28" width="290">
       <print new-page="yes"/>
       <barline location="left">
         <ending default-y="40" end-length="30" font-size="8.3" number="1" type="start">1</ending>
       </barline>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -12716,7 +12728,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -12794,7 +12806,7 @@ The Eagle
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -12857,7 +12869,7 @@ The Eagle
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="237">
+    <measure number="30" width="238">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -12897,7 +12909,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="269">
+    <measure number="31" width="270">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -12919,7 +12931,7 @@ The Eagle
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <pitch>
           <step>F</step>
           <octave>2</octave>
@@ -12929,7 +12941,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <chord/>
         <pitch>
           <step>F</step>
@@ -12942,9 +12954,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="294">
+    <measure number="32" width="293">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -12954,7 +12966,7 @@ The Eagle
         <type>half</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -12989,7 +13001,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="33" width="265">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -12999,7 +13011,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -13025,7 +13037,7 @@ The Eagle
     </measure>
     <!--=======================================================-->
     <measure number="34" width="258">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -13035,7 +13047,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -13058,8 +13070,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="35" width="269">
-      <note default-x="16">
+    <measure number="35" width="270">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -13069,7 +13081,7 @@ The Eagle
         <type>half</type>
         <stem default-y="39">up</stem>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -13082,7 +13094,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -13092,7 +13104,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -13115,7 +13127,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="216">
+      <note default-x="215">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -13127,7 +13139,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="37" width="213">
+    <measure number="37" width="212">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -13225,7 +13237,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="39" width="283">
+    <measure number="39" width="284">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -13247,7 +13259,7 @@ The Eagle
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="188">
+      <note default-x="189">
         <rest>
           <display-step>C</display-step>
           <display-octave>3</display-octave>
@@ -13269,7 +13281,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="188">
+      <note default-x="189">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -13280,9 +13292,9 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="40" width="292">
+    <measure number="40" width="291">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>B</step>
           <octave>1</octave>
@@ -13292,7 +13304,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>B</step>
@@ -13303,13 +13315,13 @@ The Eagle
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="124">
+      <note default-x="123">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="207">
+      <note default-x="206">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -13319,7 +13331,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="207">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>E</step>
@@ -13360,7 +13372,7 @@ The Eagle
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="184">
+      <note default-x="183">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -13370,7 +13382,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="184">
+      <note default-x="183">
         <chord/>
         <pitch>
           <step>E</step>
@@ -13381,7 +13393,7 @@ The Eagle
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="184">
+      <note default-x="183">
         <chord/>
         <pitch>
           <step>A</step>
@@ -13451,8 +13463,8 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="43" width="263">
-      <note default-x="17">
+    <measure number="43" width="264">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -13462,7 +13474,7 @@ The Eagle
         <type>half</type>
         <stem default-y="39">up</stem>
       </note>
-      <note default-x="175">
+      <note default-x="176">
         <rest>
           <display-step>C</display-step>
           <display-octave>3</display-octave>
@@ -13474,7 +13486,7 @@ The Eagle
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -13484,7 +13496,7 @@ The Eagle
         <type>half</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -13501,9 +13513,9 @@ The Eagle
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="44" width="250">
+    <measure number="44" width="249">
       <print new-page="yes"/>
-      <note default-x="54">
+      <note default-x="53">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -13574,7 +13586,7 @@ The Eagle
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="150">
+      <note default-x="149">
         <rest>
           <display-step>C</display-step>
           <display-octave>3</display-octave>
@@ -13596,7 +13608,7 @@ The Eagle
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -13655,7 +13667,7 @@ The Eagle
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="48" width="220">
+    <measure number="48" width="221">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -13677,19 +13689,19 @@ The Eagle
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="54">
+      <note default-x="53">
         <rest/>
         <duration>1</duration>
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="90">
+      <note default-x="91">
         <rest/>
         <duration>2</duration>
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <rest/>
         <duration>2</duration>
         <voice>2</voice>

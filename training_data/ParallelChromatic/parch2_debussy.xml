@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2016-05-04</encoding-date>
+      <encoding-date>2019-05-09</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -150,7 +150,7 @@ Preludes
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="376">
+    <measure number="1" width="371">
       <print>
         <system-layout>
           <system-margins>
@@ -176,12 +176,12 @@ Preludes
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <forward>
         <duration>4</duration>
         <voice>1</voice>
       </forward>
-      <note default-x="287">
+      <note default-x="283">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -193,7 +193,7 @@ Preludes
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="287">
+      <note default-x="283">
         <chord/>
         <pitch>
           <step>D</step>
@@ -205,7 +205,7 @@ Preludes
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="287">
+      <note default-x="283">
         <chord/>
         <pitch>
           <step>G</step>
@@ -216,7 +216,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="332">
+      <note default-x="328">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -229,7 +229,7 @@ Preludes
         <stem default-y="15">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="332">
+      <note default-x="328">
         <chord/>
         <pitch>
           <step>F</step>
@@ -240,7 +240,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="332">
+      <note default-x="328">
         <chord/>
         <pitch>
           <step>B</step>
@@ -326,7 +326,7 @@ Preludes
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -338,7 +338,7 @@ Preludes
         <stem default-y="5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <chord/>
         <pitch>
           <step>G</step>
@@ -350,7 +350,7 @@ Preludes
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <chord/>
         <pitch>
           <step>C</step>
@@ -361,7 +361,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="175">
+      <note default-x="174">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -374,7 +374,7 @@ Preludes
         <stem default-y="5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="175">
+      <note default-x="174">
         <chord/>
         <pitch>
           <step>B</step>
@@ -385,7 +385,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="175">
+      <note default-x="174">
         <chord/>
         <pitch>
           <step>E</step>
@@ -465,8 +465,8 @@ Preludes
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="336">
-      <note default-x="25">
+    <measure number="3" width="340">
+      <note default-x="24">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -478,7 +478,7 @@ Preludes
         <stem default-y="-10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="25">
+      <note default-x="24">
         <chord/>
         <pitch>
           <step>G</step>
@@ -489,7 +489,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="25">
+      <note default-x="24">
         <chord/>
         <pitch>
           <step>C</step>
@@ -536,7 +536,7 @@ Preludes
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="133">
+      <note default-x="135">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -547,7 +547,7 @@ Preludes
         <stem default-y="-6.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="133">
+      <note default-x="135">
         <chord/>
         <pitch>
           <step>G</step>
@@ -558,7 +558,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="133">
+      <note default-x="135">
         <chord/>
         <pitch>
           <step>C</step>
@@ -569,7 +569,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="192">
+      <note default-x="194">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -582,7 +582,7 @@ Preludes
         <stem default-y="-5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="192">
+      <note default-x="194">
         <chord/>
         <pitch>
           <step>B</step>
@@ -594,7 +594,7 @@ Preludes
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="192">
+      <note default-x="194">
         <chord/>
         <pitch>
           <step>E</step>
@@ -606,7 +606,7 @@ Preludes
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="251">
+      <note default-x="253">
         <pitch>
           <step>B</step>
           <alter>1</alter>
@@ -618,7 +618,7 @@ Preludes
         <accidental>sharp</accidental>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="251">
+      <note default-x="253">
         <chord/>
         <pitch>
           <step>D</step>
@@ -631,7 +631,7 @@ Preludes
         <accidental>sharp</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="251">
+      <note default-x="253">
         <chord/>
         <pitch>
           <step>G</step>
@@ -648,7 +648,7 @@ Preludes
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="376">
+    <measure number="1" width="371">
       <print>
         <measure-numbering>system</measure-numbering>
       </print>
@@ -667,12 +667,12 @@ Preludes
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <forward>
         <duration>4</duration>
         <voice>1</voice>
       </forward>
-      <note default-x="287">
+      <note default-x="283">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -683,7 +683,7 @@ Preludes
         <stem default-y="-40">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="332">
+      <note default-x="328">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -721,7 +721,7 @@ Preludes
         <stem default-y="-60">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -732,7 +732,7 @@ Preludes
         <stem default-y="-60">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="175">
+      <note default-x="174">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -767,8 +767,8 @@ Preludes
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="336">
-      <note default-x="25">
+    <measure number="3" width="340">
+      <note default-x="24">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -791,7 +791,7 @@ Preludes
         <stem default-y="-70">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="133">
+      <note default-x="135">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -802,7 +802,7 @@ Preludes
         <stem default-y="-70">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="192">
+      <note default-x="194">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -814,7 +814,7 @@ Preludes
         <stem default-y="-70">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="251">
+      <note default-x="253">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -830,7 +830,7 @@ Preludes
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="376">
+    <measure number="1" width="371">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -849,42 +849,20 @@ Preludes
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
-      <note default-x="144">
+      <sound tempo="80"/>
+      <note default-x="140">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="214">
+      <note default-x="210">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="287">
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-64">down</stem>
-      </note>
-      <note default-x="276">
-        <chord/>
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="287">
-        <chord/>
+      <note default-x="283">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -894,9 +872,9 @@ Preludes
         <voice>1</voice>
         <type>quarter</type>
         <accidental>flat</accidental>
-        <stem>down</stem>
+        <stem default-y="-54">down</stem>
       </note>
-      <note default-x="276">
+      <note default-x="271">
         <chord/>
         <pitch>
           <step>B</step>
@@ -909,7 +887,7 @@ Preludes
         <accidental>flat</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="287">
+      <note default-x="283">
         <chord/>
         <pitch>
           <step>C</step>
@@ -920,7 +898,7 @@ Preludes
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="276">
+      <note default-x="271">
         <chord/>
         <pitch>
           <step>D</step>
@@ -933,7 +911,7 @@ Preludes
         <accidental>flat</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="287">
+      <note default-x="283">
         <chord/>
         <pitch>
           <step>E</step>
@@ -946,6 +924,28 @@ Preludes
         <accidental>flat</accidental>
         <stem>down</stem>
       </note>
+      <note default-x="271">
+        <chord/>
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="283">
+        <chord/>
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
     </measure>
     <!--=======================================================-->
     <measure number="2" width="314">
@@ -956,7 +956,7 @@ Preludes
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="336">
+    <measure number="3" width="340">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -966,7 +966,7 @@ Preludes
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="376">
+    <measure number="1" width="371">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -985,20 +985,20 @@ Preludes
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
-      <note default-x="144">
+      <sound tempo="80"/>
+      <note default-x="140">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="214">
+      <note default-x="210">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="287">
+      <note default-x="283">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -1018,17 +1018,34 @@ Preludes
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="336">
-      <note>
-        <rest measure="yes"/>
-        <duration>6</duration>
+    <measure number="3" width="340">
+      <note default-x="24">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
         <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="0.5">up</stem>
+      </note>
+      <note default-x="135">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="254">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
       </note>
     </measure>
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="376">
+    <measure number="1" width="371">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1047,12 +1064,20 @@ Preludes
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
-      <forward>
-        <duration>4</duration>
+      <sound tempo="80"/>
+      <note default-x="140">
+        <rest/>
+        <duration>2</duration>
         <voice>1</voice>
-      </forward>
-      <note default-x="287">
+        <type>quarter</type>
+      </note>
+      <note default-x="210">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="283">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1064,7 +1089,7 @@ Preludes
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="287">
+      <note default-x="283">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1076,7 +1101,7 @@ Preludes
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="287">
+      <note default-x="283">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1087,7 +1112,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="332">
+      <note default-x="328">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -1100,7 +1125,7 @@ Preludes
         <stem default-y="15">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="332">
+      <note default-x="328">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1111,7 +1136,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="332">
+      <note default-x="328">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1197,7 +1222,7 @@ Preludes
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -1209,7 +1234,7 @@ Preludes
         <stem default-y="5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1221,7 +1246,7 @@ Preludes
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1232,7 +1257,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="175">
+      <note default-x="174">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -1245,7 +1270,7 @@ Preludes
         <stem default-y="5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="175">
+      <note default-x="174">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1256,7 +1281,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="175">
+      <note default-x="174">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1336,8 +1361,8 @@ Preludes
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="336">
-      <note default-x="25">
+    <measure number="3" width="340">
+      <note default-x="24">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -1346,10 +1371,10 @@ Preludes
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
-        <stem default-y="-10">up</stem>
+        <stem default-y="-15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="25">
+      <note default-x="24">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1360,7 +1385,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="25">
+      <note default-x="24">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1381,8 +1406,8 @@ Preludes
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <stem default-y="-8">up</stem>
-        <beam number="1">continue</beam>
+        <stem default-y="-20">up</stem>
+        <beam number="1">end</beam>
       </note>
       <note default-x="82">
         <chord/>
@@ -1407,7 +1432,7 @@ Preludes
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="133">
+      <note default-x="135">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -1415,10 +1440,10 @@ Preludes
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <stem default-y="-6.5">up</stem>
-        <beam number="1">continue</beam>
+        <stem default-y="-10">up</stem>
+        <beam number="1">begin</beam>
       </note>
-      <note default-x="133">
+      <note default-x="135">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1429,7 +1454,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="133">
+      <note default-x="135">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1440,7 +1465,7 @@ Preludes
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="192">
+      <note default-x="194">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -1453,7 +1478,7 @@ Preludes
         <stem default-y="-5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="192">
+      <note default-x="194">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1465,7 +1490,7 @@ Preludes
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="192">
+      <note default-x="194">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1477,7 +1502,7 @@ Preludes
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="251">
+      <note default-x="253">
         <pitch>
           <step>B</step>
           <alter>1</alter>
@@ -1489,7 +1514,7 @@ Preludes
         <accidental>sharp</accidental>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="251">
+      <note default-x="253">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1502,7 +1527,7 @@ Preludes
         <accidental>sharp</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="251">
+      <note default-x="253">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1519,7 +1544,7 @@ Preludes
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="376">
+    <measure number="1" width="371">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1538,12 +1563,20 @@ Preludes
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
-      <forward>
-        <duration>4</duration>
+      <sound tempo="80"/>
+      <note default-x="140">
+        <rest/>
+        <duration>2</duration>
         <voice>1</voice>
-      </forward>
-      <note default-x="287">
+        <type>quarter</type>
+      </note>
+      <note default-x="210">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="283">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -1554,7 +1587,7 @@ Preludes
         <stem default-y="-40">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="332">
+      <note default-x="328">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -1592,7 +1625,7 @@ Preludes
         <stem default-y="-60">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -1603,7 +1636,7 @@ Preludes
         <stem default-y="-60">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="175">
+      <note default-x="174">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -1638,8 +1671,8 @@ Preludes
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="336">
-      <note default-x="25">
+    <measure number="3" width="340">
+      <note default-x="24">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -1662,7 +1695,7 @@ Preludes
         <stem default-y="-70">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="133">
+      <note default-x="135">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -1673,7 +1706,7 @@ Preludes
         <stem default-y="-70">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="192">
+      <note default-x="194">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -1685,7 +1718,7 @@ Preludes
         <stem default-y="-70">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="251">
+      <note default-x="253">
         <pitch>
           <step>G</step>
           <alter>1</alter>

@@ -7,7 +7,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2016-05-04</encoding-date>
+      <encoding-date>2019-05-15</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -152,7 +152,7 @@ mm. 24-28</credit-words>
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="550">
+    <measure number="1" width="540">
       <print>
         <system-layout>
           <system-margins>
@@ -179,7 +179,7 @@ mm. 24-28</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="245">
+      <note default-x="240">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -192,7 +192,7 @@ mm. 24-28</credit-words>
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="245">
+      <note default-x="240">
         <chord/>
         <pitch>
           <step>E</step>
@@ -205,7 +205,7 @@ mm. 24-28</credit-words>
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="245">
+      <note default-x="240">
         <chord/>
         <pitch>
           <step>B</step>
@@ -218,7 +218,7 @@ mm. 24-28</credit-words>
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="320">
+      <note default-x="306">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -231,7 +231,7 @@ mm. 24-28</credit-words>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
       </note>
-      <note default-x="320">
+      <note default-x="306">
         <chord/>
         <pitch>
           <step>D</step>
@@ -243,7 +243,7 @@ mm. 24-28</credit-words>
         <type>16th</type>
         <stem>up</stem>
       </note>
-      <note default-x="320">
+      <note default-x="306">
         <chord/>
         <pitch>
           <step>G</step>
@@ -255,7 +255,7 @@ mm. 24-28</credit-words>
         <type>16th</type>
         <stem>up</stem>
       </note>
-      <note default-x="350">
+      <note default-x="338">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -267,7 +267,7 @@ mm. 24-28</credit-words>
         <stem default-y="20">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="350">
+      <note default-x="338">
         <chord/>
         <pitch>
           <step>B</step>
@@ -279,7 +279,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="350">
+      <note default-x="338">
         <chord/>
         <pitch>
           <step>E</step>
@@ -291,7 +291,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="400">
+      <note default-x="388">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -303,7 +303,7 @@ mm. 24-28</credit-words>
         <stem default-y="21.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="400">
+      <note default-x="388">
         <chord/>
         <pitch>
           <step>D</step>
@@ -315,7 +315,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="400">
+      <note default-x="388">
         <chord/>
         <pitch>
           <step>G</step>
@@ -327,7 +327,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="450">
+      <note default-x="438">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -339,7 +339,7 @@ mm. 24-28</credit-words>
         <stem default-y="23.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="450">
+      <note default-x="438">
         <chord/>
         <pitch>
           <step>E</step>
@@ -351,7 +351,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="450">
+      <note default-x="438">
         <chord/>
         <pitch>
           <step>B</step>
@@ -363,7 +363,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="499">
+      <note default-x="489">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -375,7 +375,7 @@ mm. 24-28</credit-words>
         <stem default-y="25">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="499">
+      <note default-x="489">
         <chord/>
         <pitch>
           <step>G</step>
@@ -387,7 +387,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="499">
+      <note default-x="489">
         <chord/>
         <pitch>
           <step>D</step>
@@ -401,7 +401,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="216">
+    <measure number="2" width="221">
       <note default-x="16">
         <pitch>
           <step>B</step>
@@ -438,7 +438,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="54">
+      <note default-x="55">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -450,7 +450,7 @@ mm. 24-28</credit-words>
         <stem default-y="10">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="54">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>D</step>
@@ -462,7 +462,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="54">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>G</step>
@@ -474,7 +474,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="94">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -485,7 +485,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="94">
         <chord/>
         <pitch>
           <step>B</step>
@@ -497,7 +497,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="94">
         <chord/>
         <pitch>
           <step>E</step>
@@ -509,7 +509,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="158">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -520,7 +520,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="158">
         <chord/>
         <pitch>
           <step>C</step>
@@ -532,7 +532,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="158">
         <chord/>
         <pitch>
           <step>G</step>
@@ -546,7 +546,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="260">
+    <measure number="3" width="264">
       <note default-x="16">
         <pitch>
           <step>B</step>
@@ -586,7 +586,7 @@ mm. 24-28</credit-words>
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="70">
+      <note default-x="72">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -599,7 +599,7 @@ mm. 24-28</credit-words>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
       </note>
-      <note default-x="70">
+      <note default-x="72">
         <chord/>
         <pitch>
           <step>D</step>
@@ -611,7 +611,7 @@ mm. 24-28</credit-words>
         <type>16th</type>
         <stem>up</stem>
       </note>
-      <note default-x="70">
+      <note default-x="72">
         <chord/>
         <pitch>
           <step>G</step>
@@ -623,7 +623,7 @@ mm. 24-28</credit-words>
         <type>16th</type>
         <stem>up</stem>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -635,7 +635,7 @@ mm. 24-28</credit-words>
         <stem default-y="35">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <chord/>
         <pitch>
           <step>E</step>
@@ -647,7 +647,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <chord/>
         <pitch>
           <step>B</step>
@@ -659,7 +659,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="136">
+      <note default-x="139">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -671,7 +671,7 @@ mm. 24-28</credit-words>
         <stem default-y="37">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="136">
+      <note default-x="139">
         <chord/>
         <pitch>
           <step>G</step>
@@ -683,7 +683,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="136">
+      <note default-x="139">
         <chord/>
         <pitch>
           <step>D</step>
@@ -695,7 +695,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="177">
+      <note default-x="180">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -707,7 +707,7 @@ mm. 24-28</credit-words>
         <stem default-y="39">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="177">
+      <note default-x="180">
         <chord/>
         <pitch>
           <step>B</step>
@@ -719,7 +719,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="177">
+      <note default-x="180">
         <chord/>
         <pitch>
           <step>E</step>
@@ -731,7 +731,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="218">
+      <note default-x="222">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -743,7 +743,7 @@ mm. 24-28</credit-words>
         <stem default-y="40">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="218">
+      <note default-x="222">
         <chord/>
         <pitch>
           <step>D</step>
@@ -755,7 +755,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="218">
+      <note default-x="222">
         <chord/>
         <pitch>
           <step>G</step>
@@ -769,9 +769,9 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="691">
+    <measure number="4" width="686">
       <print new-page="yes"/>
-      <note default-x="134">
+      <note default-x="130">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -783,7 +783,7 @@ mm. 24-28</credit-words>
         <stem default-y="-60">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="134">
+      <note default-x="130">
         <chord/>
         <pitch>
           <step>E</step>
@@ -795,7 +795,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="134">
+      <note default-x="130">
         <chord/>
         <pitch>
           <step>B</step>
@@ -807,7 +807,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="240">
+      <note default-x="236">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -819,7 +819,7 @@ mm. 24-28</credit-words>
         <stem default-y="-65">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="240">
+      <note default-x="236">
         <chord/>
         <pitch>
           <step>D</step>
@@ -831,7 +831,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="240">
+      <note default-x="236">
         <chord/>
         <pitch>
           <step>G</step>
@@ -843,7 +843,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="346">
+      <note default-x="342">
         <pitch>
           <step>C</step>
           <alter>-1</alter>
@@ -854,7 +854,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="346">
+      <note default-x="342">
         <chord/>
         <pitch>
           <step>B</step>
@@ -866,7 +866,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="518">
+      <note default-x="514">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -877,7 +877,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="-9.5">up</stem>
       </note>
-      <note default-x="518">
+      <note default-x="514">
         <chord/>
         <pitch>
           <step>D</step>
@@ -891,7 +891,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="395">
+    <measure number="5" width="399">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -934,7 +934,7 @@ mm. 24-28</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="550">
+    <measure number="1" width="540">
       <print>
         <measure-numbering>system</measure-numbering>
       </print>
@@ -954,7 +954,7 @@ mm. 24-28</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="245">
+      <note default-x="240">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -967,7 +967,7 @@ mm. 24-28</credit-words>
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="245">
+      <note default-x="240">
         <chord/>
         <pitch>
           <step>D</step>
@@ -980,7 +980,7 @@ mm. 24-28</credit-words>
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="320">
+      <note default-x="306">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -993,7 +993,7 @@ mm. 24-28</credit-words>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
       </note>
-      <note default-x="320">
+      <note default-x="306">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1005,7 +1005,7 @@ mm. 24-28</credit-words>
         <type>16th</type>
         <stem>up</stem>
       </note>
-      <note default-x="350">
+      <note default-x="338">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -1017,7 +1017,7 @@ mm. 24-28</credit-words>
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="350">
+      <note default-x="338">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1029,7 +1029,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="400">
+      <note default-x="388">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -1041,7 +1041,7 @@ mm. 24-28</credit-words>
         <stem default-y="16.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="400">
+      <note default-x="388">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1053,7 +1053,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="450">
+      <note default-x="438">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -1065,7 +1065,7 @@ mm. 24-28</credit-words>
         <stem default-y="18.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="450">
+      <note default-x="438">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1077,7 +1077,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="499">
+      <note default-x="489">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -1089,7 +1089,7 @@ mm. 24-28</credit-words>
         <stem default-y="20">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="499">
+      <note default-x="489">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1103,7 +1103,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="216">
+    <measure number="2" width="221">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -1128,7 +1128,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="54">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -1140,7 +1140,7 @@ mm. 24-28</credit-words>
         <stem default-y="10">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="54">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1152,7 +1152,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="94">
         <pitch>
           <step>C</step>
           <alter>-1</alter>
@@ -1163,7 +1163,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="94">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1175,7 +1175,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="158">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -1186,7 +1186,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="158">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1200,7 +1200,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="260">
+    <measure number="3" width="264">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -1227,7 +1227,7 @@ mm. 24-28</credit-words>
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="70">
+      <note default-x="72">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -1240,7 +1240,7 @@ mm. 24-28</credit-words>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
       </note>
-      <note default-x="70">
+      <note default-x="72">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1252,7 +1252,7 @@ mm. 24-28</credit-words>
         <type>16th</type>
         <stem>up</stem>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -1264,7 +1264,7 @@ mm. 24-28</credit-words>
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1276,7 +1276,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="136">
+      <note default-x="139">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -1288,7 +1288,7 @@ mm. 24-28</credit-words>
         <stem default-y="-53">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="136">
+      <note default-x="139">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1300,7 +1300,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="177">
+      <note default-x="180">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -1312,7 +1312,7 @@ mm. 24-28</credit-words>
         <stem default-y="-52">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="177">
+      <note default-x="180">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1324,7 +1324,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="218">
+      <note default-x="222">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -1336,7 +1336,7 @@ mm. 24-28</credit-words>
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="218">
+      <note default-x="222">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1350,9 +1350,9 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="691">
+    <measure number="4" width="686">
       <print new-page="yes"/>
-      <note default-x="134">
+      <note default-x="130">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -1364,7 +1364,7 @@ mm. 24-28</credit-words>
         <stem default-y="-25">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="134">
+      <note default-x="130">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1376,7 +1376,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="240">
+      <note default-x="236">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -1388,7 +1388,7 @@ mm. 24-28</credit-words>
         <stem default-y="-30">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="240">
+      <note default-x="236">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1400,7 +1400,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="346">
+      <note default-x="342">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -1411,7 +1411,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="346">
+      <note default-x="342">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1423,7 +1423,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="346">
+      <note default-x="342">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1435,7 +1435,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="518">
+      <note default-x="514">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -1446,7 +1446,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="518">
+      <note default-x="514">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1459,7 +1459,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="395">
+    <measure number="5" width="399">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -1502,7 +1502,7 @@ mm. 24-28</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="550">
+    <measure number="1" width="540">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1522,7 +1522,7 @@ mm. 24-28</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="245">
+      <note default-x="240">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -1534,7 +1534,7 @@ mm. 24-28</credit-words>
         <accidental>flat</accidental>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="234">
+      <note default-x="227">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1547,7 +1547,7 @@ mm. 24-28</credit-words>
         <accidental>flat</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="245">
+      <note default-x="240">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1560,7 +1560,7 @@ mm. 24-28</credit-words>
         <accidental>flat</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="234">
+      <note default-x="227">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1573,7 +1573,7 @@ mm. 24-28</credit-words>
         <accidental>flat</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="245">
+      <note default-x="240">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1586,7 +1586,7 @@ mm. 24-28</credit-words>
         <accidental>flat</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="234">
+      <note default-x="227">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1599,7 +1599,7 @@ mm. 24-28</credit-words>
         <accidental>flat</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="245">
+      <note default-x="240">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1610,13 +1610,13 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="351">
+      <note default-x="338">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="450">
+      <note default-x="438">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -1624,7 +1624,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="216">
+    <measure number="2" width="221">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -1632,7 +1632,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="260">
+    <measure number="3" width="264">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -1640,7 +1640,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="691">
+    <measure number="4" width="686">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -1649,7 +1649,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="395">
+    <measure number="5" width="399">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -1659,7 +1659,7 @@ mm. 24-28</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="550">
+    <measure number="1" width="540">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1679,42 +1679,24 @@ mm. 24-28</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="245">
+      <note default-x="240">
         <pitch>
-          <step>C</step>
-          <alter>-3</alter>
+          <step>G</step>
+          <alter>-1</alter>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-4.5">up</stem>
+        <type>quarter</type>
+        <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="245">
-        <chord/>
-        <pitch>
-          <step>E</step>
-          <alter>-3</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-      </note>
-      <note default-x="295">
-        <rest/>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-      </note>
-      <note default-x="351">
+      <note default-x="338">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="450">
+      <note default-x="438">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -1722,7 +1704,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="216">
+    <measure number="2" width="221">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -1730,21 +1712,33 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="260">
+    <measure number="3" width="264">
       <note default-x="16">
         <pitch>
-          <step>C</step>
-          <alter>-3</alter>
+          <step>G</step>
+          <alter>-1</alter>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-14.5">up</stem>
+        <type>quarter</type>
+        <stem default-y="5.5">up</stem>
+      </note>
+      <note default-x="98">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="180">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="691">
+    <measure number="4" width="686">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -1753,7 +1747,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="395">
+    <measure number="5" width="399">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -1763,7 +1757,7 @@ mm. 24-28</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="550">
+    <measure number="1" width="540">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1783,7 +1777,7 @@ mm. 24-28</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="245">
+      <note default-x="240">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -1796,7 +1790,7 @@ mm. 24-28</credit-words>
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="245">
+      <note default-x="240">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1809,7 +1803,7 @@ mm. 24-28</credit-words>
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="245">
+      <note default-x="240">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1822,7 +1816,7 @@ mm. 24-28</credit-words>
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="320">
+      <note default-x="306">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -1835,7 +1829,7 @@ mm. 24-28</credit-words>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
       </note>
-      <note default-x="320">
+      <note default-x="306">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1847,7 +1841,7 @@ mm. 24-28</credit-words>
         <type>16th</type>
         <stem>up</stem>
       </note>
-      <note default-x="320">
+      <note default-x="306">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1859,7 +1853,7 @@ mm. 24-28</credit-words>
         <type>16th</type>
         <stem>up</stem>
       </note>
-      <note default-x="350">
+      <note default-x="338">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -1871,7 +1865,7 @@ mm. 24-28</credit-words>
         <stem default-y="20">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="350">
+      <note default-x="338">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1883,7 +1877,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="350">
+      <note default-x="338">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1895,7 +1889,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="400">
+      <note default-x="388">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -1907,7 +1901,7 @@ mm. 24-28</credit-words>
         <stem default-y="22">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="400">
+      <note default-x="388">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1919,7 +1913,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="400">
+      <note default-x="388">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1931,7 +1925,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="450">
+      <note default-x="438">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -1943,7 +1937,7 @@ mm. 24-28</credit-words>
         <stem default-y="24">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="450">
+      <note default-x="438">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1955,7 +1949,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="450">
+      <note default-x="438">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1967,7 +1961,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="499">
+      <note default-x="489">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -1979,7 +1973,7 @@ mm. 24-28</credit-words>
         <stem default-y="25">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="499">
+      <note default-x="489">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1991,7 +1985,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="499">
+      <note default-x="489">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2005,7 +1999,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="216">
+    <measure number="2" width="221">
       <note default-x="16">
         <pitch>
           <step>B</step>
@@ -2042,7 +2036,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="54">
+      <note default-x="55">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -2054,7 +2048,7 @@ mm. 24-28</credit-words>
         <stem default-y="10">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="54">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2066,7 +2060,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="54">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2078,7 +2072,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="94">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -2089,7 +2083,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="94">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2101,7 +2095,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="94">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2113,7 +2107,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="158">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -2124,7 +2118,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="158">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2136,7 +2130,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="158">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2150,7 +2144,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="260">
+    <measure number="3" width="264">
       <note default-x="16">
         <pitch>
           <step>B</step>
@@ -2190,7 +2184,7 @@ mm. 24-28</credit-words>
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="70">
+      <note default-x="72">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -2203,7 +2197,7 @@ mm. 24-28</credit-words>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
       </note>
-      <note default-x="70">
+      <note default-x="72">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2215,7 +2209,7 @@ mm. 24-28</credit-words>
         <type>16th</type>
         <stem>up</stem>
       </note>
-      <note default-x="70">
+      <note default-x="72">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2227,7 +2221,7 @@ mm. 24-28</credit-words>
         <type>16th</type>
         <stem>up</stem>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -2239,7 +2233,7 @@ mm. 24-28</credit-words>
         <stem default-y="35">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2251,7 +2245,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2263,7 +2257,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="136">
+      <note default-x="139">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -2275,7 +2269,7 @@ mm. 24-28</credit-words>
         <stem default-y="37">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="136">
+      <note default-x="139">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2287,7 +2281,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="136">
+      <note default-x="139">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2299,7 +2293,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="177">
+      <note default-x="180">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -2311,7 +2305,7 @@ mm. 24-28</credit-words>
         <stem default-y="38">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="177">
+      <note default-x="180">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2323,7 +2317,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="177">
+      <note default-x="180">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2335,7 +2329,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="218">
+      <note default-x="222">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -2347,7 +2341,7 @@ mm. 24-28</credit-words>
         <stem default-y="40">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="218">
+      <note default-x="222">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2359,7 +2353,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="218">
+      <note default-x="222">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2373,9 +2367,9 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="691">
+    <measure number="4" width="686">
       <print new-page="yes"/>
-      <note default-x="134">
+      <note default-x="130">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -2387,7 +2381,7 @@ mm. 24-28</credit-words>
         <stem default-y="-60">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="134">
+      <note default-x="130">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2399,7 +2393,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="134">
+      <note default-x="130">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2411,7 +2405,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="240">
+      <note default-x="236">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -2423,7 +2417,7 @@ mm. 24-28</credit-words>
         <stem default-y="-65">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="240">
+      <note default-x="236">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2435,7 +2429,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="240">
+      <note default-x="236">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2447,7 +2441,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="346">
+      <note default-x="342">
         <pitch>
           <step>C</step>
           <alter>-1</alter>
@@ -2458,7 +2452,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="346">
+      <note default-x="342">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2470,7 +2464,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="518">
+      <note default-x="514">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -2481,7 +2475,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="-9.5">up</stem>
       </note>
-      <note default-x="518">
+      <note default-x="514">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2495,7 +2489,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="395">
+    <measure number="5" width="399">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -2538,7 +2532,7 @@ mm. 24-28</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="550">
+    <measure number="1" width="540">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2558,7 +2552,7 @@ mm. 24-28</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="245">
+      <note default-x="240">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -2571,7 +2565,7 @@ mm. 24-28</credit-words>
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="245">
+      <note default-x="240">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2584,7 +2578,7 @@ mm. 24-28</credit-words>
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="320">
+      <note default-x="306">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -2597,7 +2591,7 @@ mm. 24-28</credit-words>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
       </note>
-      <note default-x="320">
+      <note default-x="306">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2609,7 +2603,7 @@ mm. 24-28</credit-words>
         <type>16th</type>
         <stem>up</stem>
       </note>
-      <note default-x="350">
+      <note default-x="338">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -2621,7 +2615,7 @@ mm. 24-28</credit-words>
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="350">
+      <note default-x="338">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2633,7 +2627,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="400">
+      <note default-x="388">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -2645,7 +2639,7 @@ mm. 24-28</credit-words>
         <stem default-y="17">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="400">
+      <note default-x="388">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2657,7 +2651,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="450">
+      <note default-x="438">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -2669,7 +2663,7 @@ mm. 24-28</credit-words>
         <stem default-y="19">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="450">
+      <note default-x="438">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2681,7 +2675,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="499">
+      <note default-x="489">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -2693,7 +2687,7 @@ mm. 24-28</credit-words>
         <stem default-y="20">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="499">
+      <note default-x="489">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2707,7 +2701,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="216">
+    <measure number="2" width="221">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -2732,7 +2726,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="54">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -2744,7 +2738,7 @@ mm. 24-28</credit-words>
         <stem default-y="10">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="54">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2756,7 +2750,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="94">
         <pitch>
           <step>C</step>
           <alter>-1</alter>
@@ -2767,7 +2761,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="94">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2779,7 +2773,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="158">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -2790,7 +2784,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="158">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2804,7 +2798,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="260">
+    <measure number="3" width="264">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -2831,7 +2825,7 @@ mm. 24-28</credit-words>
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="70">
+      <note default-x="72">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -2844,7 +2838,7 @@ mm. 24-28</credit-words>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
       </note>
-      <note default-x="70">
+      <note default-x="72">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2856,7 +2850,7 @@ mm. 24-28</credit-words>
         <type>16th</type>
         <stem>up</stem>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -2868,7 +2862,7 @@ mm. 24-28</credit-words>
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2880,7 +2874,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="136">
+      <note default-x="139">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -2892,7 +2886,7 @@ mm. 24-28</credit-words>
         <stem default-y="-53">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="136">
+      <note default-x="139">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2904,7 +2898,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="177">
+      <note default-x="180">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -2916,7 +2910,7 @@ mm. 24-28</credit-words>
         <stem default-y="-51.5">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="177">
+      <note default-x="180">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2928,7 +2922,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="218">
+      <note default-x="222">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -2940,7 +2934,7 @@ mm. 24-28</credit-words>
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="218">
+      <note default-x="222">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2954,9 +2948,9 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="691">
+    <measure number="4" width="686">
       <print new-page="yes"/>
-      <note default-x="134">
+      <note default-x="130">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -2968,7 +2962,7 @@ mm. 24-28</credit-words>
         <stem default-y="-25">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="134">
+      <note default-x="130">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2980,7 +2974,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="240">
+      <note default-x="236">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -2992,7 +2986,7 @@ mm. 24-28</credit-words>
         <stem default-y="-30">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="240">
+      <note default-x="236">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3004,7 +2998,7 @@ mm. 24-28</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="346">
+      <note default-x="342">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -3015,7 +3009,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="346">
+      <note default-x="342">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3027,7 +3021,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="346">
+      <note default-x="342">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3039,7 +3033,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="518">
+      <note default-x="514">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -3050,7 +3044,7 @@ mm. 24-28</credit-words>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="518">
+      <note default-x="514">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3063,7 +3057,7 @@ mm. 24-28</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="395">
+    <measure number="5" width="399">
       <note default-x="16">
         <pitch>
           <step>C</step>

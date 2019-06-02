@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Upload</title>
+ <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> -->
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+ <script type='text/javascript' src='//www.midijs.net/lib/midi.js'></script>
+ <script src="/static/js/opensheetmusicdisplay.min.js"></script>
+</head>
+<body>
+<script>
+    var ID = function () {
+        // Math.random should be unique because of its seeding algorithm.
+        // Convert it to base 36 (numbers + letters), and grab the first 9 characters
+        // after the decimal.
+        return '_' + Math.random().toString(36).substr(2, 9);
+    };
+	
+    var initJson;
+	var keys = [];
+    var my_ID = ID();
+    $(document).ready(function(){
+        // initialise grouping checkbox
+        document.getElementById('groupingCheckbox').checked = false;
+        osmd = new opensheetmusicdisplay.OpenSheetMusicDisplay("score_container");
+        document.getElementById('score_play_show').style.display = 'none';
+        // request list of idiom names from server
+        var dummy_json = {
+            info: 'none'
+        };
+        $.post( "/get_idiom_names", JSON.stringify(dummy_json), function(initResp){
+            //var idiom_names_list = resp['idiom_names_list'];
+            for(var k in initResp) keys.push(k);			
+            console.log('idiom_names_list: ', keys);
+			initJson = initResp;
+			console.log('initJson: ', initJson);
+            // load dropdown menu
+            for(var i=0; i<keys.length; i++){
+                var option = document.createElement("option");
+                option.value = keys[i];
+                option.text = keys[i];
+                document.getElementById("idiom_select1").add(option);
+            }
+			//initializing dropdown menus for S1 and S2
+			allModes = initJson[keys[0]];
+			for(var i=0; i<allModes.length; i++){
+				var option = document.createElement("option");
+				option.value = allModes[i];
+			   option.text = allModes[i];
+				document.getElementById("mode_select1").add(option);
+			}
+        });
+        var option1 = document.createElement("option");
+        option1.value = "NoVL";
+        option1.text = "NoVL";
+        document.getElementById("voice_leading_select").add(option1);
+        var option2 = document.createElement("option");
+        option2.value = "BBVL";
+        option2.text = "BBVL";
+        document.getElementById("voice_leading_select").add(option2);
+
+    });
+
+    var input = [];
+    var osmd = [];
+    var useGrouping = false;
+    var voiceLeading = 'NoVL';
+    var idiom_name = 'BachChorales';
+    var file_name_xml = [];
+    var file_name_mid = [];
+    var server_response_success = false;
+    function submit_UI_info(){
+        // inform server about grouping selected by this client
+        useGrouping = document.getElementById('groupingCheckbox').checked;
+        console.log('inside submit_UI_info');
+        var parameters_json = {
+            useGrouping: useGrouping,
+            clientID: my_ID,
+            idiom_name: idiom_name,
+            voiceLeading: voiceLeading
+        };
+        $.post( "/set_parameters", JSON.stringify(parameters_json), function(resp){
+            if(resp['success']){
+                name_suffix = resp['name_suffix']
+                console.log('UI message received by server - success!');
+                server_response_success = true;
+                file_name_xml = input.files[0].name.split(".")[0]+name_suffix+".xml"
+                file_name_mid = input.files[0].name.split(".")[0]+name_suffix+".mid"
+                $("#score_info").html('Preparing score...');
+                document.getElementById('score_play_show').style.display = 'none';
+                $("#upload-form").submit();
+            }else{
+                alert('Server unavailable :( please try again later');
+            }
+        });
+    };
+    function submit_form(){
+        // submit UI info before sending the form
+        console.log('submitting UI info');
+        submit_UI_info();
+        setTimeout(function(){
+            $("#score_info").html('');
+            osmd.load('static/harmonisations/'+file_name_xml).then( function() {
+                osmd.zoom = 0.4;
+                osmd.render();
+            });
+            document.getElementById('score_play_show').style.display = 'block';
+        }, 5000);
+        // console.log('file name is: ', file_name_xml);
+        // setTimeout(function(){
+        //     if(server_response_success){
+        //         console.log('submitting files');
+        //         $("#upload-form").submit();
+        //     }else{
+        //         alert('Server unavailable :( please try again later');
+        //     }
+        // }, 100);
+        // $.when(submit_UI_info()).then(function(){
+        //     if(server_response_success){
+        //         console.log('file name is: ', file_name_xml);
+        //         setTimeout(function(){
+        //             console.log('submitting files');
+        //             $("#upload-form").submit();
+        //         }, 1000);
+        //     }else{
+        //         alert('Server unavailable :( please try again later');
+        //     }
+        // });
+    };
+    function select_idiom1(){
+        idiom_name = document.getElementById("idiom_select1").value;
+		var allModes = initJson[idiom_name];
+		// delete all the previous options
+		document.getElementById("mode_select1").options.length = 0;
+		// load the corresponding dropdown menu
+        for(var i=0; i<allModes.length; i++){
+            var option = document.createElement("option");
+            option.value = allModes[i];
+            option.text = allModes[i];
+            document.getElementById("mode_select1").add(option);
+        }	
+    }
+	function select_mode1(){
+        idiom_mode1 = document.getElementById("mode_select1").value;
+        console.log('selected mode: ', idiom_mode1);
+    }
+    function select_voice_leading(){
+        voiceLeading = document.getElementById("voice_leading_select").value;
+        console.log('selected voice leading: ', voiceLeading);
+    }
+</script>
+<form id="upload-form" action="{{ url_for('upload') }}" method="POST" enctype="multipart/form-data">
+
+    <strong>Upload a melody file in the required template format for testing harmonisation in the selected style</strong><br>
+    Style 1: <select id="idiom_select1" onchange="select_idiom1()"></select>
+	Mode 1: <select id="mode_select1" onchange="select_mode1()"></select>
+    Melody: 
+    <input id="file-picker" type="file" name="file" accept=".xml,.mxl">
+    <div id="msg"></div>
+    <!-- <input type="submit" value="Harmonise!" id="upload-button"> -->
+</form>
+<div>
+    Use chord families: 
+    <input type="checkbox" id="groupingCheckbox" onchange="checkboxChanged(this)">
+</div>
+<div>
+    Voice leading: <select id="voice_leading_select" onchange="select_voice_leading()"></select>
+</div>
+<button id='harmbutt' onclick="submit_form()">Harmonise!</button>
+&nbsp;
+<div>
+  Not sure how a template should look like?
+  Have a look at <a href="http://ccm.web.auth.gr/melodyinput.html" target="_blank">this page</a> and/or download <a href="https://www.dropbox.com/s/nu9wxngvnw25k7n/beethovenR2.xml?dl=1" download>this example template file</a>.
+</div>
+<div id="score_info"></div>
+<div id="score_play_show">
+    <div style="display: flex; flex-direction: row; justify-content: center; align-items: centre; width: 400px">
+        <button onclick="playMidi()">Play</button>
+        <button onclick="stopMidi()">Stop</button>
+    </div>
+    <div id="score_container"></div>
+</div>
+</body>
+<script>
+    $("#file-picker").change(function(){
+        console.log('file selected');
+        input = document.getElementById('file-picker');
+        for (var i=0; i<input.files.length; i++)
+        {
+        //koala.jpg, koala.JPG substring(index) lastIndexOf('a') koala.1.jpg
+            var ext= input.files[i].name.substring(input.files[i].name.lastIndexOf('.')+1).toLowerCase()
+            if ((ext == 'xml') || (ext == 'mxl'))
+            {
+                $("#msg").text("Files are supported")
+            }
+            else
+            {
+                $("#msg").text("Files are NOT supported")
+                document.getElementById("file-picker").value ="";
+            }
+        }
+    } );
+    var checkboxChanged = function(chbx){
+        useGrouping = chbx.checked;
+        // send_grouping_to_server();
+        $.post( "/set_grouping", JSON.stringify({checkbox: useGrouping}), function(resp){
+            console.log(resp);
+        });
+    };
+    function playMidi(){
+        console.log('playing file: ', 'static/harmonisations/'+file_name_mid);
+        MIDIjs.stop();
+        MIDIjs.play('static/harmonisations/'+file_name_mid);
+    };
+    function stopMidi(){
+        MIDIjs.stop();
+    };
+</script>
+</html>

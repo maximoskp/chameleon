@@ -5,9 +5,9 @@
   <identification>
     <creator type="composer">Bach, Chorale, "Jesu, der du meine Seele"</creator>
     <encoding>
-      <software>Finale 2014 for Mac</software>
-      <software>Dolet Light for Finale 2014</software>
-      <encoding-date>2015-09-30</encoding-date>
+      <software>Finale 2014.5 for Windows</software>
+      <software>Dolet Light for Finale 2014.5</software>
+      <encoding-date>2019-01-25</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -282,7 +282,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="237">
+    <measure number="3" width="238">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -293,7 +293,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="75">
+      <note default-x="76">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -326,7 +326,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="260">
+    <measure number="4" width="259">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -406,9 +406,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="285">
+    <measure number="5" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -418,7 +418,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -518,7 +518,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="7" width="245">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -548,7 +548,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="8" width="283">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -559,7 +559,7 @@ Calamatiani
         <dot/>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="121">
+      <note default-x="122">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -570,7 +570,7 @@ Calamatiani
         <stem default-y="-40">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="161">
+      <note default-x="162">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -581,7 +581,7 @@ Calamatiani
         <stem default-y="-42">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="201">
+      <note default-x="202">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -605,9 +605,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="295">
+    <measure number="9" width="294">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -627,7 +627,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="156">
+      <note default-x="155">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -638,7 +638,7 @@ Calamatiani
         <dot/>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="256">
+      <note default-x="255">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -751,7 +751,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="114">
+      <note default-x="113">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -773,7 +773,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="269">
+    <measure number="12" width="270">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -794,7 +794,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -805,7 +805,7 @@ Calamatiani
         <stem default-y="-60">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="154">
+      <note default-x="155">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -816,7 +816,7 @@ Calamatiani
         <stem default-y="-60">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -827,7 +827,7 @@ Calamatiani
         <stem default-y="-60">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="230">
+      <note default-x="231">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -840,9 +840,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="290">
+    <measure number="13" width="289">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -969,7 +969,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="279">
+    <measure number="16" width="280">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -980,7 +980,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1012,7 +1012,7 @@ Calamatiani
         <stem default-y="-55">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="199">
+      <note default-x="200">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1038,7 +1038,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="17" width="304">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1048,7 +1048,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="120">
+      <note default-x="119">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1130,7 +1130,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="19" width="256">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1184,7 +1184,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="269">
+    <measure number="20" width="270">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -1253,7 +1253,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="21" width="248">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1280,7 +1280,7 @@ Calamatiani
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="198">
+      <note default-x="197">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1292,7 +1292,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="202">
+    <measure number="22" width="201">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -1336,7 +1336,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="23" width="207">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1346,7 +1346,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1367,7 +1367,7 @@ Calamatiani
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="127">
+      <note default-x="126">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1391,7 +1391,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="24" width="220">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1411,7 +1411,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1457,7 +1457,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="209">
+    <measure number="25" width="210">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -1468,7 +1468,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1494,7 +1494,7 @@ Calamatiani
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1508,7 +1508,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="26" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1538,7 +1538,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="221">
+      <note default-x="220">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1561,7 +1561,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1672,7 +1672,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="29" width="254">
+    <measure number="29" width="255">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -1684,7 +1684,7 @@ Calamatiani
         <dot/>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="118">
+      <note default-x="119">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1848,7 +1848,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="237">
+    <measure number="3" width="238">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -1859,7 +1859,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="75">
+      <note default-x="76">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1903,7 +1903,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="75">
+      <note default-x="76">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1929,7 +1929,7 @@ Calamatiani
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="260">
+    <measure number="4" width="259">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -2051,9 +2051,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="285">
+    <measure number="5" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2063,7 +2063,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2096,7 +2096,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2106,7 +2106,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2249,7 +2249,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="7" width="245">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2293,7 +2293,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2311,7 +2311,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="8" width="283">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -2322,7 +2322,7 @@ Calamatiani
         <dot/>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2334,7 +2334,7 @@ Calamatiani
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="121">
+      <note default-x="122">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -2345,7 +2345,7 @@ Calamatiani
         <stem default-y="-40">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="121">
+      <note default-x="122">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2356,7 +2356,7 @@ Calamatiani
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="161">
+      <note default-x="162">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -2367,7 +2367,7 @@ Calamatiani
         <stem default-y="-42">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="161">
+      <note default-x="162">
         <chord/>
         <pitch>
           <step>F</step>
@@ -2378,7 +2378,7 @@ Calamatiani
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="201">
+      <note default-x="202">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -2389,7 +2389,7 @@ Calamatiani
         <stem default-y="-43">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="201">
+      <note default-x="202">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2424,9 +2424,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="295">
+    <measure number="9" width="294">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2436,7 +2436,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2468,7 +2468,7 @@ Calamatiani
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="156">
+      <note default-x="155">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2479,7 +2479,7 @@ Calamatiani
         <dot/>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="156">
+      <note default-x="155">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2491,7 +2491,7 @@ Calamatiani
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="256">
+      <note default-x="255">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -2501,7 +2501,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-65">down</stem>
       </note>
-      <note default-x="256">
+      <note default-x="255">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2714,7 +2714,7 @@ Calamatiani
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="114">
+      <note default-x="113">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2724,7 +2724,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="114">
+      <note default-x="113">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2758,7 +2758,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="269">
+    <measure number="12" width="270">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -2801,7 +2801,7 @@ Calamatiani
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2812,7 +2812,7 @@ Calamatiani
         <stem default-y="-60">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2823,7 +2823,7 @@ Calamatiani
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="154">
+      <note default-x="155">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -2834,7 +2834,7 @@ Calamatiani
         <stem default-y="-60">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="154">
+      <note default-x="155">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2845,7 +2845,7 @@ Calamatiani
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2856,7 +2856,7 @@ Calamatiani
         <stem default-y="-60">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2867,7 +2867,7 @@ Calamatiani
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="230">
+      <note default-x="231">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2878,7 +2878,7 @@ Calamatiani
         <stem default-y="-60">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="230">
+      <note default-x="231">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2891,9 +2891,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="290">
+    <measure number="13" width="289">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2904,7 +2904,7 @@ Calamatiani
         <dot/>
         <stem default-y="39">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3151,7 +3151,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="279">
+    <measure number="16" width="280">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -3173,7 +3173,7 @@ Calamatiani
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -3205,7 +3205,7 @@ Calamatiani
         <stem default-y="15">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="199">
+      <note default-x="200">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -3240,7 +3240,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3269,7 +3269,7 @@ Calamatiani
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="199">
+      <note default-x="200">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -3283,7 +3283,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="17" width="304">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3293,7 +3293,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="120">
+      <note default-x="119">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -3303,7 +3303,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="30.5">up</stem>
       </note>
-      <note default-x="120">
+      <note default-x="119">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3346,7 +3346,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -3356,7 +3356,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="120">
+      <note default-x="119">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3491,7 +3491,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="19" width="256">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -3501,7 +3501,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3557,7 +3557,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3599,7 +3599,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="269">
+    <measure number="20" width="270">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -3731,7 +3731,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="21" width="248">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3761,7 +3761,7 @@ Calamatiani
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="198">
+      <note default-x="197">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -3771,7 +3771,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="33.5">up</stem>
       </note>
-      <note default-x="198">
+      <note default-x="197">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3785,7 +3785,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -3816,7 +3816,7 @@ Calamatiani
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="202">
+    <measure number="22" width="201">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -3904,7 +3904,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="23" width="207">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -3914,7 +3914,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3925,7 +3925,7 @@ Calamatiani
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -3935,7 +3935,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3968,7 +3968,7 @@ Calamatiani
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="127">
+      <note default-x="126">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -3979,7 +3979,7 @@ Calamatiani
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="127">
+      <note default-x="126">
         <chord/>
         <pitch>
           <step>C</step>
@@ -4014,7 +4014,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="24" width="220">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -4024,7 +4024,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4056,7 +4056,7 @@ Calamatiani
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -4067,7 +4067,7 @@ Calamatiani
         <stem default-y="-60">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <chord/>
         <pitch>
           <step>C</step>
@@ -4146,7 +4146,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="209">
+    <measure number="25" width="210">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -4168,7 +4168,7 @@ Calamatiani
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -4178,7 +4178,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4216,7 +4216,7 @@ Calamatiani
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -4226,7 +4226,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <chord/>
         <pitch>
           <step>G</step>
@@ -4241,7 +4241,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="26" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4251,7 +4251,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4304,7 +4304,7 @@ Calamatiani
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="221">
+      <note default-x="220">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -4314,7 +4314,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="221">
+      <note default-x="220">
         <chord/>
         <pitch>
           <step>D</step>
@@ -4349,7 +4349,7 @@ Calamatiani
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -4359,7 +4359,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <chord/>
         <pitch>
           <step>C</step>
@@ -4570,7 +4570,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="29" width="254">
+    <measure number="29" width="255">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -4594,7 +4594,7 @@ Calamatiani
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="118">
+      <note default-x="119">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4604,7 +4604,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="118">
+      <note default-x="119">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4732,7 +4732,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="237">
+    <measure number="3" width="238">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -4743,7 +4743,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="75">
+      <note default-x="76">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -4785,7 +4785,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-25">down</stem>
       </note>
-      <note default-x="75">
+      <note default-x="76">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -4811,7 +4811,7 @@ Calamatiani
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="260">
+    <measure number="4" width="259">
       <note default-x="16">
         <pitch>
           <step>F</step>
@@ -4899,9 +4899,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="285">
+    <measure number="5" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -4911,7 +4911,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -4944,7 +4944,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -4954,7 +4954,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5073,7 +5073,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="7" width="245">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -5084,7 +5084,7 @@ Calamatiani
         <dot/>
         <stem default-y="39">up</stem>
       </note>
-      <note default-x="110">
+      <note default-x="111">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -5096,7 +5096,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5106,7 +5106,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="75">
+      <note default-x="76">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -5126,7 +5126,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-70">down</stem>
       </note>
-      <note default-x="149">
+      <note default-x="148">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -5135,7 +5135,7 @@ Calamatiani
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="185">
+      <note default-x="186">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -5147,7 +5147,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="8" width="283">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -5167,7 +5167,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="61">up</stem>
       </note>
-      <note default-x="121">
+      <note default-x="122">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -5177,7 +5177,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="54">up</stem>
       </note>
-      <note default-x="201">
+      <note default-x="202">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -5190,7 +5190,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -5210,7 +5210,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="121">
+      <note default-x="122">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -5220,7 +5220,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="201">
+      <note default-x="202">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -5232,9 +5232,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="295">
+    <measure number="9" width="294">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5254,7 +5254,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="56">up</stem>
       </note>
-      <note default-x="156">
+      <note default-x="155">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -5264,7 +5264,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="44">up</stem>
       </note>
-      <note default-x="218">
+      <note default-x="217">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -5276,7 +5276,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -5296,7 +5296,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-25">down</stem>
       </note>
-      <note default-x="156">
+      <note default-x="155">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -5425,7 +5425,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="51">up</stem>
       </note>
-      <note default-x="114">
+      <note default-x="113">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -5468,7 +5468,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="114">
+      <note default-x="113">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5490,7 +5490,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="269">
+    <measure number="12" width="270">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -5511,7 +5511,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="61">up</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5521,7 +5521,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -5531,7 +5531,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="54">up</stem>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <chord/>
         <pitch>
           <step>F</step>
@@ -5565,7 +5565,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5575,7 +5575,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -5587,9 +5587,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="290">
+    <measure number="13" width="289">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -5600,7 +5600,7 @@ Calamatiani
         <dot/>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5633,7 +5633,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5653,7 +5653,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="154">
+      <note default-x="153">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5856,7 +5856,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="279">
+    <measure number="16" width="280">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -5867,7 +5867,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5887,7 +5887,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="199">
+      <note default-x="200">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -5910,7 +5910,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5930,7 +5930,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="199">
+      <note default-x="200">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -5944,7 +5944,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="17" width="304">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -5954,7 +5954,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="39">up</stem>
       </note>
-      <note default-x="120">
+      <note default-x="119">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5991,7 +5991,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6001,7 +6001,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="120">
+      <note default-x="119">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6129,7 +6129,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="19" width="256">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -6172,7 +6172,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6214,7 +6214,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="269">
+    <measure number="20" width="270">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -6302,7 +6302,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="21" width="248">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -6341,7 +6341,7 @@ Calamatiani
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="198">
+      <note default-x="197">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -6354,7 +6354,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6388,7 +6388,7 @@ Calamatiani
         <duration>1</duration>
         <voice>2</voice>
       </forward>
-      <note default-x="198">
+      <note default-x="197">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -6400,7 +6400,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="202">
+    <measure number="22" width="201">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -6484,7 +6484,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="172">
+      <note default-x="171">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6497,7 +6497,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="23" width="207">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -6507,7 +6507,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6518,7 +6518,7 @@ Calamatiani
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -6528,7 +6528,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="56">up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6562,7 +6562,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6572,7 +6572,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6605,7 +6605,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="24" width="220">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -6615,7 +6615,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6647,7 +6647,7 @@ Calamatiani
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -6657,7 +6657,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6692,7 +6692,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6712,7 +6712,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6734,7 +6734,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="209">
+    <measure number="25" width="210">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -6756,7 +6756,7 @@ Calamatiani
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -6766,7 +6766,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="56">up</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6796,7 +6796,7 @@ Calamatiani
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -6819,7 +6819,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6843,7 +6843,7 @@ Calamatiani
         <duration>1</duration>
         <voice>2</voice>
       </forward>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -6857,7 +6857,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="26" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -6887,7 +6887,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="64">up</stem>
       </note>
-      <note default-x="221">
+      <note default-x="220">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -6900,7 +6900,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6930,7 +6930,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="221">
+      <note default-x="220">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6964,7 +6964,7 @@ Calamatiani
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -6974,7 +6974,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="56">up</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7018,7 +7018,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -7169,7 +7169,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="29" width="254">
+    <measure number="29" width="255">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -7212,7 +7212,7 @@ Calamatiani
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="118">
+      <note default-x="119">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -7222,7 +7222,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="118">
+      <note default-x="119">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7265,7 +7265,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="118">
+      <note default-x="119">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -7306,7 +7306,188 @@ Calamatiani
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="99">
+      <note>
+        <rest measure="yes"/>
+        <duration>7</duration>
+        <voice>1</voice>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="2" width="234">
+      <note default-x="16">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="15.5">up</stem>
+      </note>
+      <note default-x="29">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="16">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="29">
+        <chord/>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="16">
+        <chord/>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="29">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="16">
+        <chord/>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="69">
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <note default-x="102">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="168">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="3" width="238">
+      <note>
+        <rest measure="yes"/>
+        <duration>7</duration>
+        <voice>1</voice>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="4" width="259">
+      <note default-x="17">
+        <rest/>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+      </note>
+      <note default-x="120">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="189">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-54">down</stem>
+      </note>
+      <note default-x="177">
+        <chord/>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="189">
+        <chord/>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="177">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="189">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="177">
+        <chord/>
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -7314,9 +7495,9 @@ Calamatiani
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="-35">down</stem>
+        <stem>down</stem>
       </note>
-      <note default-x="87">
+      <note default-x="189">
         <chord/>
         <pitch>
           <step>G</step>
@@ -7327,100 +7508,9 @@ Calamatiani
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="99">
-        <chord/>
-        <pitch>
-          <step>A</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="87">
-        <chord/>
-        <pitch>
-          <step>B</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="99">
-        <chord/>
-        <pitch>
-          <step>C</step>
-          <octave>6</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="87">
-        <chord/>
-        <pitch>
-          <step>D</step>
-          <octave>6</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="99">
-        <chord/>
-        <pitch>
-          <step>E</step>
-          <octave>6</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="152">
-        <rest/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>half</type>
-      </note>
-      <note default-x="260">
-        <rest/>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-      </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="234">
-      <note>
-        <rest measure="yes"/>
-        <duration>7</duration>
-        <voice>1</voice>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="3" width="237">
-      <note>
-        <rest measure="yes"/>
-        <duration>7</duration>
-        <voice>1</voice>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="4" width="260">
-      <note>
-        <rest measure="yes"/>
-        <duration>7</duration>
-        <voice>1</voice>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="5" width="285">
+    <measure number="5" width="284">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -7446,14 +7536,103 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="8" width="283">
-      <note>
-        <rest measure="yes"/>
-        <duration>7</duration>
+      <note default-x="16">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
         <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="15.5">up</stem>
+      </note>
+      <note default-x="29">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="16">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="29">
+        <chord/>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="16">
+        <chord/>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="29">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="16">
+        <chord/>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="81">
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <note default-x="122">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="203">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="295">
+    <measure number="9" width="294">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -7463,10 +7642,94 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="10" width="288">
-      <note>
-        <rest measure="yes"/>
-        <duration>7</duration>
+      <note default-x="17">
+        <rest/>
+        <duration>3</duration>
         <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+      </note>
+      <note default-x="132">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="210">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-54">down</stem>
+      </note>
+      <note default-x="197">
+        <chord/>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="210">
+        <chord/>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="197">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="210">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="197">
+        <chord/>
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="210">
+        <chord/>
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
       </note>
     </measure>
     <!--=======================================================-->
@@ -7478,7 +7741,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="269">
+    <measure number="12" width="270">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -7486,7 +7749,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="290">
+    <measure number="13" width="289">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -7511,7 +7774,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="279">
+    <measure number="16" width="280">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -7544,7 +7807,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="269">
+    <measure number="20" width="270">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -7561,7 +7824,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="202">
+    <measure number="22" width="201">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -7585,7 +7848,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="209">
+    <measure number="25" width="210">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -7618,7 +7881,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="29" width="254">
+    <measure number="29" width="255">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -7700,7 +7963,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="237">
+    <measure number="3" width="238">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -7708,7 +7971,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="260">
+    <measure number="4" width="259">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -7733,7 +7996,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="285">
+    <measure number="5" width="284">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -7759,7 +8022,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="8" width="283">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -7769,7 +8032,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7794,7 +8057,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="295">
+    <measure number="9" width="294">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -7836,7 +8099,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="269">
+    <measure number="12" width="270">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -7844,7 +8107,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="290">
+    <measure number="13" width="289">
       <print new-page="yes"/>
       <note default-x="54">
         <rest/>
@@ -7897,7 +8160,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="279">
+    <measure number="16" width="280">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -7947,7 +8210,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="269">
+    <measure number="20" width="270">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -7969,7 +8232,7 @@ Calamatiani
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="198">
+      <note default-x="197">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -7979,7 +8242,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="198">
+      <note default-x="197">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7992,7 +8255,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="202">
+    <measure number="22" width="201">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -8016,7 +8279,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="209">
+    <measure number="25" width="210">
       <note default-x="15">
         <rest/>
         <duration>4</duration>
@@ -8029,7 +8292,7 @@ Calamatiani
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -8066,7 +8329,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="29" width="254">
+    <measure number="29" width="255">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -8162,7 +8425,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="237">
+    <measure number="3" width="238">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -8210,7 +8473,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="260">
+    <measure number="4" width="259">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -8277,9 +8540,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="285">
+    <measure number="5" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -8289,7 +8552,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -8322,7 +8585,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -8332,7 +8595,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -8451,7 +8714,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="7" width="245">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -8462,7 +8725,7 @@ Calamatiani
         <dot/>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="110">
+      <note default-x="111">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -8474,7 +8737,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -8492,7 +8755,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="8" width="283">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -8503,7 +8766,7 @@ Calamatiani
         <dot/>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="121">
+      <note default-x="122">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -8515,9 +8778,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="295">
+    <measure number="9" width="294">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -8528,7 +8791,7 @@ Calamatiani
         <dot/>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="156">
+      <note default-x="155">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -8595,7 +8858,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="114">
+      <note default-x="113">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -8617,7 +8880,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="269">
+    <measure number="12" width="270">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -8638,7 +8901,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -8648,7 +8911,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -8660,9 +8923,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="290">
+    <measure number="13" width="289">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -8879,7 +9142,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="279">
+    <measure number="16" width="280">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -8913,7 +9176,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="199">
+      <note default-x="200">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -8947,7 +9210,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="199">
+      <note default-x="200">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -8961,7 +9224,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="17" width="304">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -8971,7 +9234,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="120">
+      <note default-x="119">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -8981,7 +9244,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="31">up</stem>
       </note>
-      <note default-x="120">
+      <note default-x="119">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9024,7 +9287,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -9034,7 +9297,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="120">
+      <note default-x="119">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -9169,7 +9432,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="19" width="256">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -9180,7 +9443,7 @@ Calamatiani
         <dot/>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9215,7 +9478,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -9238,7 +9501,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="269">
+    <measure number="20" width="270">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -9320,7 +9583,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="21" width="248">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -9339,7 +9602,7 @@ Calamatiani
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="198">
+      <note default-x="197">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -9352,7 +9615,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -9372,7 +9635,7 @@ Calamatiani
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="202">
+    <measure number="22" width="201">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -9407,7 +9670,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="23" width="207">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -9418,7 +9681,7 @@ Calamatiani
         <dot/>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9454,7 +9717,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="24" width="220">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -9465,7 +9728,7 @@ Calamatiani
         <dot/>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9477,7 +9740,7 @@ Calamatiani
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -9499,7 +9762,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="209">
+    <measure number="25" width="210">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -9510,7 +9773,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -9536,7 +9799,7 @@ Calamatiani
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -9550,7 +9813,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="26" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -9580,7 +9843,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="221">
+      <note default-x="220">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -9673,7 +9936,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="29" width="254">
+    <measure number="29" width="255">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -9689,7 +9952,7 @@ Calamatiani
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="118">
+      <note default-x="119">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -9807,7 +10070,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="237">
+    <measure number="3" width="238">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -9855,7 +10118,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="260">
+    <measure number="4" width="259">
       <note default-x="16">
         <pitch>
           <step>F</step>
@@ -9915,9 +10178,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="285">
+    <measure number="5" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -9927,7 +10190,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -9960,7 +10223,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -9970,7 +10233,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="119">
+      <note default-x="118">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -10089,7 +10352,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="7" width="245">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -10100,7 +10363,7 @@ Calamatiani
         <dot/>
         <stem default-y="39">up</stem>
       </note>
-      <note default-x="110">
+      <note default-x="111">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -10112,7 +10375,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -10123,7 +10386,7 @@ Calamatiani
         <dot/>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10135,7 +10398,7 @@ Calamatiani
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>A</step>
@@ -10156,7 +10419,7 @@ Calamatiani
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="185">
+      <note default-x="186">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -10168,7 +10431,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="8" width="283">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -10179,7 +10442,7 @@ Calamatiani
         <dot/>
         <stem default-y="54">up</stem>
       </note>
-      <note default-x="121">
+      <note default-x="122">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -10192,7 +10455,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -10203,7 +10466,7 @@ Calamatiani
         <dot/>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="121">
+      <note default-x="122">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -10215,9 +10478,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="295">
+    <measure number="9" width="294">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -10228,7 +10491,7 @@ Calamatiani
         <dot/>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="156">
+      <note default-x="155">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -10241,7 +10504,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -10252,7 +10515,7 @@ Calamatiani
         <dot/>
         <stem default-y="-25">down</stem>
       </note>
-      <note default-x="156">
+      <note default-x="155">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -10355,7 +10618,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="50">up</stem>
       </note>
-      <note default-x="114">
+      <note default-x="113">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -10398,7 +10661,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="114">
+      <note default-x="113">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -10420,7 +10683,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="269">
+    <measure number="12" width="270">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -10441,7 +10704,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="60">up</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -10451,7 +10714,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -10461,7 +10724,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="54">up</stem>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <chord/>
         <pitch>
           <step>F</step>
@@ -10495,7 +10758,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -10505,7 +10768,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="192">
+      <note default-x="193">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -10517,9 +10780,9 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="290">
+    <measure number="13" width="289">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -10530,7 +10793,7 @@ Calamatiani
         <dot/>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10563,7 +10826,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -10573,7 +10836,7 @@ Calamatiani
         <type>half</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10584,7 +10847,7 @@ Calamatiani
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>A</step>
@@ -10770,7 +11033,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="279">
+    <measure number="16" width="280">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -10792,7 +11055,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="199">
+      <note default-x="200">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -10826,7 +11089,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="199">
+      <note default-x="200">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -10840,7 +11103,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="17" width="304">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -10850,7 +11113,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="39">up</stem>
       </note>
-      <note default-x="120">
+      <note default-x="119">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -10887,7 +11150,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -10897,7 +11160,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="120">
+      <note default-x="119">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -11025,7 +11288,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="19" width="256">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -11049,7 +11312,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -11072,7 +11335,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="269">
+    <measure number="20" width="270">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -11118,7 +11381,7 @@ Calamatiani
         <dot/>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -11132,7 +11395,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="21" width="248">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -11151,7 +11414,7 @@ Calamatiani
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="198">
+      <note default-x="197">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -11164,7 +11427,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -11178,7 +11441,7 @@ Calamatiani
         <duration>1</duration>
         <voice>2</voice>
       </forward>
-      <note default-x="198">
+      <note default-x="197">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -11190,7 +11453,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="202">
+    <measure number="22" width="201">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -11249,7 +11512,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="23" width="207">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -11260,7 +11523,7 @@ Calamatiani
         <dot/>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -11285,7 +11548,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -11309,7 +11572,7 @@ Calamatiani
     </measure>
     <!--=======================================================-->
     <measure number="24" width="220">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -11320,7 +11583,7 @@ Calamatiani
         <dot/>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -11332,7 +11595,7 @@ Calamatiani
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -11342,7 +11605,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <chord/>
         <pitch>
           <step>E</step>
@@ -11377,7 +11640,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -11388,7 +11651,7 @@ Calamatiani
         <dot/>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -11410,7 +11673,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="209">
+    <measure number="25" width="210">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -11432,7 +11695,7 @@ Calamatiani
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -11442,7 +11705,7 @@ Calamatiani
         <type>eighth</type>
         <stem default-y="55">up</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <chord/>
         <pitch>
           <step>E</step>
@@ -11472,7 +11735,7 @@ Calamatiani
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -11510,7 +11773,7 @@ Calamatiani
         <duration>1</duration>
         <voice>2</voice>
       </forward>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -11524,7 +11787,7 @@ Calamatiani
     <!--=======================================================-->
     <measure number="26" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -11554,7 +11817,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="64">up</stem>
       </note>
-      <note default-x="221">
+      <note default-x="220">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -11567,7 +11830,7 @@ Calamatiani
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -11597,7 +11860,7 @@ Calamatiani
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="221">
+      <note default-x="220">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -11750,7 +12013,7 @@ Calamatiani
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="29" width="254">
+    <measure number="29" width="255">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -11782,7 +12045,7 @@ Calamatiani
           <tied orientation="over" type="start"/>
         </notations>
       </note>
-      <note default-x="118">
+      <note default-x="119">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -11796,7 +12059,7 @@ Calamatiani
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="118">
+      <note default-x="119">
         <chord/>
         <pitch>
           <step>E</step>
@@ -11838,7 +12101,7 @@ Calamatiani
           <tied orientation="under" type="start"/>
         </notations>
       </note>
-      <note default-x="118">
+      <note default-x="119">
         <pitch>
           <step>A</step>
           <octave>3</octave>

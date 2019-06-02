@@ -7,7 +7,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2016-04-23</encoding-date>
+      <encoding-date>2019-05-08</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -157,7 +157,7 @@ Promenade III</credit-words>
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="357">
+    <measure number="1" width="358">
       <print>
         <system-layout>
           <system-margins>
@@ -184,7 +184,7 @@ Promenade III</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="224">
+      <note default-x="225">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -195,7 +195,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="224">
+      <note default-x="225">
         <chord/>
         <pitch>
           <step>G</step>
@@ -207,7 +207,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="247">
+      <note default-x="248">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -218,7 +218,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="247">
+      <note default-x="248">
         <chord/>
         <pitch>
           <step>F</step>
@@ -230,7 +230,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="269">
+      <note default-x="271">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -240,7 +240,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="269">
+      <note default-x="271">
         <chord/>
         <pitch>
           <step>B</step>
@@ -251,7 +251,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="292">
+      <note default-x="294">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -263,7 +263,7 @@ Promenade III</credit-words>
         <stem default-y="30">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="292">
+      <note default-x="294">
         <chord/>
         <pitch>
           <step>C</step>
@@ -275,7 +275,7 @@ Promenade III</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="313">
+      <note default-x="314">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -287,7 +287,7 @@ Promenade III</credit-words>
         <stem default-y="35">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="313">
+      <note default-x="314">
         <chord/>
         <pitch>
           <step>F</step>
@@ -299,7 +299,7 @@ Promenade III</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="330">
+      <note default-x="332">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -310,7 +310,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="330">
+      <note default-x="332">
         <chord/>
         <pitch>
           <step>D</step>
@@ -327,7 +327,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="221">
+    <measure number="2" width="220">
       <attributes>
         <time>
           <beats>6</beats>
@@ -405,7 +405,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="111">
+      <note default-x="110">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -415,7 +415,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="111">
+      <note default-x="110">
         <chord/>
         <pitch>
           <step>B</step>
@@ -449,7 +449,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -460,7 +460,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <chord/>
         <pitch>
           <step>G</step>
@@ -559,7 +559,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="123">
+      <note default-x="122">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -570,7 +570,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="123">
+      <note default-x="122">
         <chord/>
         <pitch>
           <step>F</step>
@@ -582,7 +582,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="123">
+      <note default-x="122">
         <chord/>
         <pitch>
           <step>A</step>
@@ -594,7 +594,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="123">
+      <note default-x="122">
         <chord/>
         <pitch>
           <step>C</step>
@@ -606,7 +606,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="165">
+      <note default-x="164">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -617,7 +617,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="165">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>B</step>
@@ -628,7 +628,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="165">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>D</step>
@@ -640,7 +640,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="165">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>F</step>
@@ -756,7 +756,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="108">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -767,7 +767,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>F</step>
@@ -779,7 +779,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>B</step>
@@ -790,7 +790,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>D</step>
@@ -898,7 +898,7 @@ Promenade III</credit-words>
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -909,7 +909,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <chord/>
         <pitch>
           <step>A</step>
@@ -921,7 +921,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <chord/>
         <pitch>
           <step>C</step>
@@ -933,7 +933,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <chord/>
         <pitch>
           <step>F</step>
@@ -950,7 +950,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="351">
+    <measure number="5" width="349">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -958,7 +958,7 @@ Promenade III</credit-words>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="157">
+      <note default-x="155">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -969,7 +969,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="157">
+      <note default-x="155">
         <chord/>
         <pitch>
           <step>F</step>
@@ -981,7 +981,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="192">
+      <note default-x="191">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -992,7 +992,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="192">
+      <note default-x="191">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1004,7 +1004,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="228">
+      <note default-x="226">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1015,7 +1015,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="228">
+      <note default-x="226">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1027,7 +1027,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="264">
+      <note default-x="263">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1039,7 +1039,7 @@ Promenade III</credit-words>
         <stem default-y="-70">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="264">
+      <note default-x="263">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1051,7 +1051,7 @@ Promenade III</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="286">
+      <note default-x="285">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -1063,7 +1063,7 @@ Promenade III</credit-words>
         <stem default-y="-65">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="286">
+      <note default-x="285">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1075,7 +1075,7 @@ Promenade III</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1086,7 +1086,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1103,7 +1103,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="286">
+    <measure number="6" width="287">
       <attributes>
         <time>
           <beats>6</beats>
@@ -1227,7 +1227,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="199">
+      <note default-x="198">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1239,7 +1239,7 @@ Promenade III</credit-words>
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="199">
+      <note default-x="198">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1381,20 +1381,20 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="211">
+    <measure number="8" width="212">
       <attributes>
         <time symbol="common">
           <beats>4</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="45">
+      <note default-x="44">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="106">
+      <note default-x="105">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1406,7 +1406,7 @@ Promenade III</credit-words>
         <stem default-y="0">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="128">
+      <note default-x="129">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -1418,7 +1418,7 @@ Promenade III</credit-words>
         <stem default-y="5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="150">
+      <note default-x="152">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1429,7 +1429,7 @@ Promenade III</credit-words>
         <type>eighth</type>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="178">
+      <note default-x="179">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -1442,7 +1442,7 @@ Promenade III</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="357">
+    <measure number="1" width="358">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1462,13 +1462,13 @@ Promenade III</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="222">
+      <note default-x="224">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="269">
+      <note default-x="271">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -1479,7 +1479,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-19.5">up</stem>
       </note>
-      <note default-x="269">
+      <note default-x="271">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1491,7 +1491,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="292">
+      <note default-x="294">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -1502,7 +1502,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="292">
+      <note default-x="294">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1514,7 +1514,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="330">
+      <note default-x="332">
         <pitch>
           <step>B</step>
           <octave>1</octave>
@@ -1524,7 +1524,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="330">
+      <note default-x="332">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1540,7 +1540,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="221">
+    <measure number="2" width="220">
       <attributes>
         <time>
           <beats>6</beats>
@@ -1591,7 +1591,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="111">
+      <note default-x="110">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -1602,7 +1602,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-19.5">up</stem>
       </note>
-      <note default-x="111">
+      <note default-x="110">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1635,7 +1635,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <pitch>
           <step>E</step>
           <alter>1</alter>
@@ -1647,7 +1647,7 @@ Promenade III</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1762,7 +1762,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="123">
+      <note default-x="122">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1774,7 +1774,7 @@ Promenade III</credit-words>
         <stem default-y="20">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="123">
+      <note default-x="122">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1810,7 +1810,7 @@ Promenade III</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="165">
+      <note default-x="164">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -1821,7 +1821,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="165">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1916,7 +1916,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="109">
+      <note default-x="108">
         <pitch>
           <step>B</step>
           <octave>1</octave>
@@ -1926,7 +1926,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="109">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1983,7 +1983,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1994,7 +1994,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-9.5">up</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <chord/>
         <pitch>
           <step>F</step>
@@ -2011,7 +2011,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="351">
+    <measure number="5" width="349">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -2019,13 +2019,13 @@ Promenade III</credit-words>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="155">
+      <note default-x="153">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="228">
+      <note default-x="226">
         <pitch>
           <step>E</step>
           <alter>1</alter>
@@ -2037,7 +2037,7 @@ Promenade III</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="228">
+      <note default-x="226">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2050,7 +2050,7 @@ Promenade III</credit-words>
         <accidental>sharp</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -2064,7 +2064,7 @@ Promenade III</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2085,7 +2085,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="286">
+    <measure number="6" width="287">
       <attributes>
         <time>
           <beats>6</beats>
@@ -2183,7 +2183,7 @@ Promenade III</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="199">
+      <note default-x="198">
         <pitch>
           <step>E</step>
           <alter>1</alter>
@@ -2195,7 +2195,7 @@ Promenade III</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="199">
+      <note default-x="198">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2316,7 +2316,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="211">
+    <measure number="8" width="212">
       <attributes>
         <time symbol="common">
           <beats>4</beats>
@@ -2335,7 +2335,7 @@ Promenade III</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="357">
+    <measure number="1" width="358">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2355,7 +2355,20 @@ Promenade III</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="224">
+      <note default-x="225">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <stem default-y="-64">down</stem>
+      </note>
+      <note default-x="213">
+        <chord/>
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -2364,9 +2377,10 @@ Promenade III</credit-words>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="-59">down</stem>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
       </note>
-      <note default-x="213">
+      <note default-x="225">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2379,7 +2393,7 @@ Promenade III</credit-words>
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="224">
+      <note default-x="213">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2391,7 +2405,7 @@ Promenade III</credit-words>
         <accidental>natural</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="213">
+      <note default-x="225">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2403,7 +2417,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="224">
+      <note default-x="213">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2416,7 +2430,7 @@ Promenade III</credit-words>
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="213">
+      <note default-x="225">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2428,25 +2442,30 @@ Promenade III</credit-words>
         <accidental>natural</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="224">
-        <chord/>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
+      <note default-x="249">
+        <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
+      </note>
+      <note default-x="269">
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+      </note>
+      <note default-x="332">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
       </note>
       <barline location="right">
         <bar-style>light-light</bar-style>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="221">
+    <measure number="2" width="220">
       <attributes>
         <time>
           <beats>6</beats>
@@ -2497,7 +2516,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="351">
+    <measure number="5" width="349">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -2515,7 +2534,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="286">
+    <measure number="6" width="287">
       <attributes>
         <time>
           <beats>6</beats>
@@ -2549,7 +2568,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="211">
+    <measure number="8" width="212">
       <attributes>
         <time symbol="common">
           <beats>4</beats>
@@ -2568,7 +2587,7 @@ Promenade III</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="357">
+    <measure number="1" width="358">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2588,7 +2607,30 @@ Promenade III</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="224">
+      <note default-x="225">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-50">down</stem>
+      </note>
+      <note default-x="249">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="271">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="294">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -2599,19 +2641,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="247">
-        <rest/>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
-      <note default-x="268">
-        <rest/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>half</type>
-      </note>
-      <note default-x="331">
+      <note default-x="332">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -2622,7 +2652,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="221">
+    <measure number="2" width="220">
       <attributes>
         <time>
           <beats>6</beats>
@@ -2650,12 +2680,41 @@ Promenade III</credit-words>
         <pitch>
           <step>C</step>
           <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-50">down</stem>
+      </note>
+      <note default-x="72">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="97">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
           <octave>4</octave>
         </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="-14.5">up</stem>
+      </note>
+      <note default-x="123">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="164">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
       </note>
       <barline location="right">
         <bar-style>light-light</bar-style>
@@ -2679,7 +2738,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="351">
+    <measure number="5" width="349">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -2687,7 +2746,24 @@ Promenade III</credit-words>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="157">
+      <note default-x="155">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-50">down</stem>
+      </note>
+      <note default-x="191">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="226">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -2698,12 +2774,24 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-14.5">up</stem>
       </note>
+      <note default-x="263">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="307">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
       <barline location="right">
         <bar-style>light-light</bar-style>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="286">
+    <measure number="6" width="287">
       <attributes>
         <time>
           <beats>6</beats>
@@ -2761,7 +2849,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="211">
+    <measure number="8" width="212">
       <attributes>
         <time symbol="common">
           <beats>4</beats>
@@ -2780,7 +2868,7 @@ Promenade III</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="357">
+    <measure number="1" width="358">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2800,7 +2888,7 @@ Promenade III</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="224">
+      <note default-x="225">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -2811,7 +2899,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="224">
+      <note default-x="225">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2823,7 +2911,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="247">
+      <note default-x="248">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -2834,7 +2922,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="247">
+      <note default-x="248">
         <chord/>
         <pitch>
           <step>F</step>
@@ -2846,7 +2934,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="269">
+      <note default-x="271">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2856,7 +2944,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="269">
+      <note default-x="271">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2867,55 +2955,54 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="292">
+      <note default-x="294">
         <pitch>
           <step>C</step>
           <alter>1</alter>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="30">up</stem>
-        <beam number="1">begin</beam>
+        <type>quarter</type>
+        <stem default-y="29">up</stem>
       </note>
-      <note default-x="292">
+      <note default-x="294">
+        <chord/>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="294">
         <chord/>
         <pitch>
           <step>C</step>
           <alter>1</alter>
           <octave>5</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="313">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="35">up</stem>
-        <beam number="1">end</beam>
-      </note>
-      <note default-x="313">
+      <note default-x="294">
         <chord/>
         <pitch>
           <step>F</step>
           <alter>1</alter>
           <octave>5</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="330">
+      <note default-x="332">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -2926,7 +3013,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="330">
+      <note default-x="332">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2943,7 +3030,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="221">
+    <measure number="2" width="220">
       <attributes>
         <time>
           <beats>6</beats>
@@ -2956,11 +3043,22 @@ Promenade III</credit-words>
           <alter>1</alter>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="30">up</stem>
-        <beam number="1">begin</beam>
+        <type>quarter</type>
+        <stem default-y="29">up</stem>
+      </note>
+      <note default-x="47">
+        <chord/>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
       </note>
       <note default-x="47">
         <chord/>
@@ -2969,33 +3067,21 @@ Promenade III</credit-words>
           <alter>1</alter>
           <octave>5</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="68">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="35">up</stem>
-        <beam number="1">end</beam>
-      </note>
-      <note default-x="68">
+      <note default-x="47">
         <chord/>
         <pitch>
           <step>F</step>
           <alter>1</alter>
           <octave>5</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem>up</stem>
       </note>
       <note default-x="86">
@@ -3021,7 +3107,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="111">
+      <note default-x="110">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -3031,7 +3117,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="111">
+      <note default-x="110">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3065,7 +3151,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -3076,7 +3162,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3175,7 +3261,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="123">
+      <note default-x="122">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -3186,7 +3272,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="123">
+      <note default-x="122">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3198,7 +3284,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="123">
+      <note default-x="122">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3210,7 +3296,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="123">
+      <note default-x="122">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3222,7 +3308,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="165">
+      <note default-x="164">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -3233,7 +3319,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="165">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3244,7 +3330,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="165">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>D</step>
@@ -3256,7 +3342,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="165">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3372,7 +3458,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="108">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -3383,7 +3469,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3395,7 +3481,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3406,7 +3492,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>D</step>
@@ -3514,7 +3600,7 @@ Promenade III</credit-words>
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -3525,7 +3611,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3537,7 +3623,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3549,7 +3635,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3566,7 +3652,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="351">
+    <measure number="5" width="349">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -3574,7 +3660,7 @@ Promenade III</credit-words>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="157">
+      <note default-x="155">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -3585,7 +3671,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="157">
+      <note default-x="155">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3597,7 +3683,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="192">
+      <note default-x="191">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -3608,7 +3694,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="192">
+      <note default-x="191">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3620,7 +3706,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="228">
+      <note default-x="226">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -3631,7 +3717,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="228">
+      <note default-x="226">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3643,55 +3729,30 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="264">
+      <note default-x="263">
         <pitch>
           <step>F</step>
           <alter>1</alter>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-70">down</stem>
-        <beam number="1">begin</beam>
+        <type>quarter</type>
+        <stem default-y="-64">down</stem>
       </note>
-      <note default-x="264">
+      <note default-x="263">
         <chord/>
         <pitch>
           <step>F</step>
           <alter>1</alter>
           <octave>5</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="286">
-        <pitch>
-          <step>G</step>
-          <alter>1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-65">down</stem>
-        <beam number="1">end</beam>
-      </note>
-      <note default-x="286">
-        <chord/>
-        <pitch>
-          <step>G</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="308">
+      <note default-x="307">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -3702,7 +3763,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3719,7 +3780,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="286">
+    <measure number="6" width="287">
       <attributes>
         <time>
           <beats>6</beats>
@@ -3732,11 +3793,10 @@ Promenade III</credit-words>
           <alter>1</alter>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-65">down</stem>
-        <beam number="1">begin</beam>
+        <type>quarter</type>
+        <stem default-y="-59">down</stem>
       </note>
       <note default-x="47">
         <chord/>
@@ -3745,33 +3805,9 @@ Promenade III</credit-words>
           <alter>1</alter>
           <octave>5</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="69">
-        <pitch>
-          <step>A</step>
-          <alter>1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-60">down</stem>
-        <beam number="1">end</beam>
-      </note>
-      <note default-x="69">
-        <chord/>
-        <pitch>
-          <step>A</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem>down</stem>
       </note>
       <note default-x="91">
@@ -3843,50 +3879,27 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="199">
+      <note default-x="198">
         <pitch>
           <step>C</step>
           <alter>1</alter>
           <octave>5</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem default-y="-50">down</stem>
-        <beam number="1">begin</beam>
       </note>
-      <note default-x="199">
+      <note default-x="198">
         <chord/>
         <pitch>
           <step>C</step>
           <alter>1</alter>
           <octave>6</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="222">
-        <pitch>
-          <step>B</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-55">down</stem>
-        <beam number="1">end</beam>
-      </note>
-      <note default-x="222">
-        <chord/>
-        <pitch>
-          <step>B</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem>down</stem>
       </note>
       <note default-x="244">
@@ -3997,20 +4010,20 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="211">
+    <measure number="8" width="212">
       <attributes>
         <time symbol="common">
           <beats>4</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="45">
+      <note default-x="44">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="106">
+      <note default-x="105">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4022,7 +4035,7 @@ Promenade III</credit-words>
         <stem default-y="0">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="128">
+      <note default-x="129">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -4034,7 +4047,7 @@ Promenade III</credit-words>
         <stem default-y="5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="150">
+      <note default-x="152">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -4045,7 +4058,7 @@ Promenade III</credit-words>
         <type>eighth</type>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="178">
+      <note default-x="179">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -4058,7 +4071,7 @@ Promenade III</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="357">
+    <measure number="1" width="358">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -4078,13 +4091,13 @@ Promenade III</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="222">
+      <note default-x="224">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="269">
+      <note default-x="271">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -4095,7 +4108,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-19.5">up</stem>
       </note>
-      <note default-x="269">
+      <note default-x="271">
         <chord/>
         <pitch>
           <step>D</step>
@@ -4107,7 +4120,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="292">
+      <note default-x="294">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -4118,7 +4131,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="292">
+      <note default-x="294">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4130,7 +4143,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="330">
+      <note default-x="332">
         <pitch>
           <step>B</step>
           <octave>1</octave>
@@ -4140,7 +4153,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="330">
+      <note default-x="332">
         <chord/>
         <pitch>
           <step>B</step>
@@ -4156,7 +4169,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="221">
+    <measure number="2" width="220">
       <attributes>
         <time>
           <beats>6</beats>
@@ -4207,7 +4220,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="111">
+      <note default-x="110">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -4218,7 +4231,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-19.5">up</stem>
       </note>
-      <note default-x="111">
+      <note default-x="110">
         <chord/>
         <pitch>
           <step>D</step>
@@ -4251,7 +4264,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <pitch>
           <step>E</step>
           <alter>1</alter>
@@ -4263,7 +4276,7 @@ Promenade III</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4378,55 +4391,30 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="123">
+      <note default-x="122">
         <pitch>
           <step>C</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="20">up</stem>
-        <beam number="1">begin</beam>
+        <type>quarter</type>
+        <stem default-y="11">up</stem>
       </note>
-      <note default-x="123">
+      <note default-x="122">
         <chord/>
         <pitch>
           <step>C</step>
           <alter>1</alter>
           <octave>3</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="143">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="25">up</stem>
-        <beam number="1">end</beam>
-      </note>
-      <note default-x="143">
-        <chord/>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-      </note>
-      <note default-x="165">
+      <note default-x="164">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -4437,7 +4425,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="165">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>D</step>
@@ -4467,11 +4455,10 @@ Promenade III</credit-words>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="20">up</stem>
-        <beam number="1">begin</beam>
+        <type>quarter</type>
+        <stem default-y="11">up</stem>
       </note>
       <note default-x="47">
         <chord/>
@@ -4480,33 +4467,9 @@ Promenade III</credit-words>
           <alter>1</alter>
           <octave>3</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-      </note>
-      <note default-x="67">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="25">up</stem>
-        <beam number="1">end</beam>
-      </note>
-      <note default-x="67">
-        <chord/>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem>up</stem>
       </note>
       <note default-x="86">
@@ -4532,7 +4495,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="109">
+      <note default-x="108">
         <pitch>
           <step>B</step>
           <octave>1</octave>
@@ -4542,7 +4505,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="109">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>B</step>
@@ -4599,7 +4562,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4610,7 +4573,7 @@ Promenade III</credit-words>
         <type>quarter</type>
         <stem default-y="-9.5">up</stem>
       </note>
-      <note default-x="195">
+      <note default-x="194">
         <chord/>
         <pitch>
           <step>F</step>
@@ -4627,7 +4590,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="351">
+    <measure number="5" width="349">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -4635,13 +4598,13 @@ Promenade III</credit-words>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="155">
+      <note default-x="153">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="228">
+      <note default-x="226">
         <pitch>
           <step>E</step>
           <alter>1</alter>
@@ -4653,7 +4616,7 @@ Promenade III</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="228">
+      <note default-x="226">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4666,7 +4629,7 @@ Promenade III</credit-words>
         <accidental>sharp</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -4681,7 +4644,7 @@ Promenade III</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4702,7 +4665,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="286">
+    <measure number="6" width="287">
       <attributes>
         <time>
           <beats>6</beats>
@@ -4800,7 +4763,7 @@ Promenade III</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="199">
+      <note default-x="198">
         <pitch>
           <step>E</step>
           <alter>1</alter>
@@ -4812,7 +4775,7 @@ Promenade III</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="199">
+      <note default-x="198">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4933,7 +4896,7 @@ Promenade III</credit-words>
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="211">
+    <measure number="8" width="212">
       <attributes>
         <time symbol="common">
           <beats>4</beats>

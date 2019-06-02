@@ -1,0 +1,46 @@
+.mb25{
+	margin-bottom:25px;
+}
+
+.mb35{
+	margin-bottom:35px;
+}
+
+.mt50{
+	margin-top:50px;
+}
+
+.text-center{
+	text-align:center;
+}
+
+.input-field.col label {
+    left: 0;
+    position: relative;
+    font-size: 1.5rem;
+}
+
+.hero{
+	min-height: 146px;
+    background: url(../img/header.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.label{
+	font-size:1.5rem;
+	color:#9e9e9e;
+}
+
+.border-wrapper {
+    padding: 10px;
+    overflow: auto;
+    border: solid 1px #314e3a;
+}
+
+@media screen and (min-width:1024px){
+.col.s6.submit-area .border-wrapper {
+    min-height: 265px;
+    padding: 40px;
+}
+}

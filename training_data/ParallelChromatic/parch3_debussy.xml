@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2016-05-04</encoding-date>
+      <encoding-date>2019-05-09</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -152,7 +152,7 @@ Nuages
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="452">
+    <measure number="1" width="451">
       <print>
         <system-layout>
           <system-margins>
@@ -179,7 +179,7 @@ Nuages
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="146">
+      <note default-x="145">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -190,7 +190,7 @@ Nuages
         <type>quarter</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="146">
+      <note default-x="145">
         <chord/>
         <pitch>
           <step>B</step>
@@ -255,7 +255,7 @@ Nuages
           <line>4</line>
         </clef>
       </attributes>
-      <note default-x="308">
+      <note default-x="307">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -267,7 +267,7 @@ Nuages
         <accidental>flat</accidental>
         <stem default-y="-30">down</stem>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <chord/>
         <pitch>
           <step>E</step>
@@ -437,7 +437,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="131">
+      <note default-x="132">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -449,7 +449,7 @@ Nuages
         <stem default-y="-32">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="131">
+      <note default-x="132">
         <chord/>
         <pitch>
           <step>B</step>
@@ -461,7 +461,7 @@ Nuages
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="131">
+      <note default-x="132">
         <chord/>
         <pitch>
           <step>E</step>
@@ -472,7 +472,7 @@ Nuages
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="131">
+      <note default-x="132">
         <chord/>
         <pitch>
           <step>G</step>
@@ -484,7 +484,7 @@ Nuages
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -496,7 +496,7 @@ Nuages
         <stem default-y="-35">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <chord/>
         <pitch>
           <step>A</step>
@@ -508,7 +508,7 @@ Nuages
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <chord/>
         <pitch>
           <step>D</step>
@@ -519,7 +519,7 @@ Nuages
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <chord/>
         <pitch>
           <step>F</step>
@@ -583,7 +583,7 @@ Nuages
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="289">
+    <measure number="3" width="290">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -606,7 +606,7 @@ Nuages
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="71">
+      <note default-x="70">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -618,7 +618,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="71">
+      <note default-x="70">
         <chord/>
         <pitch>
           <step>G</step>
@@ -631,7 +631,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="111">
+      <note default-x="112">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -642,7 +642,7 @@ Nuages
         <type>quarter</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="111">
+      <note default-x="112">
         <chord/>
         <pitch>
           <step>F</step>
@@ -654,7 +654,7 @@ Nuages
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="155">
+      <note default-x="156">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -666,7 +666,7 @@ Nuages
         <accidental>flat</accidental>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="155">
+      <note default-x="156">
         <chord/>
         <pitch>
           <step>E</step>
@@ -701,7 +701,7 @@ Nuages
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="242">
+      <note default-x="243">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -712,7 +712,7 @@ Nuages
         <accidental>natural</accidental>
         <stem default-y="-19.5">up</stem>
       </note>
-      <note default-x="242">
+      <note default-x="243">
         <chord/>
         <pitch>
           <step>B</step>
@@ -732,7 +732,7 @@ Nuages
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="452">
+    <measure number="1" width="451">
       <print>
         <measure-numbering>system</measure-numbering>
       </print>
@@ -752,7 +752,7 @@ Nuages
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="146">
+      <note default-x="145">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -764,7 +764,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="146">
+      <note default-x="145">
         <chord/>
         <pitch>
           <step>D</step>
@@ -822,7 +822,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -834,7 +834,7 @@ Nuages
         <accidental>flat</accidental>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <chord/>
         <pitch>
           <step>G</step>
@@ -998,7 +998,7 @@ Nuages
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="131">
+      <note default-x="132">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -1009,7 +1009,7 @@ Nuages
         <stem default-y="53">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="131">
+      <note default-x="132">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1021,7 +1021,7 @@ Nuages
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="131">
+      <note default-x="132">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1033,7 +1033,7 @@ Nuages
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="131">
+      <note default-x="132">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1044,7 +1044,7 @@ Nuages
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -1055,7 +1055,7 @@ Nuages
         <stem default-y="50">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1067,7 +1067,7 @@ Nuages
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1079,7 +1079,7 @@ Nuages
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1156,16 +1156,18 @@ Nuages
         <chord/>
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>12</duration>
         <voice>2</voice>
         <type>whole</type>
         <dot/>
+        <accidental>sharp</accidental>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="289">
+    <measure number="3" width="290">
       <note default-x="26">
         <pitch>
           <step>G</step>
@@ -1189,7 +1191,7 @@ Nuages
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="71">
+      <note default-x="70">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1200,7 +1202,7 @@ Nuages
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="71">
+      <note default-x="70">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1213,7 +1215,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="111">
+      <note default-x="112">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -1223,7 +1225,7 @@ Nuages
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="111">
+      <note default-x="112">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1236,7 +1238,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="155">
+      <note default-x="156">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -1248,7 +1250,7 @@ Nuages
         <accidental>flat</accidental>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="155">
+      <note default-x="156">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1284,7 +1286,7 @@ Nuages
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="242">
+      <note default-x="243">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -1296,7 +1298,7 @@ Nuages
         <accidental>flat</accidental>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="242">
+      <note default-x="243">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1315,7 +1317,7 @@ Nuages
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="452">
+    <measure number="1" width="451">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1335,7 +1337,31 @@ Nuages
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="146">
+      <note default-x="145">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10.5">up</stem>
+      </note>
+      <note default-x="158">
+        <chord/>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+      </note>
+      <note default-x="145">
+        <chord/>
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1343,9 +1369,9 @@ Nuages
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="14">up</stem>
+        <stem>up</stem>
       </note>
-      <note default-x="157">
+      <note default-x="158">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1356,7 +1382,7 @@ Nuages
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="146">
+      <note default-x="145">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1369,7 +1395,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="157">
+      <note default-x="158">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1380,7 +1406,7 @@ Nuages
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="146">
+      <note default-x="145">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1391,43 +1417,19 @@ Nuages
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="157">
-        <chord/>
-        <pitch>
-          <step>B</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>up</stem>
-      </note>
-      <note default-x="146">
-        <chord/>
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <accidental>sharp</accidental>
-        <stem>up</stem>
-      </note>
-      <note default-x="194">
+      <note default-x="193">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="231">
+      <note default-x="230">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="351">
+      <note default-x="350">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
@@ -1443,7 +1445,7 @@ Nuages
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="289">
+    <measure number="3" width="290">
       <note>
         <rest measure="yes"/>
         <duration>12</duration>
@@ -1456,7 +1458,7 @@ Nuages
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="452">
+    <measure number="1" width="451">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1476,7 +1478,7 @@ Nuages
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="146">
+      <note default-x="145">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1486,19 +1488,19 @@ Nuages
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="194">
+      <note default-x="193">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="231">
+      <note default-x="230">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="351">
+      <note default-x="350">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
@@ -1514,7 +1516,7 @@ Nuages
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="289">
+    <measure number="3" width="290">
       <note default-x="26">
         <pitch>
           <step>E</step>
@@ -1550,7 +1552,7 @@ Nuages
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="452">
+    <measure number="1" width="451">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1570,7 +1572,7 @@ Nuages
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="146">
+      <note default-x="145">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1581,7 +1583,7 @@ Nuages
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="146">
+      <note default-x="145">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1646,7 +1648,7 @@ Nuages
           <line>4</line>
         </clef>
       </attributes>
-      <note default-x="308">
+      <note default-x="307">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -1658,7 +1660,7 @@ Nuages
         <accidental>flat</accidental>
         <stem default-y="-30">down</stem>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1825,7 +1827,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1840,7 +1842,7 @@ Nuages
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1856,7 +1858,7 @@ Nuages
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1871,7 +1873,7 @@ Nuages
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1955,7 +1957,7 @@ Nuages
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="289">
+    <measure number="3" width="290">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -1978,7 +1980,7 @@ Nuages
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="71">
+      <note default-x="70">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -1990,7 +1992,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="71">
+      <note default-x="70">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2003,7 +2005,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="111">
+      <note default-x="112">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -2014,7 +2016,7 @@ Nuages
         <type>quarter</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="111">
+      <note default-x="112">
         <chord/>
         <pitch>
           <step>F</step>
@@ -2026,7 +2028,7 @@ Nuages
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="155">
+      <note default-x="156">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -2038,7 +2040,7 @@ Nuages
         <accidental>flat</accidental>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="155">
+      <note default-x="156">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2073,7 +2075,7 @@ Nuages
         <accidental>natural</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="242">
+      <note default-x="243">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -2084,7 +2086,7 @@ Nuages
         <accidental>natural</accidental>
         <stem default-y="-19.5">up</stem>
       </note>
-      <note default-x="242">
+      <note default-x="243">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2103,7 +2105,7 @@ Nuages
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="452">
+    <measure number="1" width="451">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2123,7 +2125,7 @@ Nuages
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="146">
+      <note default-x="145">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -2135,7 +2137,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="146">
+      <note default-x="145">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2193,7 +2195,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -2205,7 +2207,7 @@ Nuages
         <accidental>flat</accidental>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="308">
+      <note default-x="307">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2364,7 +2366,7 @@ Nuages
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2378,7 +2380,7 @@ Nuages
           <tied orientation="over" type="start"/>
         </notations>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <chord/>
         <pitch>
           <step>F</step>
@@ -2394,7 +2396,7 @@ Nuages
           <tied orientation="over" type="start"/>
         </notations>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2410,7 +2412,7 @@ Nuages
           <tied orientation="over" type="start"/>
         </notations>
       </note>
-      <note default-x="156">
+      <note default-x="157">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2498,25 +2500,104 @@ Nuages
           <step>E</step>
           <octave>2</octave>
         </pitch>
-        <duration>12</duration>
+        <duration>3</duration>
         <voice>2</voice>
-        <type>whole</type>
+        <type>quarter</type>
         <dot/>
+        <stem default-y="-79">down</stem>
+        <notations>
+          <slur dash-length="7.5" line-type="dashed" number="1" placement="below" space-length="7.5" type="start"/>
+        </notations>
       </note>
       <note default-x="39">
         <chord/>
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
-        <duration>12</duration>
+        <duration>3</duration>
         <voice>2</voice>
-        <type>whole</type>
+        <type>quarter</type>
         <dot/>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+      </note>
+      <note default-x="106">
+        <rest>
+          <display-step>E</display-step>
+          <display-octave>2</display-octave>
+        </rest>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="157">
+        <pitch>
+          <step>E</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-85">down</stem>
+        <notations>
+          <tied orientation="under" type="start"/>
+          <slur number="1" type="stop"/>
+        </notations>
+      </note>
+      <note default-x="157">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notations>
+          <tied orientation="under" type="start"/>
+        </notations>
+      </note>
+      <note default-x="202">
+        <pitch>
+          <step>E</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>6</duration>
+        <tie type="stop"/>
+        <voice>2</voice>
+        <type>half</type>
+        <dot/>
+        <stem default-y="-79">down</stem>
+        <notations>
+          <tied type="stop"/>
+        </notations>
+      </note>
+      <note default-x="202">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>6</duration>
+        <tie type="stop"/>
+        <voice>2</voice>
+        <type>half</type>
+        <dot/>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+        </notations>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="289">
+    <measure number="3" width="290">
       <note default-x="26">
         <pitch>
           <step>G</step>
@@ -2540,7 +2621,7 @@ Nuages
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="71">
+      <note default-x="70">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -2551,7 +2632,7 @@ Nuages
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="71">
+      <note default-x="70">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2564,7 +2645,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="111">
+      <note default-x="112">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -2574,7 +2655,7 @@ Nuages
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="111">
+      <note default-x="112">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2587,7 +2668,7 @@ Nuages
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="155">
+      <note default-x="156">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -2599,7 +2680,7 @@ Nuages
         <accidental>flat</accidental>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="155">
+      <note default-x="156">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2634,7 +2715,7 @@ Nuages
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="242">
+      <note default-x="243">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -2646,7 +2727,7 @@ Nuages
         <accidental>flat</accidental>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="242">
+      <note default-x="243">
         <chord/>
         <pitch>
           <step>D</step>

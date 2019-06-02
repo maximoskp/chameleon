@@ -1,8 +1,10 @@
 import os
+import glob
 from flask import Flask, render_template, request, send_file, redirect, jsonify
 import json
 cwd = os.getcwd()
 import sys
+import pickle
 # import datetime
 # use folders of generation functions
 sys.path.insert(0, cwd + '/CM_generate')
@@ -116,22 +118,36 @@ def upload():
     shutil.copy2(output_midi_with_path, static_output_1)
     shutil.copy2(output_midi_with_path, static_output_2)
 
-    # # prepare response
-    # tmp_json = {}
-    # tmp_json['initial_output_file_name'] = initial_output_file_name
-    # return jsonify(tmp_json)
+    # prepare response
+    #tmp_json = {}
+    #tmp_json['initial_output_file_name'] = initial_output_file_name
+    #return jsonify(tmp_json)
     return send_file(filename_or_fp=output_file_with_path, attachment_filename=output_file_name, as_attachment=True)
+    #return 'file uploaded successfully'
 
 @app.route("/get_idiom_names", methods=['POST'])
 def get_idiom_names():
-    idiom_names_list = os.listdir('static/trained_idioms')
-    # remove extension
+    #get all Idioms
+    list_all = glob.glob('static/trained_idioms/*.pickle')
+    list_bl = glob.glob('static/trained_idioms/bl_*.pickle')
+    idiom_names_list = [item for item in list_all if item not in list_bl]
+    # idiom_names_list = glob.glob('static/trained_idioms/*.pickle')
+    allIdioms = {}
     for i in range( len( idiom_names_list ) ):
-        idiom_names_list[i] = idiom_names_list[i].split('.')[0]
-    # prepare response
-    tmp_json = {}
-    tmp_json['idiom_names_list'] = idiom_names_list
-    return jsonify(tmp_json)
+        ##########Check here#################
+        # idiomName = idiom_names_list[i].split('\\')[-1].split('.')[0] #for Windows
+        idiomName = idiom_names_list[i].split(os.sep)[-1].split('.')[0] #for Linux, Mac
+        ####################################
+        with open(idiom_names_list[i], 'rb') as fp:
+            anIdiom = pickle.load(fp)
+        #gather all modes and append the Auto
+        allModes = list(iter(anIdiom.modes.keys()))
+        allModes = ['Auto'] + allModes       
+        #append to the dictionary 
+        allIdioms[idiomName] = allModes
+        
+    # return response
+    return jsonify(allIdioms)
 
 @app.route("/set_parameters", methods=['POST'])
 def set_grouping():
@@ -148,12 +164,14 @@ def set_grouping():
     useGrouping = dat_json['useGrouping']
     request_code = dat_json['clientID']
     idiom_name = dat_json['idiom_name']
+    mode_in = dat_json['mode_name']
     voiceLeading = dat_json['voiceLeading']
     # set mode_in
     name_suffix = '_'+idiom_name+'_'+'grp'+str(int(useGrouping))+'_'+voiceLeading+'_'+request_code
     print('useGrouping: ', useGrouping)
     print('request_code: ', request_code)
     print('idiom_name: ', idiom_name)
+    print('mode_in: ', mode_in)
     # prepare response
     tmp_json = {}
     tmp_json['success'] = True

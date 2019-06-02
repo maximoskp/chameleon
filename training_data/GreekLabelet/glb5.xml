@@ -5,9 +5,9 @@
   <identification>
     <creator type="composer">Bach, Chorale, "Jesu, der du meine Seele"</creator>
     <encoding>
-      <software>Finale 2014 for Mac</software>
-      <software>Dolet Light for Finale 2014</software>
-      <encoding-date>2015-09-30</encoding-date>
+      <software>Finale 2014.5 for Windows</software>
+      <software>Dolet Light for Finale 2014.5</software>
+      <encoding-date>2019-01-25</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -184,7 +184,7 @@ LA DANSE DE ZALONGO
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="320">
+    <measure number="1" width="321">
       <print>
         <system-layout>
           <system-margins>
@@ -218,7 +218,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="230">
+    <measure number="2" width="231">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -226,7 +226,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="234">
+    <measure number="3" width="231">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -238,7 +238,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -250,7 +250,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="241">
+    <measure number="4" width="242">
       <note default-x="14">
         <pitch>
           <step>F</step>
@@ -261,7 +261,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="76">
+      <note default-x="77">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -271,7 +271,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-30">down</stem>
       </note>
-      <note default-x="115">
+      <note default-x="116">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -283,7 +283,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="298">
+    <measure number="5" width="299">
       <print new-page="yes"/>
       <note default-x="53">
         <pitch>
@@ -327,7 +327,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="259">
+    <measure number="6" width="260">
       <note default-x="14">
         <pitch>
           <step>C</step>
@@ -348,7 +348,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="123">
+      <note default-x="124">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -366,7 +366,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="260">
+    <measure number="7" width="258">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -378,7 +378,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="122">
+      <note default-x="124">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -390,7 +390,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="268">
+    <measure number="8" width="270">
       <note default-x="16">
         <pitch>
           <step>F</step>
@@ -423,9 +423,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="298">
+    <measure number="9" width="299">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -455,7 +455,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="230">
+      <note default-x="231">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -467,71 +467,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="258">
-      <note default-x="17">
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-50">down</stem>
-      </note>
-      <note default-x="83">
-        <pitch>
-          <step>B</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-55">down</stem>
-      </note>
-      <note default-x="124">
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="10.5">up</stem>
-      </note>
-      <note default-x="191">
-        <rest/>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="11" width="251">
-      <note default-x="14">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>3</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <dot/>
-        <stem default-y="-40">down</stem>
-      </note>
-      <note default-x="116">
-        <pitch>
-          <step>D</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>half</type>
-        <stem default-y="-45">down</stem>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="12" width="278">
-      <note default-x="17">
+    <measure number="10" width="260">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -551,7 +488,70 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="126">
+      <note default-x="125">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10.5">up</stem>
+      </note>
+      <note default-x="193">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="11" width="245">
+      <note default-x="14">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="-40">down</stem>
+      </note>
+      <note default-x="117">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem default-y="-45">down</stem>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="12" width="281">
+      <note default-x="16">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-50">down</stem>
+      </note>
+      <note default-x="85">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+      </note>
+      <note default-x="127">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -561,7 +561,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="193">
+      <note default-x="196">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -572,7 +572,7 @@ LA DANSE DE ZALONGO
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="235">
+      <note default-x="238">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -585,9 +585,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="285">
+    <measure number="13" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -773,7 +773,7 @@ LA DANSE DE ZALONGO
         <stem default-y="-60">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -784,7 +784,7 @@ LA DANSE DE ZALONGO
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="246">
+      <note default-x="247">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -797,9 +797,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="249">
+    <measure number="17" width="250">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -842,7 +842,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="239">
+    <measure number="18" width="235">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -897,7 +897,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="197">
+    <measure number="19" width="198">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -928,7 +928,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="148">
+      <note default-x="149">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -940,7 +940,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="210">
+    <measure number="20" width="211">
       <note default-x="14">
         <pitch>
           <step>C</step>
@@ -983,7 +983,7 @@ LA DANSE DE ZALONGO
         <stem default-y="-45">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -994,7 +994,7 @@ LA DANSE DE ZALONGO
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="180">
+      <note default-x="181">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1007,7 +1007,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="190">
+    <measure number="21" width="192">
       <note default-x="17">
         <pitch>
           <step>C</step>
@@ -1043,7 +1043,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -1053,7 +1053,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1064,7 +1064,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1075,7 +1075,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="142">
+      <note default-x="144">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -1083,9 +1083,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="286">
+    <measure number="22" width="281">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1107,7 +1107,7 @@ LA DANSE DE ZALONGO
         <accidental>sharp</accidental>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="133">
+      <note default-x="132">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1127,7 +1127,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="223">
+      <note default-x="224">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1139,8 +1139,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="201">
-      <note default-x="16">
+    <measure number="23" width="203">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1150,7 +1150,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="67">
+      <note default-x="68">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1170,7 +1170,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1182,7 +1182,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="220">
+    <measure number="24" width="221">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -1193,7 +1193,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1214,7 +1214,7 @@ LA DANSE DE ZALONGO
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="127">
+      <note default-x="128">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1225,7 +1225,7 @@ LA DANSE DE ZALONGO
         <stem default-y="-45">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1236,7 +1236,7 @@ LA DANSE DE ZALONGO
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="188">
+      <note default-x="190">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1249,8 +1249,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="192">
-      <note default-x="16">
+    <measure number="25" width="193">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1271,7 +1271,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="143">
+      <note default-x="144">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -1279,7 +1279,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="186">
+    <measure number="26" width="188">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -1292,7 +1292,7 @@ LA DANSE DE ZALONGO
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="320">
+    <measure number="1" width="321">
       <print>
         <measure-numbering>system</measure-numbering>
       </print>
@@ -1319,7 +1319,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="230">
+    <measure number="2" width="231">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -1327,7 +1327,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="234">
+    <measure number="3" width="231">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -1339,7 +1339,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1351,7 +1351,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="241">
+    <measure number="4" width="242">
       <note default-x="14">
         <pitch>
           <step>F</step>
@@ -1362,7 +1362,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="76">
+      <note default-x="77">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -1372,7 +1372,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-30">down</stem>
       </note>
-      <note default-x="115">
+      <note default-x="116">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1384,7 +1384,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="298">
+    <measure number="5" width="299">
       <print new-page="yes"/>
       <note default-x="53">
         <pitch>
@@ -1428,7 +1428,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="259">
+    <measure number="6" width="260">
       <note default-x="14">
         <pitch>
           <step>C</step>
@@ -1449,7 +1449,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="123">
+      <note default-x="124">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1467,7 +1467,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="260">
+    <measure number="7" width="258">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -1491,7 +1491,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="122">
+      <note default-x="124">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1501,7 +1501,7 @@ LA DANSE DE ZALONGO
         <type>half</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="122">
+      <note default-x="124">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1514,7 +1514,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="268">
+    <measure number="8" width="270">
       <note default-x="16">
         <pitch>
           <step>F</step>
@@ -1580,9 +1580,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="298">
+    <measure number="9" width="299">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1592,7 +1592,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1645,7 +1645,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="230">
+      <note default-x="231">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1655,7 +1655,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="230">
+      <note default-x="231">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1668,8 +1668,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="258">
-      <note default-x="17">
+    <measure number="10" width="260">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1679,7 +1679,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1690,7 +1690,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="83">
+      <note default-x="84">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1700,7 +1700,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="83">
+      <note default-x="84">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1711,7 +1711,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="124">
+      <note default-x="125">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1721,7 +1721,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="124">
+      <note default-x="125">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1732,7 +1732,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="191">
+      <note default-x="193">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -1740,7 +1740,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="251">
+    <measure number="11" width="245">
       <note default-x="14">
         <pitch>
           <step>E</step>
@@ -1752,7 +1752,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1800,7 +1800,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -1810,7 +1810,7 @@ LA DANSE DE ZALONGO
         <type>half</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1823,8 +1823,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="278">
-      <note default-x="17">
+    <measure number="12" width="281">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1834,7 +1834,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1844,7 +1844,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="126">
+      <note default-x="127">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1854,7 +1854,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="193">
+      <note default-x="196">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1865,7 +1865,7 @@ LA DANSE DE ZALONGO
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="235">
+      <note default-x="238">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1879,7 +1879,7 @@ LA DANSE DE ZALONGO
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1889,7 +1889,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1900,7 +1900,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1910,7 +1910,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-80">down</stem>
       </note>
-      <note default-x="126">
+      <note default-x="127">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -1920,7 +1920,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="193">
+      <note default-x="196">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1930,7 +1930,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-83">down</stem>
       </note>
-      <note default-x="193">
+      <note default-x="196">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1943,9 +1943,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="285">
+    <measure number="13" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1988,7 +1988,7 @@ LA DANSE DE ZALONGO
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -1998,7 +1998,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2434,7 +2434,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2445,7 +2445,7 @@ LA DANSE DE ZALONGO
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2456,7 +2456,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2467,7 +2467,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2478,7 +2478,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="246">
+      <note default-x="247">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -2489,7 +2489,7 @@ LA DANSE DE ZALONGO
         <stem default-y="10">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="246">
+      <note default-x="247">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2502,9 +2502,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="249">
+    <measure number="17" width="250">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2519,7 +2519,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2535,7 +2535,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2551,7 +2551,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2640,7 +2640,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="239">
+    <measure number="18" width="235">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -2774,7 +2774,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="197">
+    <measure number="19" width="198">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -2816,7 +2816,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="148">
+      <note default-x="149">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -2862,7 +2862,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-83">down</stem>
       </note>
-      <note default-x="148">
+      <note default-x="149">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2872,7 +2872,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="148">
+      <note default-x="149">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2885,7 +2885,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="210">
+    <measure number="20" width="211">
       <note default-x="14">
         <pitch>
           <step>C</step>
@@ -2928,7 +2928,7 @@ LA DANSE DE ZALONGO
         <stem default-y="25">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2939,7 +2939,7 @@ LA DANSE DE ZALONGO
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="180">
+      <note default-x="181">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -3006,7 +3006,7 @@ LA DANSE DE ZALONGO
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -3016,7 +3016,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-83">down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3029,7 +3029,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="190">
+    <measure number="21" width="192">
       <note default-x="17">
         <pitch>
           <step>C</step>
@@ -3065,7 +3065,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -3075,7 +3075,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3086,7 +3086,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3097,7 +3097,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="142">
+      <note default-x="144">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -3105,9 +3105,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="286">
+    <measure number="22" width="281">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -3118,7 +3118,7 @@ LA DANSE DE ZALONGO
         <stem default-y="-70">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3129,7 +3129,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3140,7 +3140,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3177,7 +3177,7 @@ LA DANSE DE ZALONGO
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="133">
+      <note default-x="132">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -3188,7 +3188,7 @@ LA DANSE DE ZALONGO
         <stem default-y="-70">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="133">
+      <note default-x="132">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3242,7 +3242,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="223">
+      <note default-x="224">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3252,7 +3252,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="223">
+      <note default-x="224">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3265,8 +3265,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="201">
-      <note default-x="16">
+    <measure number="23" width="203">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3276,7 +3276,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3287,7 +3287,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3298,7 +3298,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3309,7 +3309,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="67">
+      <note default-x="68">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -3319,7 +3319,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="67">
+      <note default-x="68">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3373,7 +3373,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -3383,7 +3383,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <chord/>
         <pitch>
           <step>D</step>
@@ -3396,7 +3396,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="220">
+    <measure number="24" width="221">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -3440,7 +3440,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -3450,7 +3450,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3505,7 +3505,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="127">
+      <note default-x="128">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -3516,7 +3516,7 @@ LA DANSE DE ZALONGO
         <stem default-y="-45">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="127">
+      <note default-x="128">
         <chord/>
         <pitch>
           <step>D</step>
@@ -3527,7 +3527,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -3538,7 +3538,7 @@ LA DANSE DE ZALONGO
         <stem default-y="-60">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3549,7 +3549,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3560,7 +3560,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3571,7 +3571,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="188">
+      <note default-x="190">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -3582,7 +3582,7 @@ LA DANSE DE ZALONGO
         <stem default-y="-65">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="188">
+      <note default-x="190">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3595,8 +3595,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="192">
-      <note default-x="16">
+    <measure number="25" width="193">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3607,7 +3607,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3619,7 +3619,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3631,7 +3631,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3686,7 +3686,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="143">
+      <note default-x="144">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -3694,7 +3694,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="186">
+    <measure number="26" width="188">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -3724,7 +3724,7 @@ LA DANSE DE ZALONGO
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="320">
+    <measure number="1" width="321">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -3840,7 +3840,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="257">
+      <note default-x="258">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -3850,7 +3850,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="257">
+      <note default-x="258">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3861,7 +3861,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="257">
+      <note default-x="258">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3874,7 +3874,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="230">
+    <measure number="2" width="231">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -3971,7 +3971,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="170">
+      <note default-x="171">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -3981,7 +3981,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="170">
+      <note default-x="171">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3992,7 +3992,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="170">
+      <note default-x="171">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4005,7 +4005,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="234">
+    <measure number="3" width="231">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -4038,7 +4038,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="73">
+      <note default-x="74">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4048,7 +4048,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-70">down</stem>
       </note>
-      <note default-x="73">
+      <note default-x="74">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4059,7 +4059,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="73">
+      <note default-x="74">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4070,7 +4070,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4080,7 +4080,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4091,7 +4091,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4102,7 +4102,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="167">
+      <note default-x="171">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4112,7 +4112,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="167">
+      <note default-x="171">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4123,7 +4123,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="167">
+      <note default-x="171">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4136,7 +4136,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="241">
+    <measure number="4" width="242">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -4147,7 +4147,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="76">
+      <note default-x="77">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -4157,7 +4157,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="115">
+      <note default-x="116">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4190,7 +4190,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="88">
+      <note default-x="89">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4200,7 +4200,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-70">down</stem>
       </note>
-      <note default-x="115">
+      <note default-x="116">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4244,7 +4244,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="298">
+    <measure number="5" width="299">
       <print new-page="yes"/>
       <note default-x="53">
         <pitch>
@@ -4331,7 +4331,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="259">
+    <measure number="6" width="260">
       <note default-x="14">
         <pitch>
           <step>E</step>
@@ -4352,7 +4352,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="123">
+      <note default-x="124">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4362,7 +4362,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="190">
+      <note default-x="191">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4395,7 +4395,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-70">down</stem>
       </note>
-      <note default-x="123">
+      <note default-x="124">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4404,6 +4404,115 @@ LA DANSE DE ZALONGO
         <voice>2</voice>
         <type>quarter</type>
         <stem default-y="-64">down</stem>
+      </note>
+      <note default-x="191">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem default-y="-64">down</stem>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="7" width="258">
+      <note default-x="16">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem default-y="-64">down</stem>
+      </note>
+      <note default-x="16">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="16">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="82">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-70">down</stem>
+      </note>
+      <note default-x="82">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="82">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="124">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem default-y="-64">down</stem>
+      </note>
+      <note default-x="124">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="124">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem>down</stem>
       </note>
       <note default-x="190">
         <pitch>
@@ -4415,20 +4524,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="7" width="260">
-      <note default-x="16">
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-        <stem default-y="-64">down</stem>
-      </note>
-      <note default-x="16">
+      <note default-x="190">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4439,103 +4535,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="16">
-        <chord/>
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="81">
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>2</voice>
-        <type>eighth</type>
-        <stem default-y="-70">down</stem>
-      </note>
-      <note default-x="81">
-        <chord/>
-        <pitch>
-          <step>E</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>2</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="81">
-        <chord/>
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>2</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="122">
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-        <stem default-y="-64">down</stem>
-      </note>
-      <note default-x="122">
-        <chord/>
-        <pitch>
-          <step>E</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="122">
-        <chord/>
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="186">
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-        <stem default-y="-64">down</stem>
-      </note>
-      <note default-x="186">
-        <chord/>
-        <pitch>
-          <step>E</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="186">
+      <note default-x="190">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4548,7 +4548,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="268">
+    <measure number="8" width="270">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -4579,7 +4579,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="198">
+      <note default-x="199">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -4622,7 +4622,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="198">
+      <note default-x="199">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4632,7 +4632,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="198">
+      <note default-x="199">
         <chord/>
         <pitch>
           <step>C</step>
@@ -4643,7 +4643,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="198">
+      <note default-x="199">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4656,9 +4656,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="298">
+    <measure number="9" width="299">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -4688,7 +4688,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="230">
+      <note default-x="231">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -4701,7 +4701,7 @@ LA DANSE DE ZALONGO
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4731,7 +4731,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="230">
+      <note default-x="231">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4743,8 +4743,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="258">
-      <note default-x="17">
+    <measure number="10" width="260">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -4754,7 +4754,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="83">
+      <note default-x="84">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -4764,7 +4764,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="124">
+      <note default-x="125">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4774,7 +4774,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="191">
+      <note default-x="192">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4787,7 +4787,7 @@ LA DANSE DE ZALONGO
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4797,7 +4797,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="83">
+      <note default-x="84">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4807,7 +4807,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-70">down</stem>
       </note>
-      <note default-x="124">
+      <note default-x="125">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4817,7 +4817,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="191">
+      <note default-x="192">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4829,7 +4829,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="251">
+    <measure number="11" width="245">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -4851,7 +4851,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="77">
+      <note default-x="78">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4861,7 +4861,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-70">down</stem>
       </note>
-      <note default-x="77">
+      <note default-x="78">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4872,7 +4872,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -4882,7 +4882,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4893,7 +4893,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="180">
+      <note default-x="181">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -4903,7 +4903,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="180">
+      <note default-x="181">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4916,8 +4916,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="278">
-      <note default-x="17">
+    <measure number="12" width="281">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -4927,7 +4927,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4938,7 +4938,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -4948,7 +4948,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="20.5">up</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4959,7 +4959,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="126">
+      <note default-x="127">
         <pitch>
           <step>B</step>
           <octave>1</octave>
@@ -4969,7 +4969,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="126">
+      <note default-x="127">
         <chord/>
         <pitch>
           <step>B</step>
@@ -4980,7 +4980,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="193">
+      <note default-x="196">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -4990,7 +4990,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="193">
+      <note default-x="196">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5003,9 +5003,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="285">
+    <measure number="13" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5015,7 +5015,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5122,7 +5122,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="185">
+      <note default-x="184">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -5132,7 +5132,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="185">
+      <note default-x="184">
         <chord/>
         <pitch>
           <step>A</step>
@@ -5296,7 +5296,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -5306,7 +5306,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5319,9 +5319,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="249">
+    <measure number="17" width="250">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5331,7 +5331,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5407,7 +5407,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="239">
+    <measure number="18" width="235">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -5494,7 +5494,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="197">
+    <measure number="19" width="198">
       <forward>
         <duration>4</duration>
         <voice>1</voice>
@@ -5503,7 +5503,7 @@ LA DANSE DE ZALONGO
         <duration>1</duration>
         <voice>1</voice>
       </forward>
-      <note default-x="148">
+      <note default-x="149">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -5557,7 +5557,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="148">
+      <note default-x="149">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -5569,7 +5569,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="210">
+    <measure number="20" width="211">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -5600,7 +5600,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -5643,7 +5643,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -5655,7 +5655,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="190">
+    <measure number="21" width="192">
       <note default-x="17">
         <pitch>
           <step>A</step>
@@ -5677,7 +5677,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="64">
+      <note default-x="65">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5687,7 +5687,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-70">down</stem>
       </note>
-      <note default-x="64">
+      <note default-x="65">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5698,7 +5698,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="64">
+      <note default-x="65">
         <chord/>
         <pitch>
           <step>A</step>
@@ -5709,7 +5709,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5719,7 +5719,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5730,7 +5730,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <chord/>
         <pitch>
           <step>A</step>
@@ -5741,7 +5741,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="142">
+      <note default-x="143">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5751,7 +5751,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="142">
+      <note default-x="143">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5762,7 +5762,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="142">
+      <note default-x="143">
         <chord/>
         <pitch>
           <step>A</step>
@@ -5775,9 +5775,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="286">
+    <measure number="22" width="281">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -5787,7 +5787,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5798,7 +5798,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="133">
+      <note default-x="132">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -5808,7 +5808,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="20.5">up</stem>
       </note>
-      <note default-x="133">
+      <note default-x="132">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5840,7 +5840,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="223">
+      <note default-x="224">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5850,7 +5850,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="223">
+      <note default-x="224">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5863,8 +5863,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="201">
-      <note default-x="16">
+    <measure number="23" width="203">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5874,7 +5874,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5885,7 +5885,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="67">
+      <note default-x="68">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -5895,7 +5895,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="20.5">up</stem>
       </note>
-      <note default-x="67">
+      <note default-x="68">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5927,7 +5927,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -5937,7 +5937,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5950,7 +5950,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="220">
+    <measure number="24" width="221">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -5972,7 +5972,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="66">
+      <note default-x="67">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -6003,7 +6003,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -6013,7 +6013,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6026,8 +6026,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="192">
-      <note default-x="16">
+    <measure number="25" width="193">
+      <note default-x="17">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -6037,7 +6037,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6112,7 +6112,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="143">
+      <note default-x="144">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -6122,7 +6122,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="143">
+      <note default-x="144">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6133,7 +6133,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="143">
+      <note default-x="144">
         <chord/>
         <pitch>
           <step>A</step>
@@ -6146,7 +6146,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="186">
+    <measure number="26" width="188">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -6198,7 +6198,7 @@ LA DANSE DE ZALONGO
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="320">
+    <measure number="1" width="321">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -6301,15 +6301,21 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="194">
+      <note default-x="197">
         <rest/>
-        <duration>4</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>quarter</type>
+      </note>
+      <note default-x="259">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="230">
+    <measure number="2" width="231">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6317,7 +6323,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="234">
+    <measure number="3" width="231">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6325,7 +6331,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="241">
+    <measure number="4" width="242">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6333,7 +6339,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="298">
+    <measure number="5" width="299">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -6342,7 +6348,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="259">
+    <measure number="6" width="260">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6350,7 +6356,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="260">
+    <measure number="7" width="258">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6358,7 +6364,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="268">
+    <measure number="8" width="270">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6366,7 +6372,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="298">
+    <measure number="9" width="299">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -6375,7 +6381,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="258">
+    <measure number="10" width="260">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6383,7 +6389,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="251">
+    <measure number="11" width="245">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6391,7 +6397,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="278">
+    <measure number="12" width="281">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6399,7 +6405,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="285">
+    <measure number="13" width="284">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -6432,7 +6438,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="249">
+    <measure number="17" width="250">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -6441,7 +6447,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="239">
+    <measure number="18" width="235">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6449,7 +6455,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="197">
+    <measure number="19" width="198">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6457,7 +6463,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="210">
+    <measure number="20" width="211">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6465,7 +6471,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="190">
+    <measure number="21" width="192">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6473,7 +6479,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="286">
+    <measure number="22" width="281">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -6482,7 +6488,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="201">
+    <measure number="23" width="203">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6490,7 +6496,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="220">
+    <measure number="24" width="221">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6498,7 +6504,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="192">
+    <measure number="25" width="193">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6506,7 +6512,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="186">
+    <measure number="26" width="188">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6519,7 +6525,7 @@ LA DANSE DE ZALONGO
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="320">
+    <measure number="1" width="321">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -6546,7 +6552,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="230">
+    <measure number="2" width="231">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6554,7 +6560,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="234">
+    <measure number="3" width="231">
       <note default-x="14">
         <pitch>
           <step>C</step>
@@ -6576,21 +6582,27 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="71">
-        <rest/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>half</type>
-      </note>
-      <note default-x="197">
+      <note default-x="74">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
+      <note default-x="111">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="171">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="241">
+    <measure number="4" width="242">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6598,7 +6610,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="298">
+    <measure number="5" width="299">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -6607,7 +6619,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="259">
+    <measure number="6" width="260">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6615,7 +6627,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="260">
+    <measure number="7" width="258">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -6626,21 +6638,27 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="80">
-        <rest/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>half</type>
-      </note>
-      <note default-x="219">
+      <note default-x="82">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
+      <note default-x="124">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="191">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="268">
+    <measure number="8" width="270">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6648,7 +6666,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="298">
+    <measure number="9" width="299">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -6657,7 +6675,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="258">
+    <measure number="10" width="260">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6665,7 +6683,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="251">
+    <measure number="11" width="245">
       <note default-x="14">
         <pitch>
           <step>C</step>
@@ -6687,21 +6705,27 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="75">
-        <rest/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>half</type>
-      </note>
-      <note default-x="212">
+      <note default-x="78">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
+      <note default-x="117">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="181">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="278">
+    <measure number="12" width="281">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6709,7 +6733,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="285">
+    <measure number="13" width="284">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -6729,6 +6753,24 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
+      <note default-x="88">
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <note default-x="125">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="185">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
     </measure>
     <!--=======================================================-->
     <measure number="15" width="267">
@@ -6747,7 +6789,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="249">
+    <measure number="17" width="250">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -6756,7 +6798,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="239">
+    <measure number="18" width="235">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -6778,21 +6820,27 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="90">
-        <rest/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>half</type>
-      </note>
-      <note default-x="206">
+      <note default-x="92">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
+      <note default-x="128">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="181">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="197">
+    <measure number="19" width="198">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6800,7 +6848,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="210">
+    <measure number="20" width="211">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6808,7 +6856,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="190">
+    <measure number="21" width="192">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6816,9 +6864,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="286">
+    <measure number="22" width="281">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -6828,21 +6876,27 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="131">
-        <rest/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>half</type>
-      </note>
-      <note default-x="251">
+      <note default-x="132">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
+      <note default-x="169">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="224">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="201">
+    <measure number="23" width="203">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6850,7 +6904,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="220">
+    <measure number="24" width="221">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6858,7 +6912,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="192">
+    <measure number="25" width="193">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6866,7 +6920,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="186">
+    <measure number="26" width="188">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6879,7 +6933,7 @@ LA DANSE DE ZALONGO
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="320">
+    <measure number="1" width="321">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -6906,7 +6960,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="230">
+    <measure number="2" width="231">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -6914,7 +6968,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="234">
+    <measure number="3" width="231">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -6926,7 +6980,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="11">up</stem>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -6938,7 +6992,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="241">
+    <measure number="4" width="242">
       <note default-x="14">
         <pitch>
           <step>F</step>
@@ -6950,7 +7004,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="115">
+      <note default-x="116">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -6962,7 +7016,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="298">
+    <measure number="5" width="299">
       <print new-page="yes"/>
       <note default-x="53">
         <pitch>
@@ -6997,7 +7051,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="259">
+    <measure number="6" width="260">
       <note default-x="14">
         <pitch>
           <step>C</step>
@@ -7009,128 +7063,6 @@ LA DANSE DE ZALONGO
         <stem default-y="-50">down</stem>
       </note>
       <note default-x="81">
-        <pitch>
-          <step>B</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-55">down</stem>
-      </note>
-      <note default-x="123">
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="10.5">up</stem>
-      </note>
-      <note default-x="191">
-        <rest/>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="7" width="260">
-      <note default-x="16">
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>3</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <dot/>
-        <stem default-y="10.5">up</stem>
-      </note>
-      <note default-x="122">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>half</type>
-        <stem default-y="-40">down</stem>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="8" width="268">
-      <note default-x="16">
-        <pitch>
-          <step>F</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>3</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <dot/>
-        <stem default-y="-35">down</stem>
-      </note>
-      <note default-x="129">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>half</type>
-        <stem default-y="-40">down</stem>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="9" width="298">
-      <print new-page="yes"/>
-      <note default-x="56">
-        <pitch>
-          <step>D</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>3</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <dot/>
-        <stem default-y="-45">down</stem>
-      </note>
-      <note default-x="164">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-40">down</stem>
-      </note>
-      <note default-x="230">
-        <pitch>
-          <step>D</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-45">down</stem>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="10" width="258">
-      <note default-x="17">
-        <pitch>
-          <step>C</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-50">down</stem>
-      </note>
-      <note default-x="83">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -7158,7 +7090,129 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="251">
+    <measure number="7" width="258">
+      <note default-x="16">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="10.5">up</stem>
+      </note>
+      <note default-x="124">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem default-y="-40">down</stem>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="8" width="270">
+      <note default-x="16">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="-35">down</stem>
+      </note>
+      <note default-x="129">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem default-y="-40">down</stem>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="9" width="299">
+      <print new-page="yes"/>
+      <note default-x="55">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="-45">down</stem>
+      </note>
+      <note default-x="164">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-40">down</stem>
+      </note>
+      <note default-x="231">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-45">down</stem>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="10" width="260">
+      <note default-x="16">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-50">down</stem>
+      </note>
+      <note default-x="84">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+      </note>
+      <note default-x="125">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10.5">up</stem>
+      </note>
+      <note default-x="193">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="11" width="245">
       <note default-x="14">
         <pitch>
           <step>E</step>
@@ -7170,7 +7224,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -7218,7 +7272,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -7228,7 +7282,7 @@ LA DANSE DE ZALONGO
         <type>half</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <chord/>
         <pitch>
           <step>A</step>
@@ -7241,8 +7295,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="278">
-      <note default-x="17">
+    <measure number="12" width="281">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -7253,7 +7307,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="126">
+      <note default-x="127">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -7263,7 +7317,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="193">
+      <note default-x="196">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -7273,7 +7327,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="193">
+      <note default-x="196">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7287,7 +7341,7 @@ LA DANSE DE ZALONGO
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -7298,7 +7352,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>A</step>
@@ -7310,7 +7364,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="126">
+      <note default-x="127">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -7320,7 +7374,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="193">
+      <note default-x="196">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -7330,7 +7384,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-84">down</stem>
       </note>
-      <note default-x="193">
+      <note default-x="196">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7343,9 +7397,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="285">
+    <measure number="13" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -7379,7 +7433,7 @@ LA DANSE DE ZALONGO
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -7390,7 +7444,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7711,7 +7765,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -7721,7 +7775,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7732,7 +7786,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>G</step>
@@ -7743,7 +7797,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7756,9 +7810,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="249">
+    <measure number="17" width="250">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -7773,7 +7827,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>C</step>
@@ -7789,7 +7843,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7805,7 +7859,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>A</step>
@@ -7894,7 +7948,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="239">
+    <measure number="18" width="235">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -7965,7 +8019,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="197">
+    <measure number="19" width="198">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -7998,7 +8052,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="148">
+      <note default-x="149">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -8044,7 +8098,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-84">down</stem>
       </note>
-      <note default-x="148">
+      <note default-x="149">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -8054,7 +8108,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="148">
+      <note default-x="149">
         <chord/>
         <pitch>
           <step>G</step>
@@ -8067,7 +8121,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="210">
+    <measure number="20" width="211">
       <note default-x="14">
         <pitch>
           <step>C</step>
@@ -8089,7 +8143,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -8146,7 +8200,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -8156,7 +8210,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-84">down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <chord/>
         <pitch>
           <step>E</step>
@@ -8167,7 +8221,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <chord/>
         <pitch>
           <step>G</step>
@@ -8180,7 +8234,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="190">
+    <measure number="21" width="192">
       <note default-x="17">
         <pitch>
           <step>C</step>
@@ -8228,7 +8282,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -8242,7 +8296,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <chord/>
         <pitch>
           <step>E</step>
@@ -8257,7 +8311,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8272,7 +8326,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="142">
+      <note default-x="144">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -8280,9 +8334,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="286">
+    <measure number="22" width="281">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -8293,7 +8347,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>B</step>
@@ -8305,7 +8359,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -8317,7 +8371,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>G</step>
@@ -8374,8 +8428,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="201">
-      <note default-x="16">
+    <measure number="23" width="203">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -8386,7 +8440,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>C</step>
@@ -8398,7 +8452,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -8410,7 +8464,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8465,7 +8519,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -8475,7 +8529,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <chord/>
         <pitch>
           <step>G</step>
@@ -8486,7 +8540,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <chord/>
         <pitch>
           <step>B</step>
@@ -8497,7 +8551,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <chord/>
         <pitch>
           <step>D</step>
@@ -8510,7 +8564,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="220">
+    <measure number="24" width="221">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -8633,7 +8687,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -8643,7 +8697,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <chord/>
         <pitch>
           <step>E</step>
@@ -8654,7 +8708,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <chord/>
         <pitch>
           <step>G</step>
@@ -8665,7 +8719,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <chord/>
         <pitch>
           <step>B</step>
@@ -8678,8 +8732,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="192">
-      <note default-x="16">
+    <measure number="25" width="193">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -8694,7 +8748,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>C</step>
@@ -8710,7 +8764,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -8726,7 +8780,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8801,7 +8855,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="143">
+      <note default-x="144">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -8809,7 +8863,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="186">
+    <measure number="26" width="188">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -8839,7 +8893,7 @@ LA DANSE DE ZALONGO
   </part>
   <!--=========================================================-->
   <part id="P7">
-    <measure number="1" width="320">
+    <measure number="1" width="321">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -8958,7 +9012,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="230">
+    <measure number="2" width="231">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -9058,7 +9112,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="234">
+    <measure number="3" width="231">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -9106,7 +9160,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -9120,7 +9174,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9135,7 +9189,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <chord/>
         <pitch>
           <step>A</step>
@@ -9152,7 +9206,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="241">
+    <measure number="4" width="242">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -9164,7 +9218,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="115">
+      <note default-x="116">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -9188,7 +9242,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="115">
+      <note default-x="116">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -9198,7 +9252,7 @@ LA DANSE DE ZALONGO
         <type>half</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="115">
+      <note default-x="116">
         <chord/>
         <pitch>
           <step>C</step>
@@ -9209,7 +9263,7 @@ LA DANSE DE ZALONGO
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="115">
+      <note default-x="116">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9222,7 +9276,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="298">
+    <measure number="5" width="299">
       <print new-page="yes"/>
       <note default-x="53">
         <pitch>
@@ -9291,7 +9345,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="259">
+    <measure number="6" width="260">
       <note default-x="14">
         <pitch>
           <step>E</step>
@@ -9312,7 +9366,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="123">
+      <note default-x="124">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -9345,7 +9399,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-70">down</stem>
       </note>
-      <note default-x="123">
+      <note default-x="124">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -9357,7 +9411,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="260">
+    <measure number="7" width="258">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -9405,7 +9459,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="122">
+      <note default-x="124">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -9419,7 +9473,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="122">
+      <note default-x="124">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9434,7 +9488,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="122">
+      <note default-x="124">
         <chord/>
         <pitch>
           <step>A</step>
@@ -9451,7 +9505,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="268">
+    <measure number="8" width="270">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -9521,9 +9575,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="298">
+    <measure number="9" width="299">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -9544,7 +9598,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="230">
+      <note default-x="231">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -9557,7 +9611,7 @@ LA DANSE DE ZALONGO
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -9578,7 +9632,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="230">
+      <note default-x="231">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -9590,8 +9644,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="258">
-      <note default-x="17">
+    <measure number="10" width="260">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -9601,7 +9655,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="83">
+      <note default-x="84">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -9611,7 +9665,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="124">
+      <note default-x="125">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -9621,7 +9675,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="11">up</stem>
       </note>
-      <note default-x="191">
+      <note default-x="193">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -9633,7 +9687,7 @@ LA DANSE DE ZALONGO
       <backup>
         <duration>7</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -9643,7 +9697,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="83">
+      <note default-x="84">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -9653,7 +9707,7 @@ LA DANSE DE ZALONGO
         <type>eighth</type>
         <stem default-y="-70">down</stem>
       </note>
-      <note default-x="124">
+      <note default-x="125">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -9663,7 +9717,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="191">
+      <note default-x="193">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -9674,7 +9728,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="251">
+    <measure number="11" width="245">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -9698,7 +9752,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -9708,7 +9762,7 @@ LA DANSE DE ZALONGO
         <type>half</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="116">
+      <note default-x="117">
         <chord/>
         <pitch>
           <step>A</step>
@@ -9721,8 +9775,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="278">
-      <note default-x="17">
+    <measure number="12" width="281">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -9733,7 +9787,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9745,7 +9799,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem>up</stem>
       </note>
-      <note default-x="126">
+      <note default-x="127">
         <pitch>
           <step>B</step>
           <octave>1</octave>
@@ -9755,7 +9809,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="126">
+      <note default-x="127">
         <chord/>
         <pitch>
           <step>B</step>
@@ -9766,7 +9820,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="193">
+      <note default-x="196">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -9776,7 +9830,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="193">
+      <note default-x="196">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9789,9 +9843,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="285">
+    <measure number="13" width="284">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -9802,7 +9856,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10008,7 +10062,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -10018,7 +10072,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="205">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10031,9 +10085,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="249">
+    <measure number="17" width="250">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -10048,7 +10102,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10107,7 +10161,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="239">
+    <measure number="18" width="235">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -10154,7 +10208,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="197">
+    <measure number="19" width="198">
       <forward>
         <duration>4</duration>
         <voice>1</voice>
@@ -10163,7 +10217,7 @@ LA DANSE DE ZALONGO
         <duration>1</duration>
         <voice>1</voice>
       </forward>
-      <note default-x="148">
+      <note default-x="149">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -10209,7 +10263,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="148">
+      <note default-x="149">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -10221,7 +10275,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="210">
+    <measure number="20" width="211">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -10243,7 +10297,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -10277,7 +10331,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -10289,7 +10343,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="190">
+    <measure number="21" width="192">
       <note default-x="17">
         <pitch>
           <step>A</step>
@@ -10337,7 +10391,7 @@ LA DANSE DE ZALONGO
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -10351,7 +10405,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10366,7 +10420,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="93">
+      <note default-x="95">
         <chord/>
         <pitch>
           <step>A</step>
@@ -10381,7 +10435,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="142">
+      <note default-x="144">
         <rest/>
         <duration>2</duration>
         <voice>2</voice>
@@ -10389,9 +10443,9 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="286">
+    <measure number="22" width="281">
       <print new-page="yes"/>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -10402,7 +10456,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10437,8 +10491,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="201">
-      <note default-x="16">
+    <measure number="23" width="203">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -10449,7 +10503,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10482,7 +10536,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -10492,7 +10546,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="150">
+      <note default-x="151">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10505,7 +10559,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="220">
+    <measure number="24" width="221">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -10566,7 +10620,7 @@ LA DANSE DE ZALONGO
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -10576,7 +10630,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="158">
+      <note default-x="159">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10589,8 +10643,8 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="192">
-      <note default-x="16">
+    <measure number="25" width="193">
+      <note default-x="17">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -10601,7 +10655,7 @@ LA DANSE DE ZALONGO
         <dot/>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>E</step>
@@ -10645,7 +10699,7 @@ LA DANSE DE ZALONGO
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="143">
+      <note default-x="144">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -10653,7 +10707,7 @@ LA DANSE DE ZALONGO
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="186">
+    <measure number="26" width="188">
       <note default-x="14">
         <pitch>
           <step>A</step>
