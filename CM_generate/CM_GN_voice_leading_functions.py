@@ -43,7 +43,7 @@ def apply_simple_voice_leading(m, idiom):
     # get lowest midi pitch of melody
     lowest_melody_pitch = 127
     for n in m.melodyNotes:
-        if n.pitch.midi < lowest_melody_pitch - 1:
+        if n.pitch.midi < lowest_melody_pitch:
             lowest_melody_pitch = n.pitch.midi
     # adjust lowet octave limit
     lowest_octave_limit = 120
