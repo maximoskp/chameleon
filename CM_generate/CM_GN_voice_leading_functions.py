@@ -43,7 +43,7 @@ def apply_simple_voice_leading(m, idiom):
     # get lowest midi pitch of melody
     lowest_melody_pitch = 127
     for n in m.melodyNotes:
-        if n.pitch.midi < lowest_melody_pitch:
+        if n.pitch.midi < lowest_melody_pitch - 1:
             lowest_melody_pitch = n.pitch.midi
     # adjust lowet octave limit
     lowest_octave_limit = 120
@@ -56,7 +56,7 @@ def apply_simple_voice_leading(m, idiom):
         for cs in p.melody_chord_segments:
             g = cs.gct_chord
             chord_root = g[0] + key
-            chord = np.array( g[1:] ) + chord_root + lowest_octave_limit - 12
+            chord = np.array( g[1:] ) + chord_root + lowest_octave_limit
             #  make bass one octave lower
             chord[0] = chord[0] - 12
             # keep at most 4 notes
