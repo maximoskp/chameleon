@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2016-02-28</encoding-date>
+      <encoding-date>2019-06-03</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -160,7 +160,7 @@ Four Old Tunes,  3</credit-words>
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="230">
+    <measure number="1" width="234">
       <print>
         <system-layout>
           <system-margins>
@@ -191,7 +191,7 @@ Four Old Tunes,  3</credit-words>
         <duration>4</duration>
         <voice>1</voice>
       </forward>
-      <note default-x="191">
+      <note default-x="196">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -201,7 +201,7 @@ Four Old Tunes,  3</credit-words>
         <type>eighth</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="211">
+      <note default-x="216">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -209,8 +209,8 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="94">
-      <note default-x="14">
+    <measure number="2" width="90">
+      <note default-x="13">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -221,7 +221,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="34">
+      <note default-x="32">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -232,7 +232,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="-50">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="54">
+      <note default-x="52">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -244,7 +244,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="-50">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="73">
+      <note default-x="70">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -257,14 +257,14 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="237">
+    <measure number="3" width="260">
       <attributes>
         <time>
           <beats>5</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="58">
+      <note default-x="96">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -275,7 +275,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="-40">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="78">
+      <note default-x="114">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -287,7 +287,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="-35">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="98">
+      <note default-x="133">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -298,7 +298,7 @@ Four Old Tunes,  3</credit-words>
         <type>eighth</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="126">
+      <note default-x="160">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -314,7 +314,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="170">
+      <note default-x="202">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -330,7 +330,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="209">
+      <note default-x="232">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -342,14 +342,14 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="126">
+    <measure number="4" width="121">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="46">
+      <note default-x="45">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -360,7 +360,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="65">
+      <note default-x="64">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -371,7 +371,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="-55">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="85">
+      <note default-x="83">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -383,7 +383,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="-55">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="105">
+      <note default-x="102">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -396,7 +396,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="98">
+    <measure number="5" width="93">
       <note default-x="26">
         <pitch>
           <step>E</step>
@@ -408,7 +408,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="30">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="45">
+      <note default-x="43">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -420,7 +420,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="25">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="64">
+      <note default-x="61">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -437,7 +437,7 @@ Four Old Tunes,  3</credit-words>
         <duration>4</duration>
         <voice>2</voice>
       </forward>
-      <note default-x="64">
+      <note default-x="61">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -449,7 +449,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="125">
+    <measure number="6" width="118">
       <note default-x="25">
         <pitch>
           <step>A</step>
@@ -473,7 +473,7 @@ Four Old Tunes,  3</credit-words>
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="82">
+      <note default-x="78">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -485,7 +485,7 @@ Four Old Tunes,  3</credit-words>
         <beam number="1">begin</beam>
         <beam number="2">forward hook</beam>
       </note>
-      <note default-x="99">
+      <note default-x="94">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -499,7 +499,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="115">
+    <measure number="7" width="109">
       <note default-x="26">
         <pitch>
           <step>B</step>
@@ -511,7 +511,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="20">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -522,7 +522,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="20">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="75">
+      <note default-x="73">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -534,7 +534,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="20">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="95">
+      <note default-x="90">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -581,7 +581,7 @@ Four Old Tunes,  3</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -590,7 +590,7 @@ Four Old Tunes,  3</credit-words>
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="76">
+      <note default-x="73">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -601,9 +601,9 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="174">
+    <measure number="8" width="172">
       <print new-page="yes"/>
-      <note default-x="93">
+      <note default-x="92">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -614,7 +614,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="30">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="115">
+      <note default-x="114">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -626,7 +626,7 @@ Four Old Tunes,  3</credit-words>
         <stem default-y="25">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="138">
+      <note default-x="136">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -639,7 +639,7 @@ Four Old Tunes,  3</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="93">
+      <note default-x="92">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -648,7 +648,7 @@ Four Old Tunes,  3</credit-words>
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="138">
+      <note default-x="136">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -661,14 +661,14 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="195">
+    <measure number="9" width="198">
       <attributes>
         <time>
           <beats>3</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="58">
+      <note default-x="48">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -678,7 +678,7 @@ Four Old Tunes,  3</credit-words>
         <type>eighth</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="86">
+      <note default-x="76">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -694,7 +694,7 @@ Four Old Tunes,  3</credit-words>
           <tied orientation="over" type="start"/>
         </notations>
       </note>
-      <note default-x="144">
+      <note default-x="147">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -709,7 +709,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="172">
+      <note default-x="176">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -721,7 +721,7 @@ Four Old Tunes,  3</credit-words>
       <backup>
         <duration>12</duration>
       </backup>
-      <note default-x="58">
+      <note default-x="48">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -731,7 +731,7 @@ Four Old Tunes,  3</credit-words>
         <type>quarter</type>
         <stem default-y="-83">down</stem>
       </note>
-      <note default-x="102">
+      <note default-x="92">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -741,7 +741,7 @@ Four Old Tunes,  3</credit-words>
         <type>eighth</type>
         <stem default-y="-90.5">down</stem>
       </note>
-      <note default-x="129">
+      <note default-x="132">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -760,14 +760,14 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="120">
+    <measure number="10" width="130">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="58">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -778,7 +778,7 @@ Four Old Tunes,  3</credit-words>
         <type>quarter</type>
         <stem default-y="29">up</stem>
       </note>
-      <note default-x="84">
+      <note default-x="94">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -791,7 +791,7 @@ Four Old Tunes,  3</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="48">
+      <note default-x="58">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -811,7 +811,7 @@ Four Old Tunes,  3</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="11" width="97">
-      <note default-x="25">
+      <note default-x="24">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -835,7 +835,7 @@ Four Old Tunes,  3</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="25">
+      <note default-x="24">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -853,7 +853,7 @@ Four Old Tunes,  3</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="12" width="151">
-      <note default-x="52">
+      <note default-x="53">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1003,7 +1003,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="148">
+    <measure number="14" width="136">
       <note default-x="13">
         <pitch>
           <step>F</step>
@@ -1017,7 +1017,7 @@ Four Old Tunes,  3</credit-words>
       <backup>
         <duration>16</duration>
       </backup>
-      <note default-x="29">
+      <note default-x="30">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1028,7 +1028,7 @@ Four Old Tunes,  3</credit-words>
         <type>half</type>
         <stem default-y="-78">down</stem>
       </note>
-      <note default-x="29">
+      <note default-x="30">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1039,7 +1039,7 @@ Four Old Tunes,  3</credit-words>
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="85">
+      <note default-x="72">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -1050,7 +1050,7 @@ Four Old Tunes,  3</credit-words>
         <accidental>natural</accidental>
         <stem default-y="-88.5">down</stem>
       </note>
-      <note default-x="85">
+      <note default-x="72">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1069,7 +1069,7 @@ Four Old Tunes,  3</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="230">
+    <measure number="1" width="234">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1096,7 +1096,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="94">
+    <measure number="2" width="90">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -1104,26 +1104,26 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="237">
+    <measure number="3" width="260">
       <attributes>
         <time>
           <beats>5</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="58">
+      <note default-x="96">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="99">
+      <note default-x="133">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="140">
+      <note default-x="174">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -1134,7 +1134,7 @@ Four Old Tunes,  3</credit-words>
         <dot/>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="140">
+      <note default-x="174">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1148,7 +1148,7 @@ Four Old Tunes,  3</credit-words>
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="140">
+      <note default-x="174">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1162,7 +1162,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="126">
+    <measure number="4" width="121">
       <attributes>
         <time>
           <beats>2</beats>
@@ -1176,8 +1176,8 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="98">
-      <note default-x="27">
+    <measure number="5" width="93">
+      <note default-x="26">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -1186,7 +1186,7 @@ Four Old Tunes,  3</credit-words>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="64">
+      <note default-x="61">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -1205,7 +1205,7 @@ Four Old Tunes,  3</credit-words>
         <duration>4</duration>
         <voice>2</voice>
       </forward>
-      <note default-x="64">
+      <note default-x="61">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1222,7 +1222,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="125">
+    <measure number="6" width="118">
       <note default-x="25">
         <pitch>
           <step>G</step>
@@ -1237,7 +1237,7 @@ Four Old Tunes,  3</credit-words>
         <beam number="1">begin</beam>
         <beam number="2">forward hook</beam>
       </note>
-      <note default-x="43">
+      <note default-x="41">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1254,7 +1254,7 @@ Four Old Tunes,  3</credit-words>
           <tied orientation="over" type="start"/>
         </notations>
       </note>
-      <note default-x="82">
+      <note default-x="78">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1289,8 +1289,8 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="115">
-      <note default-x="15">
+    <measure number="7" width="109">
+      <note default-x="13">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1335,13 +1335,13 @@ Four Old Tunes,  3</credit-words>
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="55">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="76">
+      <note default-x="73">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
@@ -1349,15 +1349,15 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="174">
+    <measure number="8" width="172">
       <print new-page="yes"/>
-      <note default-x="93">
+      <note default-x="92">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="138">
+      <note default-x="136">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -1371,7 +1371,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="138">
+      <note default-x="136">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1388,14 +1388,14 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="195">
+    <measure number="9" width="198">
       <attributes>
         <time>
           <beats>3</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="58">
+      <note default-x="48">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -1409,7 +1409,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="58">
+      <note default-x="48">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1424,7 +1424,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="102">
+      <note default-x="92">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -1434,7 +1434,7 @@ Four Old Tunes,  3</credit-words>
         <type>eighth</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="102">
+      <note default-x="92">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1445,7 +1445,7 @@ Four Old Tunes,  3</credit-words>
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="129">
+      <note default-x="132">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -1462,7 +1462,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="129">
+      <note default-x="132">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1481,14 +1481,14 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="120">
+    <measure number="10" width="130">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="58">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -1505,7 +1505,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="48">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1526,7 +1526,7 @@ Four Old Tunes,  3</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="11" width="97">
-      <note default-x="25">
+      <note default-x="24">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -1541,7 +1541,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="25">
+      <note default-x="24">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1560,7 +1560,7 @@ Four Old Tunes,  3</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="12" width="151">
-      <note default-x="52">
+      <note default-x="53">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -1576,7 +1576,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="52">
+      <note default-x="53">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1593,7 +1593,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="52">
+      <note default-x="53">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1610,7 +1610,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="52">
+      <note default-x="53">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1773,7 +1773,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="148">
+    <measure number="14" width="136">
       <note default-x="13">
         <pitch>
           <step>C</step>
@@ -1802,7 +1802,7 @@ Four Old Tunes,  3</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="230">
+    <measure number="1" width="234">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -1822,29 +1822,29 @@ Four Old Tunes,  3</credit-words>
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="160">
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
+      <note>
+        <rest measure="yes"/>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="14">up</stem>
       </note>
-      <note default-x="171">
-        <chord/>
-        <pitch>
-          <step>E</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
+    </measure>
+    <!--=======================================================-->
+    <measure number="2" width="90">
+      <note>
+        <rest measure="yes"/>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>quarter</type>
-        <stem>up</stem>
       </note>
-      <note default-x="160">
-        <chord/>
+    </measure>
+    <!--=======================================================-->
+    <measure number="3" width="260">
+      <attributes>
+        <time>
+          <beats>5</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note default-x="96">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1854,9 +1854,9 @@ Four Old Tunes,  3</credit-words>
         <voice>1</voice>
         <type>quarter</type>
         <accidental>sharp</accidental>
-        <stem>up</stem>
+        <stem default-y="-64">down</stem>
       </note>
-      <note default-x="171">
+      <note default-x="83">
         <chord/>
         <pitch>
           <step>G</step>
@@ -1867,9 +1867,9 @@ Four Old Tunes,  3</credit-words>
         <voice>1</voice>
         <type>quarter</type>
         <accidental>sharp</accidental>
-        <stem>up</stem>
+        <stem>down</stem>
       </note>
-      <note default-x="160">
+      <note default-x="96">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1878,9 +1878,9 @@ Four Old Tunes,  3</credit-words>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem>up</stem>
+        <stem>down</stem>
       </note>
-      <note default-x="171">
+      <note default-x="83">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1889,9 +1889,9 @@ Four Old Tunes,  3</credit-words>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem>up</stem>
+        <stem>down</stem>
       </note>
-      <note default-x="160">
+      <note default-x="96">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1902,9 +1902,43 @@ Four Old Tunes,  3</credit-words>
         <voice>1</voice>
         <type>quarter</type>
         <accidental>sharp</accidental>
-        <stem>up</stem>
+        <stem>down</stem>
       </note>
-      <note default-x="192">
+      <note default-x="83">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="96">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="133">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="172">
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+      </note>
+      <note default-x="222">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -1912,29 +1946,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="94">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="3" width="237">
-      <attributes>
-        <time>
-          <beats>5</beats>
-          <beat-type>4</beat-type>
-        </time>
-      </attributes>
-      <note>
-        <rest measure="yes"/>
-        <duration>10</duration>
-        <voice>1</voice>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="4" width="126">
+    <measure number="4" width="121">
       <attributes>
         <time>
           <beats>2</beats>
@@ -1948,7 +1960,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="98">
+    <measure number="5" width="93">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -1956,7 +1968,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="125">
+    <measure number="6" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -1964,7 +1976,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="115">
+    <measure number="7" width="109">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -1972,7 +1984,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="174">
+    <measure number="8" width="172">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -1981,7 +1993,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="195">
+    <measure number="9" width="198">
       <attributes>
         <time>
           <beats>3</beats>
@@ -1995,7 +2007,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="120">
+    <measure number="10" width="130">
       <attributes>
         <time>
           <beats>2</beats>
@@ -2039,7 +2051,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="148">
+    <measure number="14" width="136">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -2052,7 +2064,7 @@ Four Old Tunes,  3</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="230">
+    <measure number="1" width="234">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2079,7 +2091,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="94">
+    <measure number="2" width="90">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -2087,21 +2099,44 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="237">
+    <measure number="3" width="260">
       <attributes>
         <time>
           <beats>5</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note>
-        <rest measure="yes"/>
-        <duration>10</duration>
+      <note default-x="96">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
         <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-4.5">up</stem>
+      </note>
+      <note default-x="133">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="172">
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+      </note>
+      <note default-x="222">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="126">
+    <measure number="4" width="121">
       <attributes>
         <time>
           <beats>2</beats>
@@ -2115,7 +2150,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="98">
+    <measure number="5" width="93">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -2123,7 +2158,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="125">
+    <measure number="6" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -2131,7 +2166,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="115">
+    <measure number="7" width="109">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -2139,7 +2174,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="174">
+    <measure number="8" width="172">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -2148,14 +2183,14 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="195">
+    <measure number="9" width="198">
       <attributes>
         <time>
           <beats>3</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="58">
+      <note default-x="48">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2165,13 +2200,13 @@ Four Old Tunes,  3</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="102">
+      <note default-x="92">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="145">
+      <note default-x="148">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -2179,7 +2214,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="120">
+    <measure number="10" width="130">
       <attributes>
         <time>
           <beats>2</beats>
@@ -2223,7 +2258,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="148">
+    <measure number="14" width="136">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -2236,7 +2271,7 @@ Four Old Tunes,  3</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="230">
+    <measure number="1" width="234">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2263,7 +2298,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="94">
+    <measure number="2" width="90">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -2271,56 +2306,38 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="237">
+    <measure number="3" width="260">
       <attributes>
         <time>
           <beats>5</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="58">
+      <note default-x="96">
         <pitch>
           <step>F</step>
           <alter>1</alter>
           <octave>4</octave>
         </pitch>
-        <duration>4</duration>
-        <tie type="start"/>
+        <duration>6</duration>
         <voice>1</voice>
         <type>half</type>
+        <dot/>
         <stem default-y="0.5">up</stem>
-        <notations>
-          <tied type="start"/>
-        </notations>
       </note>
-      <note default-x="140">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <tie type="stop"/>
-        <voice>1</voice>
-        <type>half</type>
-        <stem default-y="0.5">up</stem>
-        <notations>
-          <tied type="stop"/>
-        </notations>
-      </note>
-      <note default-x="195">
+      <note default-x="202">
         <pitch>
           <step>E</step>
           <octave>4</octave>
         </pitch>
-        <duration>2</duration>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>quarter</type>
+        <type>half</type>
         <stem default-y="-4.5">up</stem>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="126">
+    <measure number="4" width="121">
       <attributes>
         <time>
           <beats>2</beats>
@@ -2334,7 +2351,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="98">
+    <measure number="5" width="93">
       <note default-x="26">
         <pitch>
           <step>E</step>
@@ -2345,7 +2362,7 @@ Four Old Tunes,  3</credit-words>
         <type>quarter</type>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="64">
+      <note default-x="61">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2370,7 +2387,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="125">
+    <measure number="6" width="118">
       <note default-x="25">
         <pitch>
           <step>A</step>
@@ -2396,7 +2413,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="115">
+    <measure number="7" width="109">
       <note default-x="26">
         <pitch>
           <step>B</step>
@@ -2445,33 +2462,22 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="174">
+    <measure number="8" width="172">
       <print new-page="yes"/>
-      <note default-x="93">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="13.5">up</stem>
-      </note>
-      <note default-x="138">
+      <note default-x="92">
         <pitch>
           <step>B</step>
           <octave>4</octave>
         </pitch>
-        <duration>2</duration>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>quarter</type>
+        <type>half</type>
         <stem default-y="15.5">up</stem>
       </note>
       <backup>
         <duration>4</duration>
       </backup>
-      <note default-x="93">
+      <note default-x="92">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -2484,39 +2490,57 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="195">
+    <measure number="9" width="198">
       <attributes>
         <time>
           <beats>3</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="58">
+      <note default-x="48">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10.5">up</stem>
+      </note>
+      <note default-x="92">
         <pitch>
           <step>F</step>
           <alter>1</alter>
           <octave>4</octave>
         </pitch>
-        <duration>6</duration>
+        <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
-        <dot/>
         <stem default-y="0.5">up</stem>
       </note>
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="58">
+      <note default-x="48">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem default-y="-84">down</stem>
+      </note>
+      <note default-x="92">
         <pitch>
           <step>A</step>
           <alter>1</alter>
           <octave>3</octave>
         </pitch>
-        <duration>6</duration>
+        <duration>4</duration>
         <tie type="start"/>
         <voice>2</voice>
         <type>half</type>
-        <dot/>
         <accidental>sharp</accidental>
         <stem default-y="-89">down</stem>
         <notations>
@@ -2525,14 +2549,14 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="120">
+    <measure number="10" width="130">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="58">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -2543,7 +2567,7 @@ Four Old Tunes,  3</credit-words>
         <type>quarter</type>
         <stem default-y="29">up</stem>
       </note>
-      <note default-x="84">
+      <note default-x="94">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -2556,7 +2580,7 @@ Four Old Tunes,  3</credit-words>
       <backup>
         <duration>4</duration>
       </backup>
-      <note default-x="48">
+      <note default-x="58">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -2576,7 +2600,7 @@ Four Old Tunes,  3</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="11" width="97">
-      <note default-x="25">
+      <note default-x="24">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2599,7 +2623,7 @@ Four Old Tunes,  3</credit-words>
       <backup>
         <duration>4</duration>
       </backup>
-      <note default-x="25">
+      <note default-x="24">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -2617,7 +2641,7 @@ Four Old Tunes,  3</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="12" width="151">
-      <note default-x="52">
+      <note default-x="53">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2705,7 +2729,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="148">
+    <measure number="14" width="136">
       <note default-x="13">
         <pitch>
           <step>F</step>
@@ -2719,7 +2743,7 @@ Four Old Tunes,  3</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="29">
+      <note default-x="30">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -2730,7 +2754,7 @@ Four Old Tunes,  3</credit-words>
         <type>half</type>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="29">
+      <note default-x="30">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2741,7 +2765,7 @@ Four Old Tunes,  3</credit-words>
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="85">
+      <note default-x="72">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2751,7 +2775,7 @@ Four Old Tunes,  3</credit-words>
         <type>half</type>
         <stem default-y="-89">down</stem>
       </note>
-      <note default-x="85">
+      <note default-x="72">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2770,7 +2794,7 @@ Four Old Tunes,  3</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="230">
+    <measure number="1" width="234">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2797,7 +2821,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="94">
+    <measure number="2" width="90">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -2805,14 +2829,14 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="237">
+    <measure number="3" width="260">
       <attributes>
         <time>
           <beats>5</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="58">
+      <note default-x="96">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2827,7 +2851,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="58">
+      <note default-x="96">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2845,7 +2869,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="58">
+      <note default-x="96">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2861,7 +2885,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="170">
+      <note default-x="202">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2875,7 +2899,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="170">
+      <note default-x="202">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2891,7 +2915,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="170">
+      <note default-x="202">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2908,7 +2932,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="126">
+    <measure number="4" width="121">
       <attributes>
         <time>
           <beats>2</beats>
@@ -2922,7 +2946,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="98">
+    <measure number="5" width="93">
       <note default-x="26">
         <pitch>
           <step>G</step>
@@ -2955,7 +2979,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="125">
+    <measure number="6" width="118">
       <note default-x="25">
         <pitch>
           <step>F</step>
@@ -2987,7 +3011,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="115">
+    <measure number="7" width="109">
       <note default-x="13">
         <pitch>
           <step>C</step>
@@ -3035,9 +3059,9 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="174">
+    <measure number="8" width="172">
       <print new-page="yes"/>
-      <note default-x="93">
+      <note default-x="92">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -3047,7 +3071,7 @@ Four Old Tunes,  3</credit-words>
         <type>half</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="93">
+      <note default-x="92">
         <chord/>
         <pitch>
           <step>D</step>
@@ -3060,30 +3084,47 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="195">
+    <measure number="9" width="198">
       <attributes>
         <time>
           <beats>3</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="58">
+      <note default-x="48">
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="16">up</stem>
+      </note>
+      <note default-x="48">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="92">
         <pitch>
           <step>D</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>4</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <accidental>sharp</accidental>
         <stem default-y="10.5">up</stem>
-        <notations>
-          <tied type="start"/>
-        </notations>
       </note>
-      <note default-x="58">
+      <note default-x="92">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3091,24 +3132,20 @@ Four Old Tunes,  3</credit-words>
           <octave>3</octave>
         </pitch>
         <duration>4</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <stem>up</stem>
-        <notations>
-          <tied type="start"/>
-        </notations>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="120">
+    <measure number="10" width="130">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="58">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -3124,7 +3161,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="48">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3143,7 +3180,7 @@ Four Old Tunes,  3</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="11" width="97">
-      <note default-x="25">
+      <note default-x="24">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -3158,7 +3195,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="25">
+      <note default-x="24">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3177,7 +3214,7 @@ Four Old Tunes,  3</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="12" width="151">
-      <note default-x="52">
+      <note default-x="53">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -3193,7 +3230,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="52">
+      <note default-x="53">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3210,7 +3247,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="52">
+      <note default-x="53">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3227,7 +3264,7 @@ Four Old Tunes,  3</credit-words>
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="52">
+      <note default-x="53">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3364,7 +3401,7 @@ Four Old Tunes,  3</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="148">
+    <measure number="14" width="136">
       <note default-x="13">
         <pitch>
           <step>C</step>

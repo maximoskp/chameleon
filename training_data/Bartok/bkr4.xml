@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2016-02-29</encoding-date>
+      <encoding-date>2019-06-03</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -170,7 +170,7 @@ Romanian Folk Dances, No. 5
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="260">
+    <measure number="1" width="271">
       <print>
         <system-layout>
           <system-margins>
@@ -211,7 +211,7 @@ Romanian Folk Dances, No. 5
         </direction-type>
         <sound tempo="152"/>
       </direction>
-      <note default-x="158">
+      <note default-x="170">
         <rest/>
         <duration>24</duration>
         <voice>1</voice>
@@ -219,7 +219,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="120">
+    <measure number="2" width="118">
       <note>
         <rest measure="yes"/>
         <duration>24</duration>
@@ -227,7 +227,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="120">
+    <measure number="3" width="118">
       <note>
         <rest measure="yes"/>
         <duration>24</duration>
@@ -235,7 +235,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="120">
+    <measure number="4" width="118">
       <note>
         <rest measure="yes"/>
         <duration>24</duration>
@@ -243,7 +243,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="202">
+    <measure number="5" width="199">
       <attributes>
         <time>
           <beats>3</beats>
@@ -273,7 +273,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-40">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="99">
+      <note default-x="98">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -284,7 +284,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-30">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="125">
+      <note default-x="124">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -296,7 +296,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-35">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="150">
+      <note default-x="148">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -307,7 +307,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-45">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="176">
+      <note default-x="173">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -321,7 +321,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="202">
+    <measure number="6" width="201">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -333,7 +333,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-45">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="42">
+      <note default-x="41">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -345,7 +345,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-40">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="68">
+      <note default-x="67">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -356,7 +356,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-30">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="93">
+      <note default-x="92">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -368,7 +368,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-35">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="118">
+      <note default-x="117">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -379,7 +379,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-45">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="144">
+      <note default-x="142">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -393,7 +393,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="239">
+    <measure number="7" width="238">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -401,7 +401,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="132">
+      <note default-x="131">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -412,7 +412,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-40">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="156">
+      <note default-x="155">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -424,7 +424,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="170">
+      <note default-x="168">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -436,7 +436,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">end</beam>
         <beam number="2">end</beam>
       </note>
-      <note default-x="183">
+      <note default-x="182">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -456,7 +456,7 @@ Romanian Folk Dances, No. 5
           <tuplet number="1" placement="below" type="start"/>
         </notations>
       </note>
-      <note default-x="197">
+      <note default-x="196">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -472,7 +472,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
       </note>
-      <note default-x="211">
+      <note default-x="209">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -492,7 +492,7 @@ Romanian Folk Dances, No. 5
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="224">
+      <note default-x="223">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -512,7 +512,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="47">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -584,7 +584,7 @@ Romanian Folk Dances, No. 5
     </measure>
     <!--=======================================================-->
     <measure number="9" width="113">
-      <note default-x="15">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -641,7 +641,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-45">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -685,7 +685,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="92">
+      <note default-x="93">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -753,7 +753,7 @@ Romanian Folk Dances, No. 5
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="148">
+      <note default-x="147">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -865,7 +865,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="15">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="45">
+      <note default-x="44">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -898,7 +898,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="102">
+      <note default-x="103">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -911,14 +911,14 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="149">
+    <measure number="13" width="150">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="47">
+      <note default-x="48">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -942,7 +942,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -966,7 +966,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="246">
+    <measure number="14" width="250">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -974,7 +974,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="122">
+      <note default-x="121">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -996,7 +996,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="15">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="163">
+      <note default-x="164">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1007,7 +1007,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1018,7 +1018,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="204">
+      <note default-x="206">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1029,7 +1029,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="224">
+      <note default-x="228">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1042,7 +1042,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="148">
+    <measure number="15" width="154">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -1077,7 +1077,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="88">
+      <note default-x="90">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1088,7 +1088,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1099,7 +1099,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="129">
+      <note default-x="133">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1112,7 +1112,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="130">
+    <measure number="16" width="135">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -1124,7 +1124,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="37">
+      <note default-x="38">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1136,7 +1136,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="55">
+      <note default-x="56">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1148,7 +1148,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">end</beam>
         <beam number="2">end</beam>
       </note>
-      <note default-x="73">
+      <note default-x="74">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1163,8 +1163,8 @@ Romanian Folk Dances, No. 5
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="181">
-      <note default-x="51">
+    <measure number="17" width="151">
+      <note default-x="13">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1175,7 +1175,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="70">
+      <note default-x="35">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1187,7 +1187,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="0">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="90">
+      <note default-x="56">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1198,7 +1198,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="110">
+      <note default-x="77">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1210,7 +1210,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="141">
+      <note default-x="108">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1221,7 +1221,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="160">
+      <note default-x="129">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1235,7 +1235,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="146">
+    <measure number="18" width="152">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -1247,7 +1247,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="34">
+      <note default-x="35">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1259,7 +1259,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="0">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="54">
+      <note default-x="56">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1270,7 +1270,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="74">
+      <note default-x="77">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1282,7 +1282,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="105">
+      <note default-x="108">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1293,7 +1293,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="125">
+      <note default-x="130">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1307,14 +1307,14 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="236">
+    <measure number="19" width="243">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="57">
+      <note default-x="58">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1325,7 +1325,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="84">
+      <note default-x="86">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1337,7 +1337,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="102">
+      <note default-x="104">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1349,7 +1349,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">end</beam>
         <beam number="2">end</beam>
       </note>
-      <note default-x="121">
+      <note default-x="124">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1369,7 +1369,7 @@ Romanian Folk Dances, No. 5
           <tuplet number="1" placement="above" type="start"/>
         </notations>
       </note>
-      <note default-x="141">
+      <note default-x="145">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1385,7 +1385,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
       </note>
-      <note default-x="161">
+      <note default-x="166">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1405,7 +1405,7 @@ Romanian Folk Dances, No. 5
           <tuplet number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="183">
+      <note default-x="189">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1418,7 +1418,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="266">
+    <measure number="20" width="265">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -1426,7 +1426,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="125">
+      <note default-x="123">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1437,7 +1437,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="148">
+      <note default-x="146">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1449,7 +1449,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="0">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="170">
+      <note default-x="169">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1460,7 +1460,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="192">
+      <note default-x="191">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1472,7 +1472,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="215">
+      <note default-x="213">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1483,7 +1483,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1532,7 +1532,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1544,7 +1544,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="107">
+      <note default-x="106">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1687,7 +1687,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="56">
+      <note default-x="57">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -1721,7 +1721,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="135">
+      <note default-x="134">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1743,7 +1743,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-20">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="183">
+      <note default-x="184">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1756,7 +1756,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="208">
+    <measure number="24" width="209">
       <note default-x="25">
         <pitch>
           <step>G</step>
@@ -1802,7 +1802,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-15">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -1826,7 +1826,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="309">
+    <measure number="25" width="308">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -1834,7 +1834,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="125">
+      <note default-x="123">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -1858,7 +1858,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="202">
+      <note default-x="201">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1870,7 +1870,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">end</beam>
         <beam number="2">end</beam>
       </note>
-      <note default-x="231">
+      <note default-x="230">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1882,7 +1882,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="289">
+    <measure number="26" width="288">
       <attributes>
         <time>
           <beats>3</beats>
@@ -1933,7 +1933,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-15">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="208">
+      <note default-x="207">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -1980,7 +1980,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-15">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -2013,7 +2013,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-20">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="217">
+      <note default-x="216">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2026,7 +2026,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="231">
+    <measure number="28" width="232">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -2038,7 +2038,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-20">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="58">
+      <note default-x="59">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2050,7 +2050,7 @@ Romanian Folk Dances, No. 5
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -2079,7 +2079,7 @@ Romanian Folk Dances, No. 5
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="260">
+    <measure number="1" width="271">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -2098,7 +2098,7 @@ Romanian Folk Dances, No. 5
           <line>4</line>
         </clef>
       </attributes>
-      <note default-x="160">
+      <note default-x="171">
         <pitch>
           <step>D</step>
           <octave>2</octave>
@@ -2108,7 +2108,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="160">
+      <note default-x="171">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2119,7 +2119,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="204">
+      <note default-x="215">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2130,7 +2130,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="232">
+      <note default-x="243">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2141,7 +2141,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="232">
+      <note default-x="243">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2154,7 +2154,145 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="120">
+    <measure number="2" width="118">
+      <note default-x="16">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="42">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="42">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="67">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="92">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="92">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="3" width="118">
+      <note default-x="16">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="42">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="42">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="67">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="92">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="92">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="4" width="118">
       <note default-x="17">
         <pitch>
           <step>D</step>
@@ -2188,7 +2326,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="68">
+      <note default-x="67">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2199,7 +2337,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="94">
+      <note default-x="92">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2210,7 +2348,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="94">
+      <note default-x="92">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2223,145 +2361,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="120">
-      <note default-x="16">
-        <pitch>
-          <step>D</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-55">down</stem>
-        <beam number="1">begin</beam>
-      </note>
-      <note default-x="42">
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-55">down</stem>
-        <beam number="1">continue</beam>
-      </note>
-      <note default-x="42">
-        <chord/>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="68">
-        <pitch>
-          <step>D</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-55">down</stem>
-        <beam number="1">continue</beam>
-      </note>
-      <note default-x="94">
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-55">down</stem>
-        <beam number="1">end</beam>
-      </note>
-      <note default-x="94">
-        <chord/>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="4" width="120">
-      <note default-x="16">
-        <pitch>
-          <step>D</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-55">down</stem>
-        <beam number="1">begin</beam>
-      </note>
-      <note default-x="42">
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-55">down</stem>
-        <beam number="1">continue</beam>
-      </note>
-      <note default-x="42">
-        <chord/>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="68">
-        <pitch>
-          <step>D</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-55">down</stem>
-        <beam number="1">continue</beam>
-      </note>
-      <note default-x="94">
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-55">down</stem>
-        <beam number="1">end</beam>
-      </note>
-      <note default-x="94">
-        <chord/>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="5" width="202">
+    <measure number="5" width="199">
       <attributes>
         <time>
           <beats>3</beats>
@@ -2401,7 +2401,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="99">
+      <note default-x="98">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2412,7 +2412,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="125">
+      <note default-x="124">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2423,7 +2423,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="125">
+      <note default-x="124">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2434,7 +2434,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="148">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2445,7 +2445,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="176">
+      <note default-x="173">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2456,7 +2456,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="176">
+      <note default-x="173">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2469,7 +2469,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="202">
+    <measure number="6" width="201">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -2481,7 +2481,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="42">
+      <note default-x="41">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2492,7 +2492,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="42">
+      <note default-x="41">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2503,7 +2503,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="68">
+      <note default-x="67">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2514,7 +2514,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="93">
+      <note default-x="92">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2525,7 +2525,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="93">
+      <note default-x="92">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2536,7 +2536,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="118">
+      <note default-x="117">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2547,7 +2547,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="144">
+      <note default-x="142">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2558,7 +2558,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="144">
+      <note default-x="142">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2571,7 +2571,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="239">
+    <measure number="7" width="238">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -2579,7 +2579,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="132">
+      <note default-x="131">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2590,7 +2590,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="156">
+      <note default-x="155">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -2603,7 +2603,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="156">
+      <note default-x="155">
         <chord/>
         <pitch>
           <step>B</step>
@@ -2614,7 +2614,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="183">
+      <note default-x="182">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -2625,7 +2625,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="183">
+      <note default-x="182">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2645,7 +2645,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="47">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2689,7 +2689,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="92">
+      <note default-x="91">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2748,7 +2748,7 @@ Romanian Folk Dances, No. 5
     </measure>
     <!--=======================================================-->
     <measure number="9" width="113">
-      <note default-x="15">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2826,7 +2826,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2837,7 +2837,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <chord/>
         <pitch>
           <step>D</step>
@@ -3059,7 +3059,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="45">
+      <note default-x="44">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -3105,7 +3105,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-75">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="102">
+      <note default-x="103">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -3116,7 +3116,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-70">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="102">
+      <note default-x="103">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3129,14 +3129,14 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="149">
+    <measure number="13" width="150">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="47">
+      <note default-x="48">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -3171,7 +3171,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="246">
+    <measure number="14" width="250">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -3179,7 +3179,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="122">
+      <note default-x="121">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -3212,7 +3212,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="163">
+      <note default-x="164">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -3223,7 +3223,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-75">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -3235,7 +3235,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-70">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="184">
+      <note default-x="185">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3246,7 +3246,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="204">
+      <note default-x="206">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -3257,7 +3257,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-75">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="224">
+      <note default-x="228">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -3268,7 +3268,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="-70">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="224">
+      <note default-x="228">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3281,7 +3281,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="148">
+    <measure number="15" width="154">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -3317,7 +3317,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="20">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="88">
+      <note default-x="90">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -3329,7 +3329,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="25">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -3340,7 +3340,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="25">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="129">
+      <note default-x="133">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -3353,7 +3353,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="130">
+    <measure number="16" width="135">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -3365,7 +3365,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="37">
+      <note default-x="38">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -3376,7 +3376,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="20">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="73">
+      <note default-x="74">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -3392,14 +3392,14 @@ Romanian Folk Dances, No. 5
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="181">
-      <note default-x="51">
+    <measure number="17" width="151">
+      <note default-x="13">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="70">
+      <note default-x="35">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -3409,7 +3409,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="70">
+      <note default-x="35">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3421,7 +3421,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="70">
+      <note default-x="35">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3432,13 +3432,13 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="90">
+      <note default-x="56">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="110">
+      <note default-x="77">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -3448,7 +3448,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="110">
+      <note default-x="77">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3460,7 +3460,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="110">
+      <note default-x="77">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3471,7 +3471,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="141">
+      <note default-x="108">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -3481,7 +3481,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="141">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3494,7 +3494,7 @@ Romanian Folk Dances, No. 5
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="141">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3507,14 +3507,14 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="146">
+    <measure number="18" width="152">
       <note default-x="14">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="34">
+      <note default-x="35">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -3524,7 +3524,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="34">
+      <note default-x="35">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3536,7 +3536,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="34">
+      <note default-x="35">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3547,13 +3547,13 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="54">
+      <note default-x="56">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="74">
+      <note default-x="77">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -3563,7 +3563,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="74">
+      <note default-x="77">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3575,7 +3575,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="74">
+      <note default-x="77">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3586,7 +3586,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="105">
+      <note default-x="108">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -3596,7 +3596,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="105">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3609,7 +3609,7 @@ Romanian Folk Dances, No. 5
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="105">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3622,20 +3622,20 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="236">
+    <measure number="19" width="243">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="57">
+      <note default-x="58">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="84">
+      <note default-x="86">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -3645,7 +3645,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="86">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3658,7 +3658,7 @@ Romanian Folk Dances, No. 5
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="121">
+      <note default-x="124">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -3668,7 +3668,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="121">
+      <note default-x="124">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3682,7 +3682,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="266">
+    <measure number="20" width="265">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -3694,13 +3694,13 @@ Romanian Folk Dances, No. 5
           <line>2</line>
         </clef>
       </attributes>
-      <note default-x="125">
+      <note default-x="123">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="148">
+      <note default-x="146">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -3710,7 +3710,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="148">
+      <note default-x="146">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3722,7 +3722,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="148">
+      <note default-x="146">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3733,13 +3733,13 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="170">
+      <note default-x="169">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="192">
+      <note default-x="191">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -3749,7 +3749,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="192">
+      <note default-x="191">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3761,7 +3761,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="192">
+      <note default-x="191">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3772,13 +3772,13 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="215">
+      <note default-x="213">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -3788,7 +3788,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3801,7 +3801,7 @@ Romanian Folk Dances, No. 5
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3854,13 +3854,13 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="61">
+      <note default-x="62">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -3870,7 +3870,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3882,7 +3882,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3893,7 +3893,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="107">
+      <note default-x="106">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -4049,7 +4049,7 @@ Romanian Folk Dances, No. 5
           <line>4</line>
         </clef>
       </attributes>
-      <note default-x="56">
+      <note default-x="57">
         <rest/>
         <duration>1</duration>
         <voice>2</voice>
@@ -4080,7 +4080,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="25">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="135">
+      <note default-x="134">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4104,7 +4104,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="25">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="183">
+      <note default-x="184">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4118,7 +4118,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="208">
+    <measure number="24" width="209">
       <note default-x="25">
         <pitch>
           <step>E</step>
@@ -4166,7 +4166,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="20">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -4190,7 +4190,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="309">
+    <measure number="25" width="308">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -4198,7 +4198,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="125">
+      <note default-x="123">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4220,7 +4220,7 @@ Romanian Folk Dances, No. 5
         <stem default-y="20">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="231">
+      <note default-x="230">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -4233,7 +4233,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="289">
+    <measure number="26" width="288">
       <attributes>
         <time>
           <beats>3</beats>
@@ -4322,7 +4322,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="208">
+      <note default-x="207">
         <rest/>
         <duration>1</duration>
         <voice>2</voice>
@@ -4403,7 +4403,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <rest/>
         <duration>1</duration>
         <voice>2</voice>
@@ -4448,7 +4448,7 @@ Romanian Folk Dances, No. 5
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="217">
+      <note default-x="216">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -4458,7 +4458,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem default-y="25.5">up</stem>
       </note>
-      <note default-x="217">
+      <note default-x="216">
         <chord/>
         <pitch>
           <step>G</step>
@@ -4469,7 +4469,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="217">
+      <note default-x="216">
         <chord/>
         <pitch>
           <step>D</step>
@@ -4482,14 +4482,14 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="231">
+    <measure number="28" width="232">
       <note default-x="16">
         <rest/>
         <duration>1</duration>
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="58">
+      <note default-x="59">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -4499,7 +4499,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem default-y="25.5">up</stem>
       </note>
-      <note default-x="58">
+      <note default-x="59">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4510,7 +4510,7 @@ Romanian Folk Dances, No. 5
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="58">
+      <note default-x="59">
         <chord/>
         <pitch>
           <step>D</step>
@@ -4561,7 +4561,7 @@ Romanian Folk Dances, No. 5
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="260">
+    <measure number="1" width="271">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -4580,55 +4580,7 @@ Romanian Folk Dances, No. 5
           <line>2</line>
         </clef>
       </attributes>
-      <note default-x="160">
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="14">up</stem>
-      </note>
       <note default-x="171">
-        <chord/>
-        <pitch>
-          <step>E</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>up</stem>
-      </note>
-      <note default-x="160">
-        <chord/>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <accidental>sharp</accidental>
-        <stem>up</stem>
-      </note>
-      <note default-x="171">
-        <chord/>
-        <pitch>
-          <step>G</step>
-          <alter>1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <accidental>sharp</accidental>
-        <stem>up</stem>
-      </note>
-      <note default-x="160">
-        <chord/>
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4636,9 +4588,9 @@ Romanian Folk Dances, No. 5
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem>up</stem>
+        <stem default-y="-54">down</stem>
       </note>
-      <note default-x="171">
+      <note default-x="159">
         <chord/>
         <pitch>
           <step>B</step>
@@ -4647,9 +4599,9 @@ Romanian Folk Dances, No. 5
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem>up</stem>
+        <stem>down</stem>
       </note>
-      <note default-x="160">
+      <note default-x="171">
         <chord/>
         <pitch>
           <step>C</step>
@@ -4660,9 +4612,57 @@ Romanian Folk Dances, No. 5
         <voice>1</voice>
         <type>quarter</type>
         <accidental>sharp</accidental>
-        <stem>up</stem>
+        <stem>down</stem>
       </note>
-      <note default-x="205">
+      <note default-x="159">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="171">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="159">
+        <chord/>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+      </note>
+      <note default-x="171">
+        <chord/>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+      </note>
+      <note default-x="216">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -4670,7 +4670,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="120">
+    <measure number="2" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -4678,7 +4678,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="120">
+    <measure number="3" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -4686,7 +4686,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="120">
+    <measure number="4" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -4694,7 +4694,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="202">
+    <measure number="5" width="199">
       <attributes>
         <time>
           <beats>3</beats>
@@ -4708,7 +4708,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="202">
+    <measure number="6" width="201">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -4716,7 +4716,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="239">
+    <measure number="7" width="238">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -4789,7 +4789,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="149">
+    <measure number="13" width="150">
       <attributes>
         <time>
           <beats>2</beats>
@@ -4803,7 +4803,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="246">
+    <measure number="14" width="250">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -4818,7 +4818,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="148">
+    <measure number="15" width="154">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -4826,7 +4826,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="130">
+    <measure number="16" width="135">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -4837,7 +4837,7 @@ Romanian Folk Dances, No. 5
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="181">
+    <measure number="17" width="151">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -4845,7 +4845,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="146">
+    <measure number="18" width="152">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -4853,7 +4853,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="236">
+    <measure number="19" width="243">
       <attributes>
         <time>
           <beats>2</beats>
@@ -4867,7 +4867,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="266">
+    <measure number="20" width="265">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -4918,7 +4918,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="208">
+    <measure number="24" width="209">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -4926,7 +4926,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="309">
+    <measure number="25" width="308">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -4941,7 +4941,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="289">
+    <measure number="26" width="288">
       <attributes>
         <time>
           <beats>3</beats>
@@ -4963,7 +4963,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="231">
+    <measure number="28" width="232">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -4976,7 +4976,7 @@ Romanian Folk Dances, No. 5
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="260">
+    <measure number="1" width="271">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -5002,7 +5002,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="120">
+    <measure number="2" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5010,7 +5010,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="120">
+    <measure number="3" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5018,7 +5018,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="120">
+    <measure number="4" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5026,7 +5026,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="202">
+    <measure number="5" width="199">
       <attributes>
         <time>
           <beats>3</beats>
@@ -5066,13 +5066,13 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="100">
+      <note default-x="99">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="150">
+      <note default-x="149">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5080,7 +5080,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="202">
+    <measure number="6" width="201">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -5088,7 +5088,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="239">
+    <measure number="7" width="238">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -5110,7 +5110,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="47">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -5121,7 +5121,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="80">
+      <note default-x="81">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5186,7 +5186,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="87">
+      <note default-x="88">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5208,7 +5208,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="149">
+    <measure number="13" width="150">
       <attributes>
         <time>
           <beats>2</beats>
@@ -5222,7 +5222,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="246">
+    <measure number="14" width="250">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -5230,7 +5230,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="122">
+      <note default-x="121">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -5247,7 +5247,7 @@ Romanian Folk Dances, No. 5
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="204">
+      <note default-x="207">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5255,7 +5255,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="148">
+    <measure number="15" width="154">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -5263,7 +5263,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="130">
+    <measure number="16" width="135">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -5274,8 +5274,8 @@ Romanian Folk Dances, No. 5
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="181">
-      <note default-x="51">
+    <measure number="17" width="151">
+      <note default-x="13">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -5286,7 +5286,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="51">
+      <note default-x="13">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5297,7 +5297,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="51">
+      <note default-x="13">
         <chord/>
         <pitch>
           <step>G</step>
@@ -5308,13 +5308,13 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="90">
+      <note default-x="56">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="141">
+      <note default-x="108">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5322,7 +5322,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="146">
+    <measure number="18" width="152">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -5330,7 +5330,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="236">
+    <measure number="19" width="243">
       <attributes>
         <time>
           <beats>2</beats>
@@ -5344,7 +5344,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="266">
+    <measure number="20" width="265">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -5352,7 +5352,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="125">
+      <note default-x="123">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -5363,13 +5363,13 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="170">
+      <note default-x="169">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="215">
+      <note default-x="213">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5406,7 +5406,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="56">
+      <note default-x="57">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -5417,7 +5417,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="57">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5442,7 +5442,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="208">
+    <measure number="24" width="209">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -5450,7 +5450,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="309">
+    <measure number="25" width="308">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -5465,7 +5465,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="289">
+    <measure number="26" width="288">
       <attributes>
         <time>
           <beats>3</beats>
@@ -5505,7 +5505,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="231">
+    <measure number="28" width="232">
       <note>
         <rest measure="yes"/>
         <duration>6</duration>
@@ -5518,7 +5518,7 @@ Romanian Folk Dances, No. 5
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="260">
+    <measure number="1" width="271">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -5537,7 +5537,7 @@ Romanian Folk Dances, No. 5
           <line>2</line>
         </clef>
       </attributes>
-      <note default-x="158">
+      <note default-x="170">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
@@ -5545,7 +5545,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="120">
+    <measure number="2" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5553,7 +5553,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="120">
+    <measure number="3" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5561,7 +5561,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="120">
+    <measure number="4" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5569,7 +5569,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="202">
+    <measure number="5" width="199">
       <attributes>
         <time>
           <beats>3</beats>
@@ -5589,7 +5589,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="202">
+    <measure number="6" width="201">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -5603,7 +5603,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="239">
+    <measure number="7" width="238">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -5611,7 +5611,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="132">
+      <note default-x="131">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -5621,7 +5621,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="183">
+      <note default-x="182">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -5640,7 +5640,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="47">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -5654,7 +5654,7 @@ Romanian Folk Dances, No. 5
     </measure>
     <!--=======================================================-->
     <measure number="9" width="113">
-      <note default-x="15">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -5730,14 +5730,14 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="149">
+    <measure number="13" width="150">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="47">
+      <note default-x="48">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -5759,7 +5759,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="246">
+    <measure number="14" width="250">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -5767,7 +5767,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="122">
+      <note default-x="121">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -5780,7 +5780,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="148">
+    <measure number="15" width="154">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -5794,8 +5794,8 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="130">
-      <note default-x="17">
+    <measure number="16" width="135">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -5811,8 +5811,8 @@ Romanian Folk Dances, No. 5
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="181">
-      <note default-x="51">
+    <measure number="17" width="151">
+      <note default-x="13">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -5825,7 +5825,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="146">
+    <measure number="18" width="152">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -5839,14 +5839,14 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="236">
+    <measure number="19" width="243">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="57">
+      <note default-x="58">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5856,7 +5856,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="121">
+      <note default-x="124">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -5868,7 +5868,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="266">
+    <measure number="20" width="265">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -5876,7 +5876,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="125">
+      <note default-x="123">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -5939,7 +5939,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="56">
+      <note default-x="57">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -5952,7 +5952,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="208">
+    <measure number="24" width="209">
       <note default-x="25">
         <pitch>
           <step>G</step>
@@ -5966,7 +5966,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="309">
+    <measure number="25" width="308">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -5974,7 +5974,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="125">
+      <note default-x="123">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -5984,7 +5984,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-19.5">up</stem>
       </note>
-      <note default-x="231">
+      <note default-x="230">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5996,7 +5996,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="289">
+    <measure number="26" width="288">
       <attributes>
         <time>
           <beats>3</beats>
@@ -6030,7 +6030,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="231">
+    <measure number="28" width="232">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -6049,7 +6049,7 @@ Romanian Folk Dances, No. 5
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="260">
+    <measure number="1" width="271">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -6068,7 +6068,7 @@ Romanian Folk Dances, No. 5
           <line>4</line>
         </clef>
       </attributes>
-      <note default-x="160">
+      <note default-x="171">
         <pitch>
           <step>D</step>
           <octave>2</octave>
@@ -6078,7 +6078,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem default-y="-84">down</stem>
       </note>
-      <note default-x="160">
+      <note default-x="171">
         <chord/>
         <pitch>
           <step>A</step>
@@ -6089,7 +6089,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="160">
+      <note default-x="171">
         <chord/>
         <pitch>
           <step>D</step>
@@ -6104,7 +6104,7 @@ Romanian Folk Dances, No. 5
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="160">
+      <note default-x="171">
         <chord/>
         <pitch>
           <step>A</step>
@@ -6119,7 +6119,7 @@ Romanian Folk Dances, No. 5
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="160">
+      <note default-x="171">
         <chord/>
         <pitch>
           <step>D</step>
@@ -6136,113 +6136,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="120">
-      <note default-x="17">
-        <pitch>
-          <step>D</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>4</duration>
-        <tie type="stop"/>
-        <tie type="start"/>
-        <voice>1</voice>
-        <type>half</type>
-        <stem default-y="-55">down</stem>
-        <notations>
-          <tied type="stop"/>
-          <tied type="start"/>
-        </notations>
-      </note>
-      <note default-x="17">
-        <chord/>
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>4</duration>
-        <tie type="stop"/>
-        <tie type="start"/>
-        <voice>1</voice>
-        <type>half</type>
-        <stem>down</stem>
-        <notations>
-          <tied type="stop"/>
-          <tied type="start"/>
-        </notations>
-      </note>
-      <note default-x="17">
-        <chord/>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <tie type="stop"/>
-        <tie type="start"/>
-        <voice>1</voice>
-        <type>half</type>
-        <stem>down</stem>
-        <notations>
-          <tied type="stop"/>
-          <tied type="start"/>
-        </notations>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="3" width="120">
-      <note default-x="17">
-        <pitch>
-          <step>D</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>4</duration>
-        <tie type="stop"/>
-        <tie type="start"/>
-        <voice>1</voice>
-        <type>half</type>
-        <stem default-y="-55">down</stem>
-        <notations>
-          <tied type="stop"/>
-          <tied type="start"/>
-        </notations>
-      </note>
-      <note default-x="17">
-        <chord/>
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>4</duration>
-        <tie type="stop"/>
-        <tie type="start"/>
-        <voice>1</voice>
-        <type>half</type>
-        <stem>down</stem>
-        <notations>
-          <tied type="stop"/>
-          <tied type="start"/>
-        </notations>
-      </note>
-      <note default-x="17">
-        <chord/>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>4</duration>
-        <tie type="stop"/>
-        <tie type="start"/>
-        <voice>1</voice>
-        <type>half</type>
-        <stem>down</stem>
-        <notations>
-          <tied type="stop"/>
-          <tied type="start"/>
-        </notations>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="4" width="120">
+    <measure number="2" width="118">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -6295,7 +6189,113 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="202">
+    <measure number="3" width="118">
+      <note default-x="16">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem default-y="-55">down</stem>
+        <notations>
+          <tied type="stop"/>
+          <tied type="start"/>
+        </notations>
+      </note>
+      <note default-x="16">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+          <tied type="start"/>
+        </notations>
+      </note>
+      <note default-x="16">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+          <tied type="start"/>
+        </notations>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="4" width="118">
+      <note default-x="17">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem default-y="-55">down</stem>
+        <notations>
+          <tied type="stop"/>
+          <tied type="start"/>
+        </notations>
+      </note>
+      <note default-x="17">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+          <tied type="start"/>
+        </notations>
+      </note>
+      <note default-x="17">
+        <chord/>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+          <tied type="start"/>
+        </notations>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="5" width="199">
       <attributes>
         <time>
           <beats>3</beats>
@@ -6357,7 +6357,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="202">
+    <measure number="6" width="201">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -6407,7 +6407,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="239">
+    <measure number="7" width="238">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -6415,7 +6415,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="132">
+      <note default-x="131">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -6425,7 +6425,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="132">
+      <note default-x="131">
         <chord/>
         <pitch>
           <step>G</step>
@@ -6438,7 +6438,7 @@ Romanian Folk Dances, No. 5
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="132">
+      <note default-x="131">
         <chord/>
         <pitch>
           <step>B</step>
@@ -6449,7 +6449,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="183">
+      <note default-x="182">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -6460,7 +6460,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="183">
+      <note default-x="182">
         <chord/>
         <pitch>
           <step>B</step>
@@ -6471,7 +6471,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="183">
+      <note default-x="182">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6491,7 +6491,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="47">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -6501,7 +6501,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="48">
+      <note default-x="47">
         <chord/>
         <pitch>
           <step>A</step>
@@ -6512,7 +6512,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="48">
+      <note default-x="47">
         <chord/>
         <pitch>
           <step>D</step>
@@ -6533,7 +6533,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="69">
+      <note default-x="68">
         <chord/>
         <pitch>
           <step>A</step>
@@ -6591,7 +6591,7 @@ Romanian Folk Dances, No. 5
     </measure>
     <!--=======================================================-->
     <measure number="9" width="113">
-      <note default-x="15">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -6601,7 +6601,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="15">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>A</step>
@@ -6612,7 +6612,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="15">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>D</step>
@@ -6843,7 +6843,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="45">
+      <note default-x="44">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -6853,7 +6853,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="45">
+      <note default-x="44">
         <chord/>
         <pitch>
           <step>D</step>
@@ -6866,7 +6866,7 @@ Romanian Folk Dances, No. 5
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="45">
+      <note default-x="44">
         <chord/>
         <pitch>
           <step>B</step>
@@ -6911,14 +6911,14 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="13" width="149">
+    <measure number="13" width="150">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="47">
+      <note default-x="48">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -6928,7 +6928,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="47">
+      <note default-x="48">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6939,7 +6939,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="47">
+      <note default-x="48">
         <chord/>
         <pitch>
           <step>C</step>
@@ -6953,7 +6953,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="14" width="246">
+    <measure number="14" width="250">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -6961,7 +6961,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="122">
+      <note default-x="121">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -6971,7 +6971,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="122">
+      <note default-x="121">
         <chord/>
         <pitch>
           <step>D</step>
@@ -6982,7 +6982,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="122">
+      <note default-x="121">
         <chord/>
         <pitch>
           <step>B</step>
@@ -6993,7 +6993,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="163">
+      <note default-x="164">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -7003,7 +7003,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="163">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>C</step>
@@ -7015,7 +7015,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="163">
+      <note default-x="164">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7026,7 +7026,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="204">
+      <note default-x="206">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -7036,7 +7036,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="204">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>D</step>
@@ -7047,7 +7047,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="204">
+      <note default-x="206">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7060,7 +7060,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="148">
+    <measure number="15" width="154">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -7106,7 +7106,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -7116,7 +7116,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="109">
+      <note default-x="111">
         <chord/>
         <pitch>
           <step>G</step>
@@ -7129,8 +7129,8 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="130">
-      <note default-x="17">
+    <measure number="16" width="135">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -7141,7 +7141,7 @@ Romanian Folk Dances, No. 5
         <dot/>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7153,7 +7153,7 @@ Romanian Folk Dances, No. 5
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>C</step>
@@ -7171,8 +7171,8 @@ Romanian Folk Dances, No. 5
       </barline>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="181">
-      <note default-x="51">
+    <measure number="17" width="151">
+      <note default-x="13">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -7182,7 +7182,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="51">
+      <note default-x="13">
         <chord/>
         <pitch>
           <step>F</step>
@@ -7194,7 +7194,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="51">
+      <note default-x="13">
         <chord/>
         <pitch>
           <step>A</step>
@@ -7205,7 +7205,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="141">
+      <note default-x="108">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -7215,7 +7215,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="141">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>G</step>
@@ -7228,7 +7228,7 @@ Romanian Folk Dances, No. 5
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="141">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7241,7 +7241,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="18" width="146">
+    <measure number="18" width="152">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -7275,7 +7275,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="105">
+      <note default-x="108">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -7285,7 +7285,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="105">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>G</step>
@@ -7298,7 +7298,7 @@ Romanian Folk Dances, No. 5
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="105">
+      <note default-x="108">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7311,14 +7311,14 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="19" width="236">
+    <measure number="19" width="243">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="57">
+      <note default-x="58">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -7328,7 +7328,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="57">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>G</step>
@@ -7341,7 +7341,7 @@ Romanian Folk Dances, No. 5
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="121">
+      <note default-x="124">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -7351,7 +7351,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="121">
+      <note default-x="124">
         <chord/>
         <pitch>
           <step>F</step>
@@ -7365,7 +7365,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="20" width="266">
+    <measure number="20" width="265">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -7377,7 +7377,7 @@ Romanian Folk Dances, No. 5
           <line>2</line>
         </clef>
       </attributes>
-      <note default-x="125">
+      <note default-x="123">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -7387,7 +7387,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="125">
+      <note default-x="123">
         <chord/>
         <pitch>
           <step>F</step>
@@ -7399,7 +7399,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="125">
+      <note default-x="123">
         <chord/>
         <pitch>
           <step>A</step>
@@ -7410,7 +7410,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="215">
+      <note default-x="213">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -7420,7 +7420,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="215">
+      <note default-x="213">
         <chord/>
         <pitch>
           <step>G</step>
@@ -7433,7 +7433,7 @@ Romanian Folk Dances, No. 5
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="215">
+      <note default-x="213">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7480,7 +7480,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="107">
+      <note default-x="106">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -7490,7 +7490,7 @@ Romanian Folk Dances, No. 5
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="107">
+      <note default-x="106">
         <chord/>
         <pitch>
           <step>G</step>
@@ -7503,7 +7503,7 @@ Romanian Folk Dances, No. 5
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="107">
+      <note default-x="106">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7603,7 +7603,7 @@ Romanian Folk Dances, No. 5
           <line>4</line>
         </clef>
       </attributes>
-      <note default-x="56">
+      <note default-x="57">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -7618,7 +7618,7 @@ Romanian Folk Dances, No. 5
       <backup>
         <duration>6</duration>
       </backup>
-      <note default-x="56">
+      <note default-x="57">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -7654,7 +7654,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="24" width="208">
+    <measure number="24" width="209">
       <note default-x="25">
         <pitch>
           <step>E</step>
@@ -7691,7 +7691,7 @@ Romanian Folk Dances, No. 5
         <accidental>sharp</accidental>
         <stem default-y="-84">down</stem>
       </note>
-      <note default-x="129">
+      <note default-x="128">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -7703,7 +7703,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="25" width="309">
+    <measure number="25" width="308">
       <print new-page="yes"/>
       <attributes>
         <time>
@@ -7711,7 +7711,7 @@ Romanian Folk Dances, No. 5
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="125">
+      <note default-x="123">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -7721,7 +7721,7 @@ Romanian Folk Dances, No. 5
         <type>half</type>
         <stem default-y="39">up</stem>
       </note>
-      <note default-x="125">
+      <note default-x="123">
         <chord/>
         <pitch>
           <step>C</step>
@@ -7736,7 +7736,7 @@ Romanian Folk Dances, No. 5
       <backup>
         <duration>4</duration>
       </backup>
-      <note default-x="125">
+      <note default-x="123">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -7748,7 +7748,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="26" width="289">
+    <measure number="26" width="288">
       <attributes>
         <time>
           <beats>3</beats>
@@ -7865,7 +7865,7 @@ Romanian Folk Dances, No. 5
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="28" width="231">
+    <measure number="28" width="232">
       <note default-x="16">
         <pitch>
           <step>E</step>

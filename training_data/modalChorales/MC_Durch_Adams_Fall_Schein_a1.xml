@@ -3,9 +3,9 @@
 <score-partwise version="3.0">
   <identification>
     <encoding>
-      <software>Finale 2014 for Mac</software>
-      <software>Dolet Light for Finale 2014</software>
-      <encoding-date>2015-09-28</encoding-date>
+      <software>Finale 2014.5 for Windows</software>
+      <software>Dolet Light for Finale 2014.5</software>
+      <encoding-date>2019-06-04</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -580,6 +580,26 @@
       <sound tempo="120"/>
       <note default-x="100">
         <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>whole</type>
+      </note>
+      <note default-x="85">
+        <chord/>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>whole</type>
+      </note>
+      <note default-x="100">
+        <chord/>
+        <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
@@ -627,31 +647,17 @@
         <voice>1</voice>
         <type>whole</type>
       </note>
-      <note default-x="85">
-        <chord/>
-        <pitch>
-          <step>F</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="100">
-        <chord/>
-        <pitch>
-          <step>G</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
       <note default-x="232">
         <rest/>
-        <duration>32</duration>
+        <duration>16</duration>
         <voice>1</voice>
-        <type>long</type>
+        <type>breve</type>
+      </note>
+      <note default-x="580">
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>breve</type>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
@@ -682,7 +688,7 @@
       <sound tempo="120"/>
       <note default-x="100">
         <pitch>
-          <step>E</step>
+          <step>F</step>
           <octave>4</octave>
         </pitch>
         <duration>8</duration>
@@ -691,9 +697,15 @@
       </note>
       <note default-x="232">
         <rest/>
-        <duration>32</duration>
+        <duration>16</duration>
         <voice>1</voice>
-        <type>long</type>
+        <type>breve</type>
+      </note>
+      <note default-x="580">
+        <rest/>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>breve</type>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
@@ -836,19 +848,19 @@
           <step>F</step>
           <octave>4</octave>
         </pitch>
-        <duration>4</duration>
+        <duration>8</duration>
         <voice>2</voice>
-        <type>half</type>
-        <stem default-y="-63">down</stem>
+        <type>whole</type>
       </note>
-      <note default-x="580">
+      <note default-x="694">
         <pitch>
           <step>E</step>
           <octave>4</octave>
         </pitch>
-        <duration>8</duration>
+        <duration>4</duration>
         <voice>2</voice>
-        <type>whole</type>
+        <type>half</type>
+        <stem default-y="-69">down</stem>
       </note>
       <note default-x="776">
         <pitch>

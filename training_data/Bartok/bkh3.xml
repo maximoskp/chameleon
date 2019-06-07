@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2016-02-28</encoding-date>
+      <encoding-date>2019-06-03</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -159,7 +159,7 @@ Fifteen Hungarian Peasant Songs
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="304">
+    <measure number="1" width="301">
       <print>
         <system-layout>
           <system-margins>
@@ -198,7 +198,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="40">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="213">
+      <note default-x="212">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -209,7 +209,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="45">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -221,7 +221,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="40">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="273">
+      <note default-x="271">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -259,7 +259,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="213">
+      <note default-x="212">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -270,7 +270,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-60">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="213">
+      <note default-x="212">
         <chord/>
         <pitch>
           <step>C</step>
@@ -282,7 +282,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="232">
+      <note default-x="230">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -292,7 +292,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <chord/>
         <pitch>
           <step>C</step>
@@ -306,7 +306,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="123">
+    <measure number="2" width="120">
       <note default-x="14">
         <pitch>
           <step>F</step>
@@ -319,7 +319,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="40">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="40">
+      <note default-x="39">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -330,7 +330,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="45">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="70">
+      <note default-x="69">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -342,7 +342,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="40">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="96">
+      <note default-x="94">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -380,7 +380,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="40">
+      <note default-x="39">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -391,7 +391,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-60">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="40">
+      <note default-x="39">
         <chord/>
         <pitch>
           <step>C</step>
@@ -403,7 +403,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="59">
+      <note default-x="57">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -413,7 +413,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="70">
+      <note default-x="69">
         <chord/>
         <pitch>
           <step>C</step>
@@ -427,7 +427,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="113">
+    <measure number="3" width="111">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -463,7 +463,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="39">
+      <note default-x="38">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -475,7 +475,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="45">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="39">
+      <note default-x="38">
         <chord/>
         <pitch>
           <step>A</step>
@@ -486,7 +486,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="64">
+      <note default-x="62">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -498,7 +498,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="40">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="88">
+      <note default-x="86">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -517,7 +517,7 @@ Fifteen Hungarian Peasant Songs
         <duration>2</duration>
         <voice>2</voice>
       </forward>
-      <note default-x="64">
+      <note default-x="62">
         <pitch>
           <step>B</step>
           <alter>1</alter>
@@ -531,8 +531,8 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="110">
-      <note default-x="14">
+    <measure number="4" width="123">
+      <note default-x="26">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -543,7 +543,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-30">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="68">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -554,7 +554,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="20.5">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="68">
         <chord/>
         <pitch>
           <step>C</step>
@@ -566,7 +566,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="83">
+      <note default-x="96">
         <rest>
           <display-step>A</display-step>
           <display-octave>4</display-octave>
@@ -577,7 +577,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="138">
+    <measure number="5" width="136">
       <note default-x="25">
         <pitch>
           <step>A</step>
@@ -600,7 +600,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -611,7 +611,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <chord/>
         <pitch>
           <step>B</step>
@@ -622,7 +622,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="109">
+      <note default-x="107">
         <rest>
           <display-step>A</display-step>
           <display-octave>4</display-octave>
@@ -652,7 +652,7 @@ Fifteen Hungarian Peasant Songs
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="113">
+    <measure number="6" width="111">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -675,7 +675,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="59">
+      <note default-x="58">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -687,7 +687,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>sharp</accidental>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="59">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>B</step>
@@ -698,7 +698,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="87">
+      <note default-x="85">
         <rest>
           <display-step>A</display-step>
           <display-octave>4</display-octave>
@@ -727,7 +727,7 @@ Fifteen Hungarian Peasant Songs
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="124">
+    <measure number="7" width="123">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -1072,7 +1072,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="10" width="132">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1107,7 +1107,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="40">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="102">
+      <note default-x="103">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1122,7 +1122,7 @@ Fifteen Hungarian Peasant Songs
       <backup>
         <duration>4</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1133,7 +1133,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-60">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1189,8 +1189,8 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="174">
-      <note default-x="39">
+    <measure number="11" width="175">
+      <note default-x="38">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1225,7 +1225,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="40">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="139">
+      <note default-x="140">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1240,7 +1240,7 @@ Fifteen Hungarian Peasant Songs
       <backup>
         <duration>4</duration>
       </backup>
-      <note default-x="27">
+      <note default-x="26">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1251,7 +1251,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-60">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="39">
+      <note default-x="38">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1262,7 +1262,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="39">
+      <note default-x="38">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1275,7 +1275,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="61">
+      <note default-x="60">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1309,7 +1309,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="95">
+      <note default-x="94">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1378,7 +1378,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="87">
+      <note default-x="88">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1517,7 +1517,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="104">
+      <note default-x="105">
         <rest>
           <display-step>A</display-step>
           <display-octave>4</display-octave>
@@ -1546,7 +1546,7 @@ Fifteen Hungarian Peasant Songs
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="210">
+    <measure number="15" width="209">
       <print new-page="yes"/>
       <note default-x="103">
         <pitch>
@@ -1583,7 +1583,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="138">
+      <note default-x="137">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1595,7 +1595,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="33">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="138">
+      <note default-x="137">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1606,7 +1606,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="138">
+      <note default-x="137">
         <chord/>
         <pitch>
           <step>F</step>
@@ -1618,7 +1618,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="161">
+      <note default-x="160">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1629,7 +1629,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="31.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="161">
+      <note default-x="160">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1641,7 +1641,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="161">
+      <note default-x="160">
         <chord/>
         <pitch>
           <step>E</step>
@@ -1652,7 +1652,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="185">
+      <note default-x="184">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1663,7 +1663,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="30">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="185">
+      <note default-x="184">
         <chord/>
         <pitch>
           <step>B</step>
@@ -1674,7 +1674,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="185">
+      <note default-x="184">
         <chord/>
         <pitch>
           <step>D</step>
@@ -1687,7 +1687,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="117">
+    <measure number="16" width="118">
       <note default-x="26">
         <pitch>
           <step>C</step>
@@ -1724,7 +1724,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1735,7 +1735,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="20.5">up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <chord/>
         <pitch>
           <step>A</step>
@@ -1747,7 +1747,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <chord/>
         <pitch>
           <step>C</step>
@@ -1759,7 +1759,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="93">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -1826,7 +1826,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="45">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="125">
+      <note default-x="124">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1865,7 +1865,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="89">
+      <note default-x="87">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1902,7 +1902,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="45">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="55">
+      <note default-x="56">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -1926,7 +1926,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="45">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="104">
+      <note default-x="103">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1965,7 +1965,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="55">
+      <note default-x="56">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -1977,7 +1977,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-60">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="55">
+      <note default-x="56">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2013,7 +2013,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="19" width="123">
-      <note default-x="24">
+      <note default-x="25">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -2036,7 +2036,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="45">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="73">
+      <note default-x="74">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -2063,7 +2063,7 @@ Fifteen Hungarian Peasant Songs
       <backup>
         <duration>4</duration>
       </backup>
-      <note default-x="24">
+      <note default-x="25">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2074,7 +2074,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="24">
+      <note default-x="25">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2107,7 +2107,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="73">
+      <note default-x="74">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2117,7 +2117,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="73">
+      <note default-x="74">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2154,7 +2154,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="53">
+      <note default-x="52">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -2165,7 +2165,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="20.5">up</stem>
       </note>
-      <note default-x="53">
+      <note default-x="52">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2185,7 +2185,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="133">
+    <measure number="21" width="132">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -2262,7 +2262,7 @@ Fifteen Hungarian Peasant Songs
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="119">
+    <measure number="22" width="120">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -2309,7 +2309,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="94">
+      <note default-x="95">
         <rest>
           <display-step>A</display-step>
           <display-octave>4</display-octave>
@@ -2339,9 +2339,9 @@ Fifteen Hungarian Peasant Songs
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="225">
+    <measure number="23" width="224">
       <print new-page="yes"/>
-      <note default-x="112">
+      <note default-x="111">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2352,7 +2352,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-70">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="112">
+      <note default-x="111">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2363,7 +2363,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="112">
+      <note default-x="111">
         <chord/>
         <pitch>
           <step>F</step>
@@ -2375,7 +2375,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="139">
+      <note default-x="138">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2386,7 +2386,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-70">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="139">
+      <note default-x="138">
         <chord/>
         <pitch>
           <step>D</step>
@@ -2397,7 +2397,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="139">
+      <note default-x="138">
         <chord/>
         <pitch>
           <step>F</step>
@@ -2409,7 +2409,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="168">
+      <note default-x="167">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -2421,7 +2421,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-70">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="168">
+      <note default-x="167">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2433,7 +2433,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="168">
+      <note default-x="167">
         <chord/>
         <pitch>
           <step>E</step>
@@ -2482,7 +2482,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="24" width="113">
-      <note default-x="14">
+      <note default-x="13">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -2493,7 +2493,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="25">
+      <note default-x="26">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2505,7 +2505,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="14">
+      <note default-x="13">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2568,7 +2568,7 @@ Fifteen Hungarian Peasant Songs
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="79">
+      <note default-x="80">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -2580,7 +2580,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>sharp</accidental>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="79">
+      <note default-x="80">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2601,7 +2601,7 @@ Fifteen Hungarian Peasant Songs
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="83">
+      <note default-x="84">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -2613,7 +2613,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>sharp</accidental>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="83">
+      <note default-x="84">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2625,7 +2625,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="83">
+      <note default-x="84">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2647,7 +2647,7 @@ Fifteen Hungarian Peasant Songs
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="69">
+      <note default-x="70">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -2659,7 +2659,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>sharp</accidental>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="69">
+      <note default-x="70">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2671,7 +2671,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="69">
+      <note default-x="70">
         <chord/>
         <pitch>
           <step>F</step>
@@ -2683,7 +2683,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="69">
+      <note default-x="70">
         <chord/>
         <pitch>
           <step>A</step>
@@ -2699,7 +2699,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="28" width="108">
-      <note default-x="16">
+      <note default-x="17">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -2837,7 +2837,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="118">
+    <measure number="30" width="119">
       <note default-x="25">
         <pitch>
           <step>A</step>
@@ -2874,7 +2874,7 @@ Fifteen Hungarian Peasant Songs
         <dot/>
         <stem>down</stem>
       </note>
-      <note default-x="92">
+      <note default-x="93">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -2897,7 +2897,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>natural</accidental>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -2909,7 +2909,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>sharp</accidental>
         <stem default-y="25.5">up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="93">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -2920,7 +2920,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="204">
+    <measure number="31" width="203">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -2929,7 +2929,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="158">
+    <measure number="32" width="159">
       <note default-x="26">
         <pitch>
           <step>D</step>
@@ -2978,7 +2978,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="110">
+      <note default-x="111">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -2986,7 +2986,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="142">
+    <measure number="33" width="143">
       <note default-x="38">
         <pitch>
           <step>F</step>
@@ -3023,7 +3023,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -3034,7 +3034,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="20.5">up</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3114,7 +3114,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="106">
+      <note default-x="107">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -3123,7 +3123,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="35" width="101">
-      <note default-x="16">
+      <note default-x="17">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -3187,13 +3187,13 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="37" width="101">
-      <note default-x="17">
+      <note default-x="16">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="58">
+      <note default-x="59">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -3204,7 +3204,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="58">
+      <note default-x="59">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3218,8 +3218,8 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="38" width="140">
-      <note default-x="39">
+    <measure number="38" width="141">
+      <note default-x="40">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -3256,7 +3256,7 @@ Fifteen Hungarian Peasant Songs
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="304">
+    <measure number="1" width="301">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -3288,7 +3288,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-20">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="213">
+      <note default-x="212">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -3300,7 +3300,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-20">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -3313,7 +3313,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="123">
+    <measure number="2" width="120">
       <note default-x="14">
         <pitch>
           <step>F</step>
@@ -3326,7 +3326,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="40">
+      <note default-x="39">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -3338,7 +3338,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-10">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="70">
+      <note default-x="69">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -3351,7 +3351,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="113">
+    <measure number="3" width="111">
       <note default-x="14">
         <pitch>
           <step>F</step>
@@ -3364,7 +3364,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-45">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="39">
+      <note default-x="38">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -3376,7 +3376,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-45">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="64">
+      <note default-x="62">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -3389,8 +3389,8 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="110">
-      <note default-x="14">
+    <measure number="4" width="123">
+      <note default-x="26">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -3401,7 +3401,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="56">
+      <note default-x="68">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -3412,7 +3412,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="-25">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="68">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3425,7 +3425,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="83">
+      <note default-x="96">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -3433,7 +3433,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="138">
+    <measure number="5" width="136">
       <note default-x="25">
         <pitch>
           <step>A</step>
@@ -3456,7 +3456,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -3466,7 +3466,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3477,7 +3477,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="107">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -3485,7 +3485,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="113">
+    <measure number="6" width="111">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -3508,7 +3508,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="59">
+      <note default-x="58">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -3518,7 +3518,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="59">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3529,7 +3529,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="87">
+      <note default-x="85">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -3537,7 +3537,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="124">
+    <measure number="7" width="123">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -3569,7 +3569,7 @@ Fifteen Hungarian Peasant Songs
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <stem default-y="-51">down</stem>
+        <stem default-y="-52">down</stem>
         <beam number="1">continue</beam>
       </note>
       <note default-x="97">
@@ -3692,7 +3692,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="10" width="132">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -3703,7 +3703,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-20">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3762,8 +3762,8 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="174">
-      <note default-x="39">
+    <measure number="11" width="175">
+      <note default-x="38">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -3774,7 +3774,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-30">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="39">
+      <note default-x="38">
         <chord/>
         <pitch>
           <step>D</step>
@@ -3950,7 +3950,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>natural</accidental>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="104">
+      <note default-x="105">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -3958,7 +3958,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="210">
+    <measure number="15" width="209">
       <print new-page="yes"/>
       <note default-x="103">
         <pitch>
@@ -3971,7 +3971,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="138">
+      <note default-x="137">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -3984,7 +3984,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="12">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="161">
+      <note default-x="160">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -3995,7 +3995,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="13.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="185">
+      <note default-x="184">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -4008,7 +4008,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="117">
+    <measure number="16" width="118">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -4020,7 +4020,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4031,7 +4031,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="92">
+      <note default-x="93">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -4131,7 +4131,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>natural</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="55">
+      <note default-x="56">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -4142,7 +4142,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-55">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="55">
+      <note default-x="56">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4177,7 +4177,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="19" width="123">
-      <note default-x="24">
+      <note default-x="25">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -4188,7 +4188,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-20">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="24">
+      <note default-x="25">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4222,7 +4222,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="73">
+      <note default-x="74">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -4232,7 +4232,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-20">down</stem>
       </note>
-      <note default-x="73">
+      <note default-x="74">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4267,7 +4267,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="53">
+      <note default-x="52">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -4277,7 +4277,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="53">
+      <note default-x="52">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4296,7 +4296,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="133">
+    <measure number="21" width="132">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -4352,7 +4352,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="119">
+    <measure number="22" width="120">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -4400,7 +4400,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="94">
+      <note default-x="95">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -4408,9 +4408,9 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="225">
+    <measure number="23" width="224">
       <print new-page="yes"/>
-      <note default-x="112">
+      <note default-x="111">
         <pitch>
           <step>B</step>
           <octave>1</octave>
@@ -4421,7 +4421,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="139">
+      <note default-x="138">
         <pitch>
           <step>D</step>
           <octave>2</octave>
@@ -4432,7 +4432,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-3.5">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="168">
+      <note default-x="167">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4459,7 +4459,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="24" width="113">
-      <note default-x="14">
+      <note default-x="13">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -4490,7 +4490,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="25" width="129">
-      <note default-x="26">
+      <note default-x="27">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4502,7 +4502,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="0">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="55">
+      <note default-x="56">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4514,7 +4514,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="0">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="79">
+      <note default-x="80">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -4541,7 +4541,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="26" width="158">
-      <note default-x="27">
+      <note default-x="26">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4565,7 +4565,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-45">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="83">
+      <note default-x="84">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -4577,7 +4577,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-45">down</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="108">
+      <note default-x="109">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4610,7 +4610,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="45">
+      <note default-x="46">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4622,7 +4622,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="10">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="69">
+      <note default-x="70">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -4634,7 +4634,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="10">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="94">
+      <note default-x="93">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4709,7 +4709,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="118">
+    <measure number="30" width="119">
       <note default-x="25">
         <pitch>
           <step>C</step>
@@ -4721,7 +4721,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -4731,7 +4731,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="-19.5">up</stem>
       </note>
-      <note default-x="92">
+      <note default-x="93">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -4739,9 +4739,9 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="204">
+    <measure number="31" width="203">
       <print new-page="yes"/>
-      <note default-x="101">
+      <note default-x="100">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4753,7 +4753,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="0">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="127">
+      <note default-x="126">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4765,7 +4765,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="0">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="152">
+      <note default-x="151">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -4776,7 +4776,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="0">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="178">
+      <note default-x="177">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -4789,7 +4789,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="158">
+    <measure number="32" width="159">
       <note default-x="26">
         <pitch>
           <step>A</step>
@@ -4800,7 +4800,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="15.5">up</stem>
       </note>
-      <note default-x="38">
+      <note default-x="39">
         <chord/>
         <pitch>
           <step>B</step>
@@ -4836,7 +4836,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="110">
+      <note default-x="111">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -4870,7 +4870,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="-85">down</stem>
       </note>
-      <note default-x="110">
+      <note default-x="111">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -4881,14 +4881,14 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="142">
+    <measure number="33" width="143">
       <attributes>
         <clef>
           <sign>F</sign>
           <line>4</line>
         </clef>
       </attributes>
-      <note default-x="27">
+      <note default-x="26">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -4911,7 +4911,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -4922,7 +4922,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <chord/>
         <pitch>
           <step>C</step>
@@ -4934,7 +4934,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <chord/>
         <pitch>
           <step>E</step>
@@ -4966,7 +4966,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="37">
+      <note default-x="39">
         <chord/>
         <pitch>
           <step>B</step>
@@ -5015,7 +5015,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>sharp</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="106">
+      <note default-x="107">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -5024,7 +5024,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="35" width="101">
-      <note default-x="16">
+      <note default-x="17">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5114,13 +5114,13 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="37" width="101">
-      <note default-x="17">
+      <note default-x="16">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="58">
+      <note default-x="59">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -5131,7 +5131,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="58">
+      <note default-x="59">
         <chord/>
         <pitch>
           <step>C</step>
@@ -5143,7 +5143,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="58">
+      <note default-x="59">
         <chord/>
         <pitch>
           <step>E</step>
@@ -5158,8 +5158,8 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="38" width="140">
-      <note default-x="39">
+    <measure number="38" width="141">
+      <note default-x="40">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5197,7 +5197,7 @@ Fifteen Hungarian Peasant Songs
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="304">
+    <measure number="1" width="301">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -5229,7 +5229,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>sharp</accidental>
         <stem default-y="-70">down</stem>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <chord/>
         <pitch>
           <step>G</step>
@@ -5253,7 +5253,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <chord/>
         <pitch>
           <step>B</step>
@@ -5277,7 +5277,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <chord/>
         <pitch>
           <step>D</step>
@@ -5299,13 +5299,13 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="213">
+      <note default-x="212">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5313,7 +5313,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="123">
+    <measure number="2" width="120">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5321,7 +5321,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="113">
+    <measure number="3" width="111">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5329,7 +5329,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="110">
+    <measure number="4" width="123">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5337,7 +5337,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="138">
+    <measure number="5" width="136">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5345,7 +5345,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="113">
+    <measure number="6" width="111">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5353,7 +5353,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="124">
+    <measure number="7" width="123">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5386,7 +5386,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="174">
+    <measure number="11" width="175">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5418,7 +5418,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="210">
+    <measure number="15" width="209">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -5427,7 +5427,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="117">
+    <measure number="16" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5467,7 +5467,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="133">
+    <measure number="21" width="132">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5475,7 +5475,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="119">
+    <measure number="22" width="120">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5483,7 +5483,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="225">
+    <measure number="23" width="224">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -5540,7 +5540,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="118">
+    <measure number="30" width="119">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5548,7 +5548,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="204">
+    <measure number="31" width="203">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -5557,7 +5557,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="158">
+    <measure number="32" width="159">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5565,7 +5565,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="142">
+    <measure number="33" width="143">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5605,7 +5605,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="38" width="140">
+    <measure number="38" width="141">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5618,7 +5618,7 @@ Fifteen Hungarian Peasant Songs
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="304">
+    <measure number="1" width="301">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -5670,13 +5670,13 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="213">
+      <note default-x="212">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5684,7 +5684,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="123">
+    <measure number="2" width="120">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5692,7 +5692,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="113">
+    <measure number="3" width="111">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5700,7 +5700,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="110">
+    <measure number="4" width="123">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5708,7 +5708,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="138">
+    <measure number="5" width="136">
       <note default-x="25">
         <pitch>
           <step>E</step>
@@ -5719,13 +5719,13 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="53">
+      <note default-x="52">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="82">
+      <note default-x="80">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5733,7 +5733,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="113">
+    <measure number="6" width="111">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5741,7 +5741,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="124">
+    <measure number="7" width="123">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5786,7 +5786,7 @@ Fifteen Hungarian Peasant Songs
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="73">
+      <note default-x="72">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5802,7 +5802,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="174">
+    <measure number="11" width="175">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5851,7 +5851,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="210">
+    <measure number="15" width="209">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -5860,7 +5860,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="117">
+    <measure number="16" width="118">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5928,7 +5928,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="133">
+    <measure number="21" width="132">
       <note default-x="26">
         <pitch>
           <step>E</step>
@@ -5945,7 +5945,7 @@ Fifteen Hungarian Peasant Songs
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="80">
+      <note default-x="79">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -5953,7 +5953,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="119">
+    <measure number="22" width="120">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -5961,7 +5961,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="225">
+    <measure number="23" width="224">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -5979,7 +5979,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="25" width="129">
-      <note default-x="26">
+      <note default-x="27">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5989,7 +5989,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="26">
+      <note default-x="27">
         <chord/>
         <pitch>
           <step>G</step>
@@ -6000,7 +6000,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="55">
+      <note default-x="56">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -6046,7 +6046,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="118">
+    <measure number="30" width="119">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -6054,7 +6054,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="204">
+    <measure number="31" width="203">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -6063,7 +6063,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="158">
+    <measure number="32" width="159">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -6071,7 +6071,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="142">
+    <measure number="33" width="143">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -6111,7 +6111,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="38" width="140">
+    <measure number="38" width="141">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -6124,7 +6124,7 @@ Fifteen Hungarian Peasant Songs
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="304">
+    <measure number="1" width="301">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -6180,7 +6180,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="232">
+      <note default-x="230">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -6190,7 +6190,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <chord/>
         <pitch>
           <step>C</step>
@@ -6204,7 +6204,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="123">
+    <measure number="2" width="120">
       <note default-x="14">
         <pitch>
           <step>F</step>
@@ -6241,7 +6241,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="59">
+      <note default-x="57">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -6251,7 +6251,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="70">
+      <note default-x="69">
         <chord/>
         <pitch>
           <step>C</step>
@@ -6265,7 +6265,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="113">
+    <measure number="3" width="111">
       <note default-x="14">
         <pitch>
           <step>F</step>
@@ -6302,7 +6302,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="64">
+      <note default-x="62">
         <pitch>
           <step>B</step>
           <alter>1</alter>
@@ -6316,8 +6316,8 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="110">
-      <note default-x="14">
+    <measure number="4" width="123">
+      <note default-x="26">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -6328,7 +6328,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="14">
+      <note default-x="26">
         <chord/>
         <pitch>
           <step>C</step>
@@ -6340,7 +6340,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="14">
+      <note default-x="26">
         <chord/>
         <pitch>
           <step>G</step>
@@ -6354,7 +6354,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="138">
+    <measure number="5" width="136">
       <note default-x="25">
         <pitch>
           <step>A</step>
@@ -6377,7 +6377,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -6388,7 +6388,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <chord/>
         <pitch>
           <step>B</step>
@@ -6414,7 +6414,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="113">
+    <measure number="6" width="111">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -6437,7 +6437,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="59">
+      <note default-x="58">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -6448,7 +6448,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="59">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>B</step>
@@ -6474,7 +6474,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="124">
+    <measure number="7" width="123">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -6662,7 +6662,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="10" width="132">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -6680,7 +6680,7 @@ Fifteen Hungarian Peasant Songs
       <backup>
         <duration>4</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -6690,7 +6690,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>D</step>
@@ -6703,8 +6703,8 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="174">
-      <note default-x="39">
+    <measure number="11" width="175">
+      <note default-x="38">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -6731,7 +6731,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="39">
+      <note default-x="38">
         <chord/>
         <pitch>
           <step>B</step>
@@ -6742,7 +6742,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="39">
+      <note default-x="38">
         <chord/>
         <pitch>
           <step>D</step>
@@ -6926,7 +6926,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="210">
+    <measure number="15" width="209">
       <print new-page="yes"/>
       <note default-x="103">
         <pitch>
@@ -6962,7 +6962,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="161">
+      <note default-x="160">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -6973,7 +6973,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="30">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="161">
+      <note default-x="160">
         <chord/>
         <pitch>
           <step>C</step>
@@ -6985,7 +6985,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="161">
+      <note default-x="160">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6996,7 +6996,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="185">
+      <note default-x="184">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -7007,7 +7007,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="25">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="185">
+      <note default-x="184">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7018,7 +7018,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="185">
+      <note default-x="184">
         <chord/>
         <pitch>
           <step>D</step>
@@ -7031,7 +7031,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="117">
+    <measure number="16" width="118">
       <note default-x="26">
         <pitch>
           <step>C</step>
@@ -7157,7 +7157,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="19" width="123">
-      <note default-x="24">
+      <note default-x="25">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -7174,7 +7174,7 @@ Fifteen Hungarian Peasant Songs
       <backup>
         <duration>4</duration>
       </backup>
-      <note default-x="24">
+      <note default-x="25">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -7184,7 +7184,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="24">
+      <note default-x="25">
         <chord/>
         <pitch>
           <step>D</step>
@@ -7235,7 +7235,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="133">
+    <measure number="21" width="132">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -7298,7 +7298,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="119">
+    <measure number="22" width="120">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -7361,9 +7361,9 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="225">
+    <measure number="23" width="224">
       <print new-page="yes"/>
-      <note default-x="112">
+      <note default-x="111">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -7373,7 +7373,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="112">
+      <note default-x="111">
         <chord/>
         <pitch>
           <step>D</step>
@@ -7384,7 +7384,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="112">
+      <note default-x="111">
         <chord/>
         <pitch>
           <step>F</step>
@@ -7396,7 +7396,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="168">
+      <note default-x="167">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -7408,7 +7408,7 @@ Fifteen Hungarian Peasant Songs
         <stem default-y="-65">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="168">
+      <note default-x="167">
         <chord/>
         <pitch>
           <step>C</step>
@@ -7420,7 +7420,7 @@ Fifteen Hungarian Peasant Songs
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="168">
+      <note default-x="167">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7468,7 +7468,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="24" width="113">
-      <note default-x="14">
+      <note default-x="13">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -7479,7 +7479,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="25">
+      <note default-x="26">
         <chord/>
         <pitch>
           <step>G</step>
@@ -7491,7 +7491,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="14">
+      <note default-x="13">
         <chord/>
         <pitch>
           <step>C</step>
@@ -7542,7 +7542,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="25" width="129">
-      <note default-x="26">
+      <note default-x="27">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -7558,7 +7558,7 @@ Fifteen Hungarian Peasant Songs
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="26">
+      <note default-x="27">
         <chord/>
         <pitch>
           <step>C</step>
@@ -7577,7 +7577,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="26" width="158">
-      <note default-x="27">
+      <note default-x="26">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -7594,7 +7594,7 @@ Fifteen Hungarian Peasant Songs
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="27">
+      <note default-x="26">
         <chord/>
         <pitch>
           <step>C</step>
@@ -7612,7 +7612,7 @@ Fifteen Hungarian Peasant Songs
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="27">
+      <note default-x="26">
         <chord/>
         <pitch>
           <step>A</step>
@@ -7632,7 +7632,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="27" width="118">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -7640,16 +7640,14 @@ Fifteen Hungarian Peasant Songs
         </pitch>
         <duration>4</duration>
         <tie type="stop"/>
-        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <stem default-y="-54">down</stem>
         <notations>
           <tied type="stop"/>
-          <tied type="start"/>
         </notations>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>C</step>
@@ -7658,16 +7656,14 @@ Fifteen Hungarian Peasant Songs
         </pitch>
         <duration>4</duration>
         <tie type="stop"/>
-        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
         <notations>
           <tied type="stop"/>
-          <tied type="start"/>
         </notations>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>F</step>
@@ -7675,15 +7671,11 @@ Fifteen Hungarian Peasant Songs
           <octave>5</octave>
         </pitch>
         <duration>4</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
-        <notations>
-          <tied type="start"/>
-        </notations>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -7692,13 +7684,11 @@ Fifteen Hungarian Peasant Songs
         </pitch>
         <duration>4</duration>
         <tie type="stop"/>
-        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
         <notations>
           <tied type="stop"/>
-          <tied type="start"/>
         </notations>
       </note>
     </measure>
@@ -7722,13 +7712,9 @@ Fifteen Hungarian Peasant Songs
           <octave>5</octave>
         </pitch>
         <duration>4</duration>
-        <tie type="stop"/>
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
-        <notations>
-          <tied type="stop"/>
-        </notations>
       </note>
       <note default-x="16">
         <chord/>
@@ -7738,13 +7724,9 @@ Fifteen Hungarian Peasant Songs
           <octave>5</octave>
         </pitch>
         <duration>4</duration>
-        <tie type="stop"/>
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
-        <notations>
-          <tied type="stop"/>
-        </notations>
       </note>
       <note default-x="16">
         <chord/>
@@ -7820,7 +7802,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="118">
+    <measure number="30" width="119">
       <note default-x="25">
         <pitch>
           <step>A</step>
@@ -7867,7 +7849,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="18.5">up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -7881,7 +7863,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="204">
+    <measure number="31" width="203">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -7890,7 +7872,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="158">
+    <measure number="32" width="159">
       <note default-x="26">
         <pitch>
           <step>D</step>
@@ -7941,7 +7923,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="142">
+    <measure number="33" width="143">
       <note default-x="38">
         <pitch>
           <step>F</step>
@@ -7978,7 +7960,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -7989,7 +7971,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="13.5">up</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <chord/>
         <pitch>
           <step>C</step>
@@ -8150,7 +8132,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="37" width="101">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -8165,7 +8147,7 @@ Fifteen Hungarian Peasant Songs
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>C</step>
@@ -8183,7 +8165,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="38" width="140">
+    <measure number="38" width="141">
       <note default-x="39">
         <pitch>
           <step>A</step>
@@ -8215,7 +8197,7 @@ Fifteen Hungarian Peasant Songs
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="304">
+    <measure number="1" width="301">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -8246,7 +8228,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-9.5">up</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -8259,7 +8241,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="123">
+    <measure number="2" width="120">
       <note default-x="14">
         <pitch>
           <step>F</step>
@@ -8271,7 +8253,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-9.5">up</stem>
       </note>
-      <note default-x="70">
+      <note default-x="69">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -8284,7 +8266,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="113">
+    <measure number="3" width="111">
       <note default-x="14">
         <pitch>
           <step>F</step>
@@ -8296,7 +8278,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="64">
+      <note default-x="62">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -8309,45 +8291,46 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="110">
-      <note default-x="14">
+    <measure number="4" width="123">
+      <note default-x="26">
         <pitch>
           <step>C</step>
           <alter>1</alter>
           <octave>3</octave>
         </pitch>
-        <duration>2</duration>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="11">up</stem>
+        <type>half</type>
+        <stem default-y="-54">down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="26">
+        <chord/>
         <pitch>
           <step>C</step>
           <alter>1</alter>
           <octave>4</octave>
         </pitch>
-        <duration>2</duration>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-25">down</stem>
+        <type>half</type>
+        <stem>down</stem>
       </note>
-      <note default-x="56">
+      <note default-x="26">
         <chord/>
         <pitch>
           <step>E</step>
           <alter>1</alter>
           <octave>4</octave>
         </pitch>
-        <duration>2</duration>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>quarter</type>
+        <type>half</type>
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="138">
+    <measure number="5" width="136">
       <note default-x="25">
         <pitch>
           <step>A</step>
@@ -8370,7 +8353,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -8380,7 +8363,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="81">
+      <note default-x="80">
         <chord/>
         <pitch>
           <step>B</step>
@@ -8393,7 +8376,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="113">
+    <measure number="6" width="111">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -8416,7 +8399,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="59">
+      <note default-x="58">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -8426,7 +8409,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="59">
+      <note default-x="58">
         <chord/>
         <pitch>
           <step>B</step>
@@ -8439,7 +8422,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="124">
+    <measure number="7" width="123">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -8516,7 +8499,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="10" width="132">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -8526,7 +8509,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem default-y="-20">down</stem>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>F</step>
@@ -8540,8 +8523,8 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="174">
-      <note default-x="39">
+    <measure number="11" width="175">
+      <note default-x="38">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -8551,7 +8534,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem default-y="-30">down</stem>
       </note>
-      <note default-x="39">
+      <note default-x="38">
         <chord/>
         <pitch>
           <step>D</step>
@@ -8675,9 +8658,9 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="15" width="210">
+    <measure number="15" width="209">
       <print new-page="yes"/>
-      <note default-x="104">
+      <note default-x="103">
         <pitch>
           <step>E</step>
           <octave>2</octave>
@@ -8687,7 +8670,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="104">
+      <note default-x="103">
         <chord/>
         <pitch>
           <step>G</step>
@@ -8699,7 +8682,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="104">
+      <note default-x="103">
         <chord/>
         <pitch>
           <step>B</step>
@@ -8710,7 +8693,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem>up</stem>
       </note>
-      <note default-x="104">
+      <note default-x="103">
         <chord/>
         <pitch>
           <step>D</step>
@@ -8723,7 +8706,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="117">
+    <measure number="16" width="118">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -8793,7 +8776,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="19" width="123">
-      <note default-x="24">
+      <note default-x="25">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -8806,7 +8789,7 @@ Fifteen Hungarian Peasant Songs
           <slur number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="24">
+      <note default-x="25">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8843,7 +8826,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="21" width="133">
+    <measure number="21" width="132">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -8893,7 +8876,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="119">
+    <measure number="22" width="120">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -8943,9 +8926,9 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="225">
+    <measure number="23" width="224">
       <print new-page="yes"/>
-      <note default-x="112">
+      <note default-x="111">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -8955,7 +8938,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="112">
+      <note default-x="111">
         <chord/>
         <pitch>
           <step>D</step>
@@ -8966,7 +8949,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem>down</stem>
       </note>
-      <note default-x="112">
+      <note default-x="111">
         <chord/>
         <pitch>
           <step>F</step>
@@ -8978,7 +8961,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>natural</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="112">
+      <note default-x="111">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8992,7 +8975,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="24" width="113">
-      <note default-x="14">
+      <note default-x="13">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -9006,7 +8989,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="25" width="129">
-      <note default-x="26">
+      <note default-x="27">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -9017,7 +9000,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="26">
+      <note default-x="27">
         <chord/>
         <pitch>
           <step>A</step>
@@ -9031,7 +9014,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="26" width="158">
-      <note default-x="27">
+      <note default-x="26">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -9042,7 +9025,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="27">
+      <note default-x="26">
         <chord/>
         <pitch>
           <step>A</step>
@@ -9056,7 +9039,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="27" width="118">
-      <note default-x="16">
+      <note default-x="17">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -9067,7 +9050,7 @@ Fifteen Hungarian Peasant Songs
         <type>half</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="16">
+      <note default-x="17">
         <chord/>
         <pitch>
           <step>A</step>
@@ -9135,7 +9118,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="30" width="118">
+    <measure number="30" width="119">
       <note default-x="25">
         <pitch>
           <step>C</step>
@@ -9147,7 +9130,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -9159,7 +9142,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="204">
+    <measure number="31" width="203">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -9168,7 +9151,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="158">
+    <measure number="32" width="159">
       <note default-x="26">
         <pitch>
           <step>A</step>
@@ -9179,7 +9162,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="38">
+      <note default-x="39">
         <chord/>
         <pitch>
           <step>B</step>
@@ -9231,14 +9214,14 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="142">
+    <measure number="33" width="143">
       <attributes>
         <clef>
           <sign>F</sign>
           <line>4</line>
         </clef>
       </attributes>
-      <note default-x="27">
+      <note default-x="26">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -9261,7 +9244,7 @@ Fifteen Hungarian Peasant Songs
         <accidental>sharp</accidental>
         <stem>down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -9272,7 +9255,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <chord/>
         <pitch>
           <step>C</step>
@@ -9284,7 +9267,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="85">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9310,7 +9293,7 @@ Fifteen Hungarian Peasant Songs
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="37">
+      <note default-x="39">
         <chord/>
         <pitch>
           <step>B</step>
@@ -9486,7 +9469,7 @@ Fifteen Hungarian Peasant Songs
     </measure>
     <!--=======================================================-->
     <measure number="37" width="101">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -9501,7 +9484,7 @@ Fifteen Hungarian Peasant Songs
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>C</step>
@@ -9517,7 +9500,7 @@ Fifteen Hungarian Peasant Songs
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="17">
+      <note default-x="16">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9535,7 +9518,7 @@ Fifteen Hungarian Peasant Songs
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="38" width="140">
+    <measure number="38" width="141">
       <note default-x="39">
         <pitch>
           <step>A</step>
