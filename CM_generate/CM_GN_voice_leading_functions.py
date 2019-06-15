@@ -32,6 +32,11 @@ def make_harmonisation_stream(m, idiom):
         for note in measure.getElementsByClass('Note'):
             chord_segments[tmp_count].chord.offset = note.offset
             chord_segments[tmp_count].chord.duration = note.duration
+            for pp in chord_segments[tmp_count].chord.pitches:
+                # print(pp.name, ' - ', pp.accidental)
+                if pp.accidental == m21.pitch.Accidental('natural'):
+                    # print('bang!')
+                    pp.accidental = None
             note.activeSite.replace(note, chord_segments[tmp_count].chord)
             tmp_count += 1
     output_stream.insert( 0, melody_part )
