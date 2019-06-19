@@ -3,9 +3,9 @@
 <score-partwise version="3.0">
   <identification>
     <encoding>
-      <software>Finale 2014 for Mac</software>
-      <software>Dolet Light for Finale 2014</software>
-      <encoding-date>2015-10-01</encoding-date>
+      <software>Finale 2014.5 for Windows</software>
+      <software>Dolet Light for Finale 2014.5</software>
+      <encoding-date>2019-05-16</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -192,7 +192,7 @@ II. Un Cygne</credit-words>
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="355">
+    <measure number="1" width="352">
       <print>
         <system-layout>
           <system-margins>
@@ -223,20 +223,20 @@ II. Un Cygne</credit-words>
           <words default-y="40" font-size="11.6" font-weight="bold" xml:space="preserve">Lento  </words>
         </direction-type>
         <direction-type>
-          <metronome font-family="Engraver Text T" font-size="10" font-weight="normal">
+          <metronome font-family="EngraverTextT" font-size="10" font-weight="normal">
             <beat-unit>quarter</beat-unit>
             <per-minute>63</per-minute>
           </metronome>
         </direction-type>
         <sound tempo="63"/>
       </direction>
-      <note default-x="96">
+      <note default-x="84">
         <rest/>
         <duration>24</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="217">
+      <note default-x="219">
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
@@ -254,7 +254,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="354">
+    <measure number="2" width="355">
       <note default-x="16">
         <pitch>
           <step>B</step>
@@ -296,7 +296,7 @@ II. Un Cygne</credit-words>
         <dot/>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="323">
+      <note default-x="324">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -308,7 +308,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="316">
+    <measure number="3" width="318">
       <note default-x="26">
         <pitch>
           <step>B</step>
@@ -319,7 +319,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="94">
+      <note default-x="95">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -329,7 +329,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="163">
+      <note default-x="164">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -341,7 +341,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="205">
+      <note default-x="207">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -351,7 +351,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="247">
+      <note default-x="249">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -367,9 +367,9 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="396">
+    <measure number="4" width="392">
       <print new-page="yes"/>
-      <note default-x="66">
+      <note default-x="65">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -383,7 +383,7 @@ II. Un Cygne</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="111">
+      <note default-x="110">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -393,7 +393,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="157">
+      <note default-x="155">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -403,7 +403,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="230">
+      <note default-x="228">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -413,7 +413,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="304">
+      <note default-x="301">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -423,7 +423,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="349">
+      <note default-x="346">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -435,8 +435,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="331">
-      <note default-x="27">
+    <measure number="5" width="329">
+      <note default-x="26">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -456,7 +456,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -466,7 +466,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -478,7 +478,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="303">
+      <note default-x="301">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -493,7 +493,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="358">
+    <measure number="6" width="364">
       <note default-x="26">
         <pitch>
           <step>B</step>
@@ -504,7 +504,7 @@ II. Un Cygne</credit-words>
         <type>half</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="181">
+      <note default-x="189">
         <rest/>
         <duration>24</duration>
         <voice>1</voice>
@@ -512,7 +512,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="443">
+    <measure number="7" width="438">
       <print new-page="yes"/>
       <note default-x="53">
         <rest/>
@@ -520,7 +520,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -530,7 +530,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="150">
+      <note default-x="149">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -541,7 +541,7 @@ II. Un Cygne</credit-words>
         <dot/>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="296">
+      <note default-x="293">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -551,7 +551,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="345">
+      <note default-x="341">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -562,7 +562,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="393">
+      <note default-x="389">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -607,7 +607,7 @@ II. Un Cygne</credit-words>
         <dot/>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="233">
+      <note default-x="232">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -617,7 +617,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="278">
+      <note default-x="279">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -633,8 +633,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="290">
-      <note default-x="14">
+    <measure number="9" width="295">
+      <note default-x="17">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -648,7 +648,7 @@ II. Un Cygne</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="79">
+      <note default-x="82">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -658,7 +658,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="159">
+      <note default-x="163">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -668,7 +668,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="224">
+      <note default-x="229">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -711,7 +711,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="305">
+      <note default-x="304">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -726,21 +726,21 @@ II. Un Cygne</credit-words>
     <measure number="11" width="403">
       <note default-x="14">
         <pitch>
-          <step>F</step>
+          <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>12</duration>
         <tie type="start"/>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="0.5">up</stem>
+        <stem default-y="10.5">up</stem>
         <notations>
           <tied orientation="under" type="start"/>
         </notations>
       </note>
       <note default-x="98">
         <pitch>
-          <step>F</step>
+          <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>4</duration>
@@ -751,7 +751,7 @@ II. Un Cygne</credit-words>
           <actual-notes>3</actual-notes>
           <normal-notes>2</normal-notes>
         </time-modification>
-        <stem default-y="0">up</stem>
+        <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
         <notations>
           <tied type="stop"/>
@@ -760,7 +760,7 @@ II. Un Cygne</credit-words>
       </note>
       <note default-x="137">
         <pitch>
-          <step>F</step>
+          <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>4</duration>
@@ -770,12 +770,12 @@ II. Un Cygne</credit-words>
           <actual-notes>3</actual-notes>
           <normal-notes>2</normal-notes>
         </time-modification>
-        <stem default-y="0">up</stem>
+        <stem default-y="10">up</stem>
         <beam number="1">continue</beam>
       </note>
       <note default-x="175">
         <pitch>
-          <step>F</step>
+          <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>4</duration>
@@ -785,7 +785,7 @@ II. Un Cygne</credit-words>
           <actual-notes>3</actual-notes>
           <normal-notes>2</normal-notes>
         </time-modification>
-        <stem default-y="0">up</stem>
+        <stem default-y="10">up</stem>
         <beam number="1">end</beam>
         <notations>
           <tuplet number="1" type="stop"/>
@@ -809,7 +809,8 @@ II. Un Cygne</credit-words>
         <duration>6</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <stem default-y="5.5">up</stem>
+        <stem default-y="5">up</stem>
+        <beam number="1">begin</beam>
       </note>
       <note default-x="350">
         <pitch>
@@ -819,12 +820,13 @@ II. Un Cygne</credit-words>
         <duration>6</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <stem default-y="5.5">up</stem>
+        <stem default-y="5">up</stem>
+        <beam number="1">end</beam>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="295">
-      <note default-x="17">
+    <measure number="12" width="296">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -854,7 +856,7 @@ II. Un Cygne</credit-words>
     <!--=======================================================-->
     <measure number="13" width="512">
       <print new-page="yes"/>
-      <note default-x="79">
+      <note default-x="78">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -993,7 +995,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="142">
+      <note default-x="141">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1009,7 +1011,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1036,7 +1038,7 @@ II. Un Cygne</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="16" width="352">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -1073,7 +1075,7 @@ II. Un Cygne</credit-words>
         <dot/>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="226">
+      <note default-x="225">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -1083,7 +1085,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="268">
+      <note default-x="267">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1099,7 +1101,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="389">
+    <measure number="17" width="390">
       <note default-x="25">
         <pitch>
           <step>D</step>
@@ -1124,7 +1126,7 @@ II. Un Cygne</credit-words>
         <type>half</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="274">
+      <note default-x="273">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1134,7 +1136,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="316">
+      <note default-x="315">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1229,7 +1231,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="273">
+      <note default-x="274">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1257,7 +1259,7 @@ II. Un Cygne</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="20" width="403">
-      <note default-x="26">
+      <note default-x="27">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -1333,7 +1335,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="153">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1359,7 +1361,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="387">
+      <note default-x="386">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1371,7 +1373,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="337">
+    <measure number="22" width="336">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -1410,8 +1412,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="306">
-      <note default-x="26">
+    <measure number="23" width="307">
+      <note default-x="27">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1422,7 +1424,7 @@ II. Un Cygne</credit-words>
         <dot/>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="210">
+      <note default-x="211">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1439,7 +1441,7 @@ II. Un Cygne</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="355">
+    <measure number="1" width="352">
       <print>
         <measure-numbering>system</measure-numbering>
       </print>
@@ -1458,13 +1460,13 @@ II. Un Cygne</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <note default-x="96">
+      <note default-x="84">
         <rest/>
         <duration>24</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="217">
+      <note default-x="219">
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
@@ -1482,7 +1484,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="354">
+    <measure number="2" width="355">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -1526,7 +1528,7 @@ II. Un Cygne</credit-words>
         <dot/>
         <stem default-y="-9.5">up</stem>
       </note>
-      <note default-x="323">
+      <note default-x="324">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1538,7 +1540,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="316">
+    <measure number="3" width="318">
       <note default-x="26">
         <pitch>
           <step>E</step>
@@ -1549,7 +1551,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="94">
+      <note default-x="95">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1561,7 +1563,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="163">
+      <note default-x="164">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1571,7 +1573,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-9.5">up</stem>
       </note>
-      <note default-x="247">
+      <note default-x="249">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1583,9 +1585,9 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="396">
+    <measure number="4" width="392">
       <print new-page="yes"/>
-      <note default-x="66">
+      <note default-x="65">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1595,7 +1597,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="157">
+      <note default-x="155">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1607,7 +1609,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="230">
+      <note default-x="228">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1617,7 +1619,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="304">
+      <note default-x="301">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1627,7 +1629,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="349">
+      <note default-x="346">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1639,8 +1641,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="331">
-      <note default-x="27">
+    <measure number="5" width="329">
+      <note default-x="26">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1662,7 +1664,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1672,7 +1674,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-9.5">up</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1686,7 +1688,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="358">
+    <measure number="6" width="364">
       <note default-x="26">
         <pitch>
           <step>D</step>
@@ -1699,7 +1701,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-9.5">up</stem>
       </note>
-      <note default-x="181">
+      <note default-x="189">
         <rest/>
         <duration>24</duration>
         <voice>1</voice>
@@ -1707,7 +1709,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="443">
+    <measure number="7" width="438">
       <print new-page="yes"/>
       <note default-x="53">
         <rest/>
@@ -1715,7 +1717,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1725,7 +1727,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="150">
+      <note default-x="149">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1735,7 +1737,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="199">
+      <note default-x="197">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1745,7 +1747,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="296">
+      <note default-x="293">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1755,7 +1757,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="345">
+      <note default-x="341">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1766,7 +1768,7 @@ II. Un Cygne</credit-words>
         <stem default-y="5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="393">
+      <note default-x="389">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1824,7 +1826,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="233">
+      <note default-x="232">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -1836,7 +1838,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="278">
+      <note default-x="279">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1852,8 +1854,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="290">
-      <note default-x="14">
+    <measure number="9" width="295">
+      <note default-x="17">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1867,7 +1869,7 @@ II. Un Cygne</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="79">
+      <note default-x="82">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1878,7 +1880,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-5">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="119">
+      <note default-x="122">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -1889,7 +1891,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-10">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="159">
+      <note default-x="163">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -1899,7 +1901,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-14.5">up</stem>
       </note>
-      <note default-x="224">
+      <note default-x="229">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1943,7 +1945,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="305">
+      <note default-x="304">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -2056,8 +2058,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="295">
-      <note default-x="17">
+    <measure number="12" width="296">
+      <note default-x="16">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2087,7 +2089,7 @@ II. Un Cygne</credit-words>
     <!--=======================================================-->
     <measure number="13" width="512">
       <print new-page="yes"/>
-      <note default-x="79">
+      <note default-x="78">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -2233,7 +2235,7 @@ II. Un Cygne</credit-words>
         <accidental>flat</accidental>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="142">
+      <note default-x="141">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2249,7 +2251,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2276,7 +2278,7 @@ II. Un Cygne</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="16" width="352">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -2334,7 +2336,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="226">
+      <note default-x="225">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -2344,7 +2346,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="268">
+      <note default-x="267">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2355,7 +2357,7 @@ II. Un Cygne</credit-words>
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="310">
+      <note default-x="309">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -2370,7 +2372,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="389">
+    <measure number="17" width="390">
       <note default-x="25">
         <pitch>
           <step>C</step>
@@ -2382,7 +2384,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="67">
+      <note default-x="66">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -2428,7 +2430,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="233">
+      <note default-x="232">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2438,7 +2440,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="274">
+      <note default-x="273">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -2535,7 +2537,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="273">
+      <note default-x="274">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -2548,7 +2550,7 @@ II. Un Cygne</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="20" width="403">
-      <note default-x="26">
+      <note default-x="27">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2624,7 +2626,7 @@ II. Un Cygne</credit-words>
         <accidental>flat</accidental>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="153">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -2652,7 +2654,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="387">
+      <note default-x="386">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -2665,7 +2667,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="337">
+    <measure number="22" width="336">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -2704,8 +2706,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="306">
-      <note default-x="26">
+    <measure number="23" width="307">
+      <note default-x="27">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2716,7 +2718,7 @@ II. Un Cygne</credit-words>
         <dot/>
         <stem default-y="-19.5">up</stem>
       </note>
-      <note default-x="210">
+      <note default-x="211">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2733,7 +2735,7 @@ II. Un Cygne</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="355">
+    <measure number="1" width="352">
       <print>
         <measure-numbering>system</measure-numbering>
       </print>
@@ -2753,13 +2755,13 @@ II. Un Cygne</credit-words>
           <clef-octave-change>-1</clef-octave-change>
         </clef>
       </attributes>
-      <note default-x="96">
+      <note default-x="84">
         <rest/>
         <duration>24</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="217">
+      <note default-x="219">
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
@@ -2777,7 +2779,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="354">
+    <measure number="2" width="355">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -2821,7 +2823,7 @@ II. Un Cygne</credit-words>
         <dot/>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="323">
+      <note default-x="324">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2833,7 +2835,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="316">
+    <measure number="3" width="318">
       <note default-x="26">
         <pitch>
           <step>B</step>
@@ -2844,7 +2846,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="94">
+      <note default-x="95">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -2856,7 +2858,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="163">
+      <note default-x="164">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2866,7 +2868,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="247">
+      <note default-x="249">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2878,9 +2880,9 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="396">
+    <measure number="4" width="392">
       <print new-page="yes"/>
-      <note default-x="66">
+      <note default-x="65">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -2890,7 +2892,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="157">
+      <note default-x="155">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -2902,7 +2904,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="230">
+      <note default-x="228">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2912,7 +2914,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="304">
+      <note default-x="301">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2922,7 +2924,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="349">
+      <note default-x="346">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -2934,8 +2936,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="331">
-      <note default-x="27">
+    <measure number="5" width="329">
+      <note default-x="26">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -2955,7 +2957,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -2967,7 +2969,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -2979,7 +2981,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="358">
+    <measure number="6" width="364">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -3005,7 +3007,7 @@ II. Un Cygne</credit-words>
         <stem default-y="0">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="118">
+      <note default-x="117">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -3016,7 +3018,7 @@ II. Un Cygne</credit-words>
         <dot/>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="220">
+      <note default-x="227">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -3026,7 +3028,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="266">
+      <note default-x="272">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -3038,7 +3040,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-45">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="312">
+      <note default-x="318">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -3053,7 +3055,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="443">
+    <measure number="7" width="438">
       <print new-page="yes"/>
       <note default-x="53">
         <pitch>
@@ -3065,7 +3067,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -3075,7 +3077,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="150">
+      <note default-x="149">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -3086,7 +3088,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-55">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="199">
+      <note default-x="197">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -3097,7 +3099,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="248">
+      <note default-x="245">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -3109,7 +3111,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-35">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="296">
+      <note default-x="293">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -3120,7 +3122,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-40">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="345">
+      <note default-x="341">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -3131,7 +3133,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-45">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="393">
+      <note default-x="389">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -3179,7 +3181,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="188">
+      <note default-x="187">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -3190,7 +3192,7 @@ II. Un Cygne</credit-words>
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="233">
+      <note default-x="232">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -3201,7 +3203,7 @@ II. Un Cygne</credit-words>
         <stem default-y="10">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="278">
+      <note default-x="279">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -3217,8 +3219,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="290">
-      <note default-x="14">
+    <measure number="9" width="295">
+      <note default-x="17">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -3232,7 +3234,7 @@ II. Un Cygne</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="79">
+      <note default-x="82">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -3242,7 +3244,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="159">
+      <note default-x="163">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -3252,7 +3254,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="224">
+      <note default-x="229">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -3295,7 +3297,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="305">
+      <note default-x="304">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -3407,8 +3409,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="295">
-      <note default-x="17">
+    <measure number="12" width="296">
+      <note default-x="16">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -3438,7 +3440,7 @@ II. Un Cygne</credit-words>
     <!--=======================================================-->
     <measure number="13" width="512">
       <print new-page="yes"/>
-      <note default-x="79">
+      <note default-x="78">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -3604,7 +3606,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-35">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="142">
+      <note default-x="141">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -3620,7 +3622,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -3647,7 +3649,7 @@ II. Un Cygne</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="16" width="352">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -3681,7 +3683,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="268">
+      <note default-x="267">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -3692,7 +3694,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-40">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="310">
+      <note default-x="309">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -3705,7 +3707,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="389">
+    <measure number="17" width="390">
       <note default-x="25">
         <pitch>
           <step>D</step>
@@ -3716,7 +3718,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="67">
+      <note default-x="66">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -3736,7 +3738,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="233">
+      <note default-x="232">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -3746,7 +3748,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="274">
+      <note default-x="273">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -3844,7 +3846,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="273">
+      <note default-x="274">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -3857,7 +3859,7 @@ II. Un Cygne</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="20" width="403">
-      <note default-x="26">
+      <note default-x="27">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -3933,7 +3935,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="153">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -3959,7 +3961,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="387">
+      <note default-x="386">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -3971,7 +3973,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="337">
+    <measure number="22" width="336">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -4010,8 +4012,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="306">
-      <note default-x="26">
+    <measure number="23" width="307">
+      <note default-x="27">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -4024,7 +4026,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="210">
+      <note default-x="211">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -4042,7 +4044,7 @@ II. Un Cygne</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="355">
+    <measure number="1" width="352">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -4061,13 +4063,13 @@ II. Un Cygne</credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <note default-x="96">
+      <note default-x="84">
         <rest/>
         <duration>24</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="217">
+      <note default-x="219">
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
@@ -4085,7 +4087,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="354">
+    <measure number="2" width="355">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -4131,7 +4133,7 @@ II. Un Cygne</credit-words>
         <dot/>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="323">
+      <note default-x="324">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -4143,7 +4145,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="316">
+    <measure number="3" width="318">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -4156,7 +4158,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="94">
+      <note default-x="95">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4167,7 +4169,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="163">
+      <note default-x="164">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4178,7 +4180,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="247">
+      <note default-x="249">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4191,9 +4193,9 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="396">
+    <measure number="4" width="392">
       <print new-page="yes"/>
-      <note default-x="66">
+      <note default-x="65">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4205,7 +4207,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="157">
+      <note default-x="155">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -4215,7 +4217,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="230">
+      <note default-x="228">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -4226,7 +4228,7 @@ II. Un Cygne</credit-words>
         <accidental>natural</accidental>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="304">
+      <note default-x="301">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4237,7 +4239,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="349">
+      <note default-x="346">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -4249,8 +4251,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="331">
-      <note default-x="27">
+    <measure number="5" width="329">
+      <note default-x="26">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -4270,7 +4272,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -4280,7 +4282,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -4292,7 +4294,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="358">
+    <measure number="6" width="364">
       <note default-x="26">
         <pitch>
           <step>A</step>
@@ -4303,7 +4305,7 @@ II. Un Cygne</credit-words>
         <type>half</type>
         <stem default-y="0.5">up</stem>
       </note>
-      <note default-x="181">
+      <note default-x="189">
         <rest/>
         <duration>24</duration>
         <voice>1</voice>
@@ -4311,7 +4313,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="443">
+    <measure number="7" width="438">
       <print new-page="yes"/>
       <note default-x="53">
         <rest/>
@@ -4319,7 +4321,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -4329,7 +4331,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="149">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -4340,7 +4342,7 @@ II. Un Cygne</credit-words>
         <dot/>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="296">
+      <note default-x="293">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -4350,7 +4352,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="345">
+      <note default-x="341">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -4394,7 +4396,7 @@ II. Un Cygne</credit-words>
         <dot/>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="233">
+      <note default-x="232">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -4404,7 +4406,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="278">
+      <note default-x="279">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4420,8 +4422,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="290">
-      <note default-x="14">
+    <measure number="9" width="295">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4435,7 +4437,7 @@ II. Un Cygne</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="79">
+      <note default-x="82">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4445,7 +4447,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="159">
+      <note default-x="163">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4455,7 +4457,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="224">
+      <note default-x="229">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -4499,7 +4501,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="305">
+      <note default-x="304">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -4612,8 +4614,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="295">
-      <note default-x="17">
+    <measure number="12" width="296">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -4643,7 +4645,7 @@ II. Un Cygne</credit-words>
     <!--=======================================================-->
     <measure number="13" width="512">
       <print new-page="yes"/>
-      <note default-x="79">
+      <note default-x="78">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -4809,7 +4811,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-45">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="142">
+      <note default-x="141">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -4828,7 +4830,7 @@ II. Un Cygne</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="16" width="352">
-      <note default-x="17">
+      <note default-x="16">
         <rest/>
         <duration>6</duration>
         <voice>1</voice>
@@ -4856,7 +4858,7 @@ II. Un Cygne</credit-words>
         <accidental>flat</accidental>
         <stem default-y="-30">down</stem>
       </note>
-      <note default-x="268">
+      <note default-x="267">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -4868,7 +4870,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="389">
+    <measure number="17" width="390">
       <note default-x="25">
         <pitch>
           <step>G</step>
@@ -4889,7 +4891,7 @@ II. Un Cygne</credit-words>
         <type>half</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="274">
+      <note default-x="273">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -4899,7 +4901,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="316">
+      <note default-x="315">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -4998,7 +5000,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="273">
+      <note default-x="274">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -5011,7 +5013,7 @@ II. Un Cygne</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="20" width="403">
-      <note default-x="26">
+      <note default-x="27">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -5091,7 +5093,7 @@ II. Un Cygne</credit-words>
         <accidental>flat</accidental>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="154">
+      <note default-x="153">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -5120,7 +5122,7 @@ II. Un Cygne</credit-words>
         <accidental>flat</accidental>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="387">
+      <note default-x="386">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -5133,7 +5135,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="337">
+    <measure number="22" width="336">
       <note default-x="14">
         <pitch>
           <step>D</step>
@@ -5172,8 +5174,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="306">
-      <note default-x="26">
+    <measure number="23" width="307">
+      <note default-x="27">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -5185,7 +5187,7 @@ II. Un Cygne</credit-words>
         <accidental>natural</accidental>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="210">
+      <note default-x="211">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -5203,7 +5205,7 @@ II. Un Cygne</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="355">
+    <measure number="1" width="352">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -5222,7 +5224,25 @@ II. Un Cygne</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <note default-x="98">
+      <note default-x="86">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="153">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="219">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="285">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5232,7 +5252,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="110">
+      <note default-x="298">
         <chord/>
         <pitch>
           <step>F</step>
@@ -5245,7 +5265,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="98">
+      <note default-x="285">
         <chord/>
         <pitch>
           <step>G</step>
@@ -5256,7 +5276,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="110">
+      <note default-x="298">
         <chord/>
         <pitch>
           <step>A</step>
@@ -5267,7 +5287,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="98">
+      <note default-x="285">
         <chord/>
         <pitch>
           <step>B</step>
@@ -5278,7 +5298,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="110">
+      <note default-x="298">
         <chord/>
         <pitch>
           <step>C</step>
@@ -5289,7 +5309,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="98">
+      <note default-x="285">
         <chord/>
         <pitch>
           <step>D</step>
@@ -5302,7 +5322,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="354">
+    <measure number="2" width="355">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5310,7 +5330,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="316">
+    <measure number="3" width="318">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5318,7 +5338,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="396">
+    <measure number="4" width="392">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -5327,7 +5347,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="331">
+    <measure number="5" width="329">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5335,7 +5355,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="358">
+    <measure number="6" width="364">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5343,7 +5363,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="443">
+    <measure number="7" width="438">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -5360,7 +5380,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="290">
+    <measure number="9" width="295">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5385,7 +5405,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="295">
+    <measure number="12" width="296">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5427,7 +5447,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="389">
+    <measure number="17" width="390">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5481,7 +5501,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="337">
+    <measure number="22" width="336">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5489,7 +5509,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="306">
+    <measure number="23" width="307">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5502,7 +5522,7 @@ II. Un Cygne</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="355">
+    <measure number="1" width="352">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -5521,7 +5541,25 @@ II. Un Cygne</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <note default-x="98">
+      <note default-x="86">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="153">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="219">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="285">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5531,7 +5569,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="98">
+      <note default-x="285">
         <chord/>
         <pitch>
           <step>G</step>
@@ -5542,7 +5580,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="98">
+      <note default-x="285">
         <chord/>
         <pitch>
           <step>B</step>
@@ -5555,7 +5593,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="354">
+    <measure number="2" width="355">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5563,67 +5601,119 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="316">
-      <note default-x="25">
+    <measure number="3" width="318">
+      <note>
+        <rest measure="yes"/>
+        <duration>8</duration>
+        <voice>1</voice>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="4" width="392">
+      <print new-page="yes"/>
+      <note default-x="66">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="156">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="228">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="301">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-4.5">up</stem>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="5" width="329">
+      <note>
+        <rest measure="yes"/>
+        <duration>8</duration>
+        <voice>1</voice>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="6" width="364">
+      <note default-x="26">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="117">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="191">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-40">down</stem>
+      </note>
+      <note default-x="273">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="7" width="438">
+      <print new-page="yes"/>
+      <note default-x="53">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="149">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="5.5">up</stem>
+      </note>
+      <note default-x="149">
+        <chord/>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="243">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
-      </note>
-      <note default-x="163">
-        <pitch>
-          <step>E</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-4.5">up</stem>
-      </note>
-      <note default-x="248">
-        <rest/>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="4" width="396">
-      <print new-page="yes"/>
-      <note>
-        <rest measure="yes"/>
-        <duration>8</duration>
-        <voice>1</voice>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="5" width="331">
-      <note>
-        <rest measure="yes"/>
-        <duration>8</duration>
-        <voice>1</voice>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="6" width="358">
-      <note>
-        <rest measure="yes"/>
-        <duration>8</duration>
-        <voice>1</voice>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="7" width="443">
-      <print new-page="yes"/>
-      <note default-x="53">
-        <pitch>
-          <step>E</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-4.5">up</stem>
       </note>
     </measure>
     <!--=======================================================-->
@@ -5635,7 +5725,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="290">
+    <measure number="9" width="295">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5645,14 +5735,14 @@ II. Un Cygne</credit-words>
     <!--=======================================================-->
     <measure number="10" width="387">
       <print new-page="yes"/>
-      <note default-x="63">
+      <note default-x="62">
         <rest/>
         <duration>6</duration>
         <voice>1</voice>
         <type>half</type>
         <dot/>
       </note>
-      <note default-x="305">
+      <note default-x="304">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5672,7 +5762,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="295">
+    <measure number="12" width="296">
       <note default-x="15">
         <rest/>
         <duration>6</duration>
@@ -5688,7 +5778,18 @@ II. Un Cygne</credit-words>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="-4.5">up</stem>
+        <stem default-y="5.5">up</stem>
+      </note>
+      <note default-x="218">
+        <chord/>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
       </note>
     </measure>
     <!--=======================================================-->
@@ -5728,13 +5829,38 @@ II. Un Cygne</credit-words>
     <!--=======================================================-->
     <measure number="15" width="344">
       <print new-page="yes"/>
-      <note default-x="63">
+      <note default-x="62">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
       <note default-x="204">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-40">down</stem>
+      </note>
+      <note default-x="281">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="16" width="352">
+      <note default-x="16">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="100">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5744,17 +5870,15 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="16" width="352">
-      <note>
-        <rest measure="yes"/>
-        <duration>8</duration>
+      <note default-x="182">
+        <rest/>
+        <duration>4</duration>
         <voice>1</voice>
+        <type>half</type>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="389">
+    <measure number="17" width="390">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5770,21 +5894,38 @@ II. Un Cygne</credit-words>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="86">
+      <note default-x="85">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
       <note default-x="229">
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <note default-x="273">
         <pitch>
           <step>E</step>
           <octave>4</octave>
         </pitch>
-        <duration>2</duration>
+        <duration>1</duration>
         <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-4.5">up</stem>
+        <type>eighth</type>
+        <stem default-y="5.5">up</stem>
+      </note>
+      <note default-x="273">
+        <chord/>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
       </note>
     </measure>
     <!--=======================================================-->
@@ -5812,13 +5953,19 @@ II. Un Cygne</credit-words>
     <!--=======================================================-->
     <measure number="21" width="442">
       <print new-page="yes"/>
-      <note default-x="63">
+      <note default-x="62">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
       </note>
       <note default-x="242">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note default-x="331">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5828,15 +5975,9 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="332">
-        <rest/>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="337">
+    <measure number="22" width="336">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5844,7 +5985,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="306">
+    <measure number="23" width="307">
       <note>
         <rest measure="yes"/>
         <duration>8</duration>
@@ -5857,7 +5998,7 @@ II. Un Cygne</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P7">
-    <measure number="1" width="355">
+    <measure number="1" width="352">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -5876,7 +6017,7 @@ II. Un Cygne</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <note default-x="96">
+      <note default-x="84">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -5885,7 +6026,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="217">
+      <note default-x="219">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -5907,7 +6048,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="96">
+      <note default-x="84">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -5916,7 +6057,7 @@ II. Un Cygne</credit-words>
         <voice>2</voice>
         <type>half</type>
       </note>
-      <note default-x="217">
+      <note default-x="219">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -5937,7 +6078,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="354">
+    <measure number="2" width="355">
       <note default-x="16">
         <pitch>
           <step>B</step>
@@ -6006,7 +6147,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="316">
+    <measure number="3" width="318">
       <note default-x="26">
         <pitch>
           <step>B</step>
@@ -6017,7 +6158,7 @@ II. Un Cygne</credit-words>
         <type>half</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="163">
+      <note default-x="164">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -6029,7 +6170,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="14">up</stem>
       </note>
-      <note default-x="247">
+      <note default-x="249">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -6056,7 +6197,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="94">
+      <note default-x="95">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -6068,7 +6209,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="163">
+      <note default-x="164">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -6078,7 +6219,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-74">down</stem>
       </note>
-      <note default-x="247">
+      <note default-x="249">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -6090,9 +6231,9 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="396">
+    <measure number="4" width="392">
       <print new-page="yes"/>
-      <note default-x="66">
+      <note default-x="65">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -6106,7 +6247,7 @@ II. Un Cygne</credit-words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="157">
+      <note default-x="155">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -6116,7 +6257,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="230">
+      <note default-x="228">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -6126,7 +6267,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="304">
+      <note default-x="301">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -6139,7 +6280,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="66">
+      <note default-x="65">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -6149,7 +6290,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="157">
+      <note default-x="155">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -6161,7 +6302,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="230">
+      <note default-x="228">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -6171,7 +6312,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-59">down</stem>
       </note>
-      <note default-x="304">
+      <note default-x="301">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -6183,8 +6324,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="331">
-      <note default-x="27">
+    <measure number="5" width="329">
+      <note default-x="26">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -6204,7 +6345,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -6214,7 +6355,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -6227,7 +6368,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="27">
+      <note default-x="26">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -6249,7 +6390,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -6259,7 +6400,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-74">down</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -6273,7 +6414,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="358">
+    <measure number="6" width="364">
       <note default-x="26">
         <pitch>
           <step>B</step>
@@ -6284,7 +6425,7 @@ II. Un Cygne</credit-words>
         <type>half</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="181">
+      <note default-x="189">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -6308,7 +6449,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-74">down</stem>
       </note>
-      <note default-x="181">
+      <note default-x="189">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -6319,7 +6460,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="443">
+    <measure number="7" width="438">
       <print new-page="yes"/>
       <note default-x="53">
         <rest>
@@ -6330,7 +6471,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -6340,28 +6481,27 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-4.5">up</stem>
       </note>
-      <note default-x="150">
+      <note default-x="149">
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
-        <duration>3</duration>
+        <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
         <stem default-y="11">up</stem>
       </note>
-      <note default-x="296">
+      <note default-x="245">
         <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem default-y="11">up</stem>
       </note>
-      <note default-x="345">
+      <note default-x="341">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -6372,7 +6512,7 @@ II. Un Cygne</credit-words>
         <stem default-y="20">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="393">
+      <note default-x="389">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -6395,7 +6535,7 @@ II. Un Cygne</credit-words>
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -6405,7 +6545,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-75">down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="149">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -6415,7 +6555,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="248">
+      <note default-x="245">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -6425,7 +6565,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="345">
+      <note default-x="341">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -6436,7 +6576,7 @@ II. Un Cygne</credit-words>
         <stem default-y="-65">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="393">
+      <note default-x="389">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -6467,35 +6607,30 @@ II. Un Cygne</credit-words>
           <step>A</step>
           <octave>4</octave>
         </pitch>
-        <duration>3</duration>
+        <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
         <stem default-y="11">up</stem>
       </note>
-      <note default-x="233">
+      <note default-x="187">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="11">up</stem>
+      </note>
+      <note default-x="279">
         <pitch>
           <step>B</step>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="16">up</stem>
-      </note>
-      <note default-x="278">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
         <duration>2</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="24">up</stem>
-        <notations>
-          <tied orientation="over" type="start"/>
-        </notations>
+        <stem default-y="16">up</stem>
       </note>
       <backup>
         <duration>8</duration>
@@ -6520,82 +6655,43 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="188">
+      <note default-x="199">
         <pitch>
           <step>G</step>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>2</voice>
-        <type>eighth</type>
-        <stem default-y="-65">down</stem>
-        <beam number="1">begin</beam>
+        <type>quarter</type>
+        <stem default-y="-59">down</stem>
       </note>
-      <note default-x="233">
+      <note default-x="279">
         <pitch>
           <step>F</step>
           <alter>1</alter>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
-        <voice>2</voice>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem default-y="-70">down</stem>
-        <beam number="1">end</beam>
-      </note>
-      <note default-x="278">
-        <pitch>
-          <step>E</step>
-          <octave>4</octave>
-        </pitch>
         <duration>2</duration>
-        <tie type="start"/>
         <voice>2</voice>
         <type>quarter</type>
-        <stem default-y="-69">down</stem>
-        <notations>
-          <tied orientation="under" type="start"/>
-        </notations>
+        <accidental>sharp</accidental>
+        <stem default-y="-64">down</stem>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="290">
-      <note default-x="14">
+    <measure number="9" width="295">
+      <note default-x="17">
         <pitch>
           <step>E</step>
           <octave>5</octave>
         </pitch>
-        <duration>2</duration>
-        <tie type="stop"/>
+        <duration>6</duration>
         <voice>1</voice>
-        <type>quarter</type>
+        <type>half</type>
+        <dot/>
         <stem default-y="24">up</stem>
-        <notations>
-          <tied type="stop"/>
-        </notations>
       </note>
-      <note default-x="79">
-        <pitch>
-          <step>E</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-4.5">up</stem>
-      </note>
-      <note default-x="159">
-        <pitch>
-          <step>E</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-4.5">up</stem>
-      </note>
-      <note default-x="224">
+      <note default-x="229">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -6610,41 +6706,30 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="14">
-        <pitch>
-          <step>E</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <tie type="stop"/>
-        <voice>2</voice>
-        <type>quarter</type>
-        <stem default-y="-69">down</stem>
-        <notations>
-          <tied type="stop"/>
-        </notations>
-      </note>
-      <note default-x="79">
-        <pitch>
-          <step>E</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-        <stem default-y="-69">down</stem>
-      </note>
-      <note default-x="159">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>4</octave>
         </pitch>
-        <duration>2</duration>
+        <duration>6</duration>
         <voice>2</voice>
-        <type>quarter</type>
+        <type>half</type>
+        <dot/>
         <stem default-y="-79">down</stem>
       </note>
-      <note default-x="224">
+      <note default-x="17">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>2</voice>
+        <type>half</type>
+        <dot/>
+        <stem>down</stem>
+      </note>
+      <note default-x="229">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -6677,7 +6762,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="305">
+      <note default-x="304">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -6711,7 +6796,7 @@ II. Un Cygne</credit-words>
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="305">
+      <note default-x="304">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -6733,7 +6818,18 @@ II. Un Cygne</credit-words>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
-        <stem default-y="0.5">up</stem>
+        <stem default-y="11">up</stem>
+      </note>
+      <note default-x="14">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
       </note>
       <note default-x="215">
         <pitch>
@@ -6780,8 +6876,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="295">
-      <note default-x="17">
+    <measure number="12" width="296">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -6813,7 +6909,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -6846,7 +6942,7 @@ II. Un Cygne</credit-words>
     <!--=======================================================-->
     <measure number="13" width="512">
       <print new-page="yes"/>
-      <note default-x="79">
+      <note default-x="78">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -6881,7 +6977,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="79">
+      <note default-x="78">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -7028,7 +7124,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="142">
+      <note default-x="141">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -7047,7 +7143,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -7082,7 +7178,7 @@ II. Un Cygne</credit-words>
         <accidental>flat</accidental>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="142">
+      <note default-x="141">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -7101,7 +7197,7 @@ II. Un Cygne</credit-words>
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -7124,7 +7220,7 @@ II. Un Cygne</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="16" width="352">
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -7139,23 +7235,22 @@ II. Un Cygne</credit-words>
           <step>A</step>
           <octave>4</octave>
         </pitch>
-        <duration>3</duration>
+        <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
         <stem default-y="11">up</stem>
       </note>
-      <note default-x="226">
+      <note default-x="184">
         <pitch>
           <step>C</step>
           <octave>5</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="21">up</stem>
+        <type>quarter</type>
+        <stem default-y="14">up</stem>
       </note>
-      <note default-x="268">
+      <note default-x="267">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -7172,7 +7267,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -7187,23 +7282,22 @@ II. Un Cygne</credit-words>
           <step>F</step>
           <octave>4</octave>
         </pitch>
-        <duration>3</duration>
+        <duration>2</duration>
         <voice>2</voice>
         <type>quarter</type>
-        <dot/>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="226">
+      <note default-x="184">
         <pitch>
           <step>G</step>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>2</voice>
-        <type>eighth</type>
-        <stem default-y="-65">down</stem>
+        <type>quarter</type>
+        <stem default-y="-59">down</stem>
       </note>
-      <note default-x="268">
+      <note default-x="267">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -7215,7 +7309,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="389">
+    <measure number="17" width="390">
       <note default-x="25">
         <pitch>
           <step>D</step>
@@ -7240,7 +7334,7 @@ II. Un Cygne</credit-words>
         <type>half</type>
         <stem default-y="29">up</stem>
       </note>
-      <note default-x="274">
+      <note default-x="273">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -7286,7 +7380,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="274">
+      <note default-x="273">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -7426,7 +7520,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="273">
+      <note default-x="274">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -7471,7 +7565,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="273">
+      <note default-x="274">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -7484,7 +7578,7 @@ II. Un Cygne</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="20" width="403">
-      <note default-x="26">
+      <note default-x="27">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -7529,7 +7623,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="26">
+      <note default-x="27">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -7639,7 +7733,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="337">
+    <measure number="22" width="336">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -7651,15 +7745,6 @@ II. Un Cygne</credit-words>
         <stem default-y="11">up</stem>
       </note>
       <note default-x="149">
-        <rest>
-          <display-step>A</display-step>
-          <display-octave>5</display-octave>
-        </rest>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-      </note>
-      <note default-x="201">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -7669,14 +7754,14 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="284">
+      <note default-x="242">
         <pitch>
           <step>G</step>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
       <backup>
@@ -7693,15 +7778,6 @@ II. Un Cygne</credit-words>
         <stem default-y="-74">down</stem>
       </note>
       <note default-x="149">
-        <rest>
-          <display-step>C</display-step>
-          <display-octave>4</display-octave>
-        </rest>
-        <duration>1</duration>
-        <voice>2</voice>
-        <type>eighth</type>
-      </note>
-      <note default-x="201">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -7711,19 +7787,19 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-74">down</stem>
       </note>
-      <note default-x="284">
+      <note default-x="242">
         <pitch>
           <step>C</step>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>2</voice>
-        <type>eighth</type>
-        <stem default-y="-85">down</stem>
+        <type>quarter</type>
+        <stem default-y="-79">down</stem>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="306">
+    <measure number="23" width="307">
       <note default-x="26">
         <pitch>
           <step>E</step>
@@ -7752,7 +7828,7 @@ II. Un Cygne</credit-words>
   </part>
   <!--=========================================================-->
   <part id="P8">
-    <measure number="1" width="355">
+    <measure number="1" width="352">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -7771,7 +7847,7 @@ II. Un Cygne</credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <note default-x="96">
+      <note default-x="84">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -7780,7 +7856,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>half</type>
       </note>
-      <note default-x="217">
+      <note default-x="219">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -7802,7 +7878,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="96">
+      <note default-x="84">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -7811,7 +7887,7 @@ II. Un Cygne</credit-words>
         <voice>2</voice>
         <type>half</type>
       </note>
-      <note default-x="217">
+      <note default-x="219">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -7832,7 +7908,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="354">
+    <measure number="2" width="355">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -7924,7 +8000,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="316">
+    <measure number="3" width="318">
       <note default-x="26">
         <pitch>
           <step>B</step>
@@ -7935,7 +8011,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="34">up</stem>
       </note>
-      <note default-x="94">
+      <note default-x="95">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -7947,7 +8023,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="163">
+      <note default-x="164">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -7957,7 +8033,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="29">up</stem>
       </note>
-      <note default-x="247">
+      <note default-x="249">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -7983,9 +8059,9 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="396">
+    <measure number="4" width="392">
       <print new-page="yes"/>
-      <note default-x="66">
+      <note default-x="65">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -7995,7 +8071,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="44">up</stem>
       </note>
-      <note default-x="157">
+      <note default-x="155">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -8007,7 +8083,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="39">up</stem>
       </note>
-      <note default-x="230">
+      <note default-x="228">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -8017,7 +8093,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="34">up</stem>
       </note>
-      <note default-x="304">
+      <note default-x="301">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -8030,7 +8106,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="66">
+      <note default-x="65">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -8042,7 +8118,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="157">
+      <note default-x="155">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -8052,7 +8128,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="230">
+      <note default-x="228">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -8062,7 +8138,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="304">
+      <note default-x="301">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -8074,8 +8150,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="331">
-      <note default-x="27">
+    <measure number="5" width="329">
+      <note default-x="26">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -8095,7 +8171,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -8107,7 +8183,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -8120,7 +8196,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="27">
+      <note default-x="26">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -8140,7 +8216,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-53.5">down</stem>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -8150,7 +8226,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -8162,7 +8238,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="358">
+    <measure number="6" width="364">
       <note default-x="26">
         <pitch>
           <step>F</step>
@@ -8175,16 +8251,17 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="19">up</stem>
       </note>
-      <note default-x="183">
-        <rest>
-          <display-step>C</display-step>
-          <display-octave>4</display-octave>
-        </rest>
+      <note default-x="191">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
+        <stem default-y="34">up</stem>
       </note>
-      <note default-x="266">
+      <note default-x="272">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -8195,7 +8272,7 @@ II. Un Cygne</credit-words>
         <stem default-y="50">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="312">
+      <note default-x="318">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -8221,7 +8298,7 @@ II. Un Cygne</credit-words>
         <type>half</type>
         <stem default-y="-64">down</stem>
       </note>
-      <note default-x="181">
+      <note default-x="189">
         <rest>
           <display-step>E</display-step>
           <display-octave>2</display-octave>
@@ -8232,7 +8309,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="443">
+    <measure number="7" width="438">
       <print new-page="yes"/>
       <note default-x="53">
         <pitch>
@@ -8245,7 +8322,7 @@ II. Un Cygne</credit-words>
         <stem default-y="40">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -8256,7 +8333,7 @@ II. Un Cygne</credit-words>
         <stem default-y="35">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="150">
+      <note default-x="149">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -8266,29 +8343,17 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="34">up</stem>
       </note>
-      <note default-x="248">
+      <note default-x="245">
         <pitch>
           <step>F</step>
           <octave>4</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="60">up</stem>
-        <beam number="1">begin</beam>
+        <type>quarter</type>
+        <stem default-y="54">up</stem>
       </note>
-      <note default-x="296">
-        <pitch>
-          <step>E</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="58">up</stem>
-        <beam number="1">continue</beam>
-      </note>
-      <note default-x="345">
+      <note default-x="341">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -8296,10 +8361,10 @@ II. Un Cygne</credit-words>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <stem default-y="57">up</stem>
-        <beam number="1">continue</beam>
+        <stem default-y="50">up</stem>
+        <beam number="1">begin</beam>
       </note>
-      <note default-x="393">
+      <note default-x="389">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -8309,7 +8374,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <stem default-y="55">up</stem>
+        <stem default-y="45">up</stem>
         <beam number="1">end</beam>
       </note>
       <backup>
@@ -8324,7 +8389,7 @@ II. Un Cygne</credit-words>
         <voice>2</voice>
         <type>eighth</type>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -8334,7 +8399,7 @@ II. Un Cygne</credit-words>
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="150">
+      <note default-x="149">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -8368,41 +8433,25 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="39">up</stem>
       </note>
-      <note default-x="188">
+      <note default-x="187">
         <pitch>
           <step>B</step>
           <octave>3</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="40">up</stem>
-        <beam number="1">begin</beam>
+        <type>quarter</type>
+        <stem default-y="34">up</stem>
       </note>
-      <note default-x="233">
+      <note default-x="279">
         <pitch>
           <step>A</step>
           <octave>3</octave>
         </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="35">up</stem>
-        <beam number="1">end</beam>
-      </note>
-      <note default-x="278">
-        <pitch>
-          <step>G</step>
-          <octave>3</octave>
-        </pitch>
         <duration>2</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="24">up</stem>
-        <notations>
-          <tied orientation="under" type="start"/>
-        </notations>
+        <stem default-y="29">up</stem>
       </note>
       <backup>
         <duration>8</duration>
@@ -8422,64 +8471,46 @@ II. Un Cygne</credit-words>
           <step>E</step>
           <octave>3</octave>
         </pitch>
-        <duration>3</duration>
+        <duration>2</duration>
         <voice>2</voice>
         <type>quarter</type>
-        <dot/>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="233">
-        <pitch>
-          <step>D</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>2</voice>
-        <type>eighth</type>
-        <stem default-y="-55">down</stem>
-      </note>
-      <note default-x="278">
-        <pitch>
-          <step>C</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>2</duration>
-        <tie type="start"/>
-        <voice>2</voice>
-        <type>quarter</type>
-        <stem default-y="-53.5">down</stem>
-        <notations>
-          <tied orientation="under" type="start"/>
-        </notations>
-      </note>
-    </measure>
-    <!--=======================================================-->
-    <measure number="9" width="290">
-      <note default-x="14">
-        <pitch>
-          <step>G</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>2</duration>
-        <tie type="stop"/>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="24">up</stem>
-        <notations>
-          <tied type="stop"/>
-        </notations>
-      </note>
-      <note default-x="79">
+      <note default-x="187">
         <pitch>
           <step>E</step>
           <octave>3</octave>
         </pitch>
-        <duration>4</duration>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem default-y="-50">down</stem>
+      </note>
+      <note default-x="279">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem default-y="-55">down</stem>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="9" width="295">
+      <note default-x="17">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>6</duration>
         <voice>1</voice>
         <type>half</type>
-        <stem default-y="14">up</stem>
+        <dot/>
+        <stem default-y="24">up</stem>
       </note>
-      <note default-x="224">
+      <note default-x="229">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -8494,31 +8525,18 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="14">
+      <note default-x="17">
         <pitch>
           <step>C</step>
           <octave>3</octave>
         </pitch>
-        <duration>2</duration>
-        <tie type="stop"/>
-        <voice>2</voice>
-        <type>quarter</type>
-        <stem default-y="-53.5">down</stem>
-        <notations>
-          <tied type="stop"/>
-        </notations>
-      </note>
-      <note default-x="79">
-        <pitch>
-          <step>C</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>4</duration>
+        <duration>6</duration>
         <voice>2</voice>
         <type>half</type>
+        <dot/>
         <stem default-y="-53.5">down</stem>
       </note>
-      <note default-x="224">
+      <note default-x="229">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -8551,7 +8569,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="305">
+      <note default-x="304">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -8585,7 +8603,7 @@ II. Un Cygne</credit-words>
         <voice>2</voice>
         <type>quarter</type>
       </note>
-      <note default-x="305">
+      <note default-x="304">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -8605,13 +8623,9 @@ II. Un Cygne</credit-words>
           <octave>3</octave>
         </pitch>
         <duration>4</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <stem default-y="29">up</stem>
-        <notations>
-          <tied orientation="under" type="start"/>
-        </notations>
       </note>
       <note default-x="215">
         <pitch>
@@ -8619,13 +8633,9 @@ II. Un Cygne</credit-words>
           <octave>3</octave>
         </pitch>
         <duration>4</duration>
-        <tie type="stop"/>
         <voice>1</voice>
         <type>half</type>
         <stem default-y="29">up</stem>
-        <notations>
-          <tied type="stop"/>
-        </notations>
       </note>
       <backup>
         <duration>8</duration>
@@ -8662,8 +8672,8 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="295">
-      <note default-x="17">
+    <measure number="12" width="296">
+      <note default-x="16">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -8695,7 +8705,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -8728,7 +8738,7 @@ II. Un Cygne</credit-words>
     <!--=======================================================-->
     <measure number="13" width="512">
       <print new-page="yes"/>
-      <note default-x="79">
+      <note default-x="78">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -8752,7 +8762,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="79">
+      <note default-x="78">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -8873,7 +8883,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="49">up</stem>
       </note>
-      <note default-x="142">
+      <note default-x="141">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -8892,7 +8902,7 @@ II. Un Cygne</credit-words>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="243">
+      <note default-x="242">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -8925,7 +8935,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="142">
+      <note default-x="141">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -8961,7 +8971,7 @@ II. Un Cygne</credit-words>
         <type>half</type>
         <stem default-y="44">up</stem>
       </note>
-      <note default-x="268">
+      <note default-x="267">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -8974,7 +8984,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="17">
+      <note default-x="16">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -8996,7 +9006,7 @@ II. Un Cygne</credit-words>
         <accidental>flat</accidental>
         <stem default-y="-30">down</stem>
       </note>
-      <note default-x="268">
+      <note default-x="267">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -9008,7 +9018,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="17" width="389">
+    <measure number="17" width="390">
       <note default-x="25">
         <pitch>
           <step>D</step>
@@ -9039,7 +9049,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="274">
+      <note default-x="273">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -9072,7 +9082,7 @@ II. Un Cygne</credit-words>
         <type>half</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="274">
+      <note default-x="273">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -9214,7 +9224,7 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="34">up</stem>
       </note>
-      <note default-x="273">
+      <note default-x="274">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -9261,7 +9271,7 @@ II. Un Cygne</credit-words>
         <accidental>sharp</accidental>
         <stem default-y="-45">down</stem>
       </note>
-      <note default-x="273">
+      <note default-x="274">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -9274,7 +9284,7 @@ II. Un Cygne</credit-words>
     </measure>
     <!--=======================================================-->
     <measure number="20" width="403">
-      <note default-x="26">
+      <note default-x="27">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -9317,7 +9327,7 @@ II. Un Cygne</credit-words>
       <backup>
         <duration>8</duration>
       </backup>
-      <note default-x="26">
+      <note default-x="27">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -9430,7 +9440,7 @@ II. Un Cygne</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="22" width="337">
+    <measure number="22" width="336">
       <note default-x="14">
         <pitch>
           <step>A</step>
@@ -9442,15 +9452,6 @@ II. Un Cygne</credit-words>
         <stem default-y="29">up</stem>
       </note>
       <note default-x="149">
-        <rest>
-          <display-step>C</display-step>
-          <display-octave>4</display-octave>
-        </rest>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-      </note>
-      <note default-x="201">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -9460,15 +9461,15 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="29">up</stem>
       </note>
-      <note default-x="284">
+      <note default-x="242">
         <pitch>
           <step>A</step>
           <octave>3</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="36">up</stem>
+        <type>quarter</type>
+        <stem default-y="29">up</stem>
       </note>
       <backup>
         <duration>8</duration>
@@ -9484,15 +9485,6 @@ II. Un Cygne</credit-words>
         <stem default-y="-55">down</stem>
       </note>
       <note default-x="149">
-        <rest>
-          <display-step>E</display-step>
-          <display-octave>2</display-octave>
-        </rest>
-        <duration>1</duration>
-        <voice>2</voice>
-        <type>eighth</type>
-      </note>
-      <note default-x="201">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -9502,19 +9494,19 @@ II. Un Cygne</credit-words>
         <type>quarter</type>
         <stem default-y="-53.5">down</stem>
       </note>
-      <note default-x="284">
+      <note default-x="242">
         <pitch>
           <step>D</step>
           <octave>3</octave>
         </pitch>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>2</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="23" width="306">
+    <measure number="23" width="307">
       <note default-x="26">
         <pitch>
           <step>G</step>

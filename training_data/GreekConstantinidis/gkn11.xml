@@ -3,9 +3,9 @@
 <score-partwise version="3.0">
   <identification>
     <encoding>
-      <software>Finale 2014 for Mac</software>
-      <software>Dolet Light for Finale 2014</software>
-      <encoding-date>2015-09-30</encoding-date>
+      <software>Finale 2014.5 for Windows</software>
+      <software>Dolet Light for Finale 2014.5</software>
+      <encoding-date>2019-05-20</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -203,7 +203,7 @@ XVII</credit-words>
           <words default-y="40" font-family="Times" font-size="11.6" font-weight="bold" xml:space="preserve">Allegro Moderato  </words>
         </direction-type>
         <direction-type>
-          <metronome font-family="Engraver Text T" font-size="10" font-weight="normal" parentheses="yes">
+          <metronome font-family="EngraverTextT" font-size="10" font-weight="normal" parentheses="yes">
             <beat-unit>quarter</beat-unit>
             <per-minute>120</per-minute>
           </metronome>
@@ -255,7 +255,7 @@ XVII</credit-words>
         <stem default-y="-40">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="116">
+      <note default-x="115">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -315,7 +315,7 @@ XVII</credit-words>
         <beam number="1">continue</beam>
         <beam number="2">end</beam>
       </note>
-      <note default-x="133">
+      <note default-x="134">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -427,7 +427,7 @@ XVII</credit-words>
     <!--=======================================================-->
     <measure number="7" width="164">
       <print new-page="yes"/>
-      <note default-x="53">
+      <note default-x="52">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -437,7 +437,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -484,7 +484,7 @@ XVII</credit-words>
         <stem default-y="-25">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -545,7 +545,7 @@ XVII</credit-words>
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="67">
+      <note default-x="68">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -568,7 +568,7 @@ XVII</credit-words>
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="122">
+      <note default-x="121">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -618,7 +618,7 @@ XVII</credit-words>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="138">
+      <note default-x="137">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -644,7 +644,7 @@ XVII</credit-words>
         <stem default-y="-35">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="56">
+      <note default-x="57">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -725,7 +725,7 @@ XVII</credit-words>
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="157">
+      <note default-x="158">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -824,7 +824,7 @@ XVII</credit-words>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="156">
+      <note default-x="155">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -908,7 +908,7 @@ XVII</credit-words>
         <stem default-y="-25">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="109">
+      <note default-x="110">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -957,7 +957,7 @@ XVII</credit-words>
         <stem default-y="-35">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="62">
+      <note default-x="61">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1005,7 +1005,7 @@ XVII</credit-words>
         <dot/>
         <stem default-y="-25">down</stem>
       </note>
-      <note default-x="144">
+      <note default-x="143">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1064,7 +1064,7 @@ XVII</credit-words>
         <stem default-y="-35">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="154">
+      <note default-x="153">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -1102,7 +1102,7 @@ XVII</credit-words>
         <stem default-y="-45">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="58">
+      <note default-x="57">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1255,7 +1255,7 @@ XVII</credit-words>
         <stem default-y="-35">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="65">
+      <note default-x="64">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -1279,7 +1279,7 @@ XVII</credit-words>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
       </note>
-      <note default-x="113">
+      <note default-x="114">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -1302,7 +1302,7 @@ XVII</credit-words>
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="178">
+      <note default-x="177">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1329,7 +1329,7 @@ XVII</credit-words>
         <stem default-y="-45">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1351,7 +1351,7 @@ XVII</credit-words>
         <stem default-y="-45">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="178">
+      <note default-x="177">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1482,7 +1482,7 @@ XVII</credit-words>
         <dot/>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="103">
+      <note default-x="102">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1529,7 +1529,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="186">
+    <measure number="31" width="187">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -1552,7 +1552,7 @@ XVII</credit-words>
         <stem default-y="-25">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -1564,7 +1564,7 @@ XVII</credit-words>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="121">
+      <note default-x="122">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -1589,9 +1589,9 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="200">
+    <measure number="32" width="199">
       <print new-page="yes"/>
-      <note default-x="53">
+      <note default-x="52">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1637,7 +1637,7 @@ XVII</credit-words>
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="165">
+      <note default-x="164">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1745,7 +1745,7 @@ XVII</credit-words>
         <stem default-y="-25">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -1757,7 +1757,7 @@ XVII</credit-words>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
       </note>
-      <note default-x="118">
+      <note default-x="119">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -1842,7 +1842,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="38" width="142">
+    <measure number="38" width="143">
       <note default-x="25">
         <pitch>
           <step>E</step>
@@ -1896,7 +1896,7 @@ XVII</credit-words>
         <stem default-y="0">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="160">
+      <note default-x="159">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1953,7 +1953,7 @@ XVII</credit-words>
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="116">
+      <note default-x="115">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -2000,7 +2000,7 @@ XVII</credit-words>
         <stem default-y="15">up</stem>
         <beam number="1">begin</beam>
       </note>
-      <note default-x="133">
+      <note default-x="134">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -2130,7 +2130,7 @@ XVII</credit-words>
         <stem default-y="5">up</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="81">
+      <note default-x="82">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -2156,7 +2156,7 @@ XVII</credit-words>
     <!--=======================================================-->
     <measure number="7" width="164">
       <print new-page="yes"/>
-      <note default-x="53">
+      <note default-x="52">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -2166,7 +2166,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="28.5">up</stem>
       </note>
-      <note default-x="53">
+      <note default-x="52">
         <chord/>
         <pitch>
           <step>F</step>
@@ -2177,7 +2177,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -2187,7 +2187,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="33.5">up</stem>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2222,7 +2222,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -2232,7 +2232,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="33.5">up</stem>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2312,7 +2312,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="64">
+      <note default-x="63">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -2322,7 +2322,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="33.5">up</stem>
       </note>
-      <note default-x="64">
+      <note default-x="63">
         <chord/>
         <pitch>
           <step>G</step>
@@ -2689,7 +2689,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="110">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -2699,7 +2699,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-25">down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="110">
         <chord/>
         <pitch>
           <step>C</step>
@@ -2784,7 +2784,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -2794,7 +2794,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-25">down</stem>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3023,7 +3023,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="113">
+      <note default-x="114">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -3033,7 +3033,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="113">
+      <note default-x="114">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3282,7 +3282,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="186">
+    <measure number="31" width="187">
       <note default-x="16">
         <pitch>
           <step>F</step>
@@ -3304,7 +3304,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -3314,7 +3314,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="33.5">up</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3327,9 +3327,9 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="200">
+    <measure number="32" width="199">
       <print new-page="yes"/>
-      <note default-x="53">
+      <note default-x="52">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -3339,7 +3339,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="28.5">up</stem>
       </note>
-      <note default-x="53">
+      <note default-x="52">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3395,7 +3395,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -3405,7 +3405,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="33.5">up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3440,7 +3440,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -3450,7 +3450,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="24">up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3535,7 +3535,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -3545,7 +3545,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="28.5">up</stem>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3607,7 +3607,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="38" width="142">
+    <measure number="38" width="143">
       <note default-x="25">
         <pitch>
           <step>F</step>
@@ -4001,7 +4001,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="186">
+    <measure number="31" width="187">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -4009,7 +4009,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="200">
+    <measure number="32" width="199">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -4058,7 +4058,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="38" width="142">
+    <measure number="38" width="143">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -4115,17 +4115,6 @@ XVII</credit-words>
         <chord/>
         <pitch>
           <step>G</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="87">
-        <chord/>
-        <pitch>
-          <step>B</step>
           <octave>5</octave>
         </pitch>
         <duration>2</duration>
@@ -4206,7 +4195,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="81">
+      <note default-x="82">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -4284,17 +4273,6 @@ XVII</credit-words>
         <chord/>
         <pitch>
           <step>G</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-      </note>
-      <note default-x="25">
-        <chord/>
-        <pitch>
-          <step>B</step>
           <octave>5</octave>
         </pitch>
         <duration>2</duration>
@@ -4619,7 +4597,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="186">
+    <measure number="31" width="187">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -4630,7 +4608,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -4638,7 +4616,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="200">
+    <measure number="32" width="199">
       <print new-page="yes"/>
       <note>
         <rest measure="yes"/>
@@ -4720,7 +4698,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="38" width="142">
+    <measure number="38" width="143">
       <note>
         <rest measure="yes"/>
         <duration>4</duration>
@@ -4851,7 +4829,7 @@ XVII</credit-words>
     <!--=======================================================-->
     <measure number="7" width="164">
       <print new-page="yes"/>
-      <note default-x="53">
+      <note default-x="52">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -4874,7 +4852,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-30">down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -5065,7 +5043,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-30">down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="110">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -5207,7 +5185,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-35">down</stem>
       </note>
-      <note default-x="113">
+      <note default-x="114">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -5305,7 +5283,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="186">
+    <measure number="31" width="187">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -5316,7 +5294,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-30">down</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -5328,9 +5306,9 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="200">
+    <measure number="32" width="199">
       <print new-page="yes"/>
-      <note default-x="53">
+      <note default-x="52">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -5402,7 +5380,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-30">down</stem>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -5437,7 +5415,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="38" width="142">
+    <measure number="38" width="143">
       <note default-x="25">
         <pitch>
           <step>E</step>
@@ -5480,7 +5458,7 @@ XVII</credit-words>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="160">
+      <note default-x="159">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5490,7 +5468,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="160">
+      <note default-x="159">
         <chord/>
         <pitch>
           <step>G</step>
@@ -5705,7 +5683,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="81">
+      <note default-x="82">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5715,7 +5693,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="81">
+      <note default-x="82">
         <chord/>
         <pitch>
           <step>G</step>
@@ -5730,7 +5708,7 @@ XVII</credit-words>
     <!--=======================================================-->
     <measure number="7" width="164">
       <print new-page="yes"/>
-      <note default-x="53">
+      <note default-x="52">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -5740,7 +5718,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="53">
+      <note default-x="52">
         <chord/>
         <pitch>
           <step>A</step>
@@ -5751,7 +5729,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -5761,7 +5739,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="102">
+      <note default-x="101">
         <chord/>
         <pitch>
           <step>B</step>
@@ -5796,7 +5774,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -5806,7 +5784,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="84">
+      <note default-x="83">
         <chord/>
         <pitch>
           <step>B</step>
@@ -5886,7 +5864,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="64">
+      <note default-x="63">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -5896,7 +5874,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="64">
+      <note default-x="63">
         <chord/>
         <pitch>
           <step>B</step>
@@ -6263,7 +6241,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="110">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -6273,7 +6251,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="109">
+      <note default-x="110">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6358,7 +6336,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -6368,7 +6346,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="117">
+      <note default-x="116">
         <chord/>
         <pitch>
           <step>E</step>
@@ -6597,7 +6575,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="113">
+      <note default-x="114">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -6607,7 +6585,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="113">
+      <note default-x="114">
         <chord/>
         <pitch>
           <step>C</step>
@@ -6856,7 +6834,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="186">
+    <measure number="31" width="187">
       <note default-x="16">
         <pitch>
           <step>A</step>
@@ -6878,7 +6856,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -6888,7 +6866,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="97">
+      <note default-x="96">
         <chord/>
         <pitch>
           <step>B</step>
@@ -6901,9 +6879,9 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="32" width="200">
+    <measure number="32" width="199">
       <print new-page="yes"/>
-      <note default-x="53">
+      <note default-x="52">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -6913,7 +6891,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="53">
+      <note default-x="52">
         <chord/>
         <pitch>
           <step>A</step>
@@ -6969,7 +6947,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -6979,7 +6957,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="16">up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7014,7 +6992,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -7024,7 +7002,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="5.5">up</stem>
       </note>
-      <note default-x="65">
+      <note default-x="66">
         <chord/>
         <pitch>
           <step>G</step>
@@ -7109,7 +7087,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -7119,7 +7097,7 @@ XVII</credit-words>
         <type>quarter</type>
         <stem default-y="10.5">up</stem>
       </note>
-      <note default-x="96">
+      <note default-x="97">
         <chord/>
         <pitch>
           <step>A</step>
@@ -7181,7 +7159,7 @@ XVII</credit-words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="38" width="142">
+    <measure number="38" width="143">
       <note default-x="25">
         <pitch>
           <step>A</step>

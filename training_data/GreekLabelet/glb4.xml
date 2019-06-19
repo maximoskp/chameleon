@@ -7,7 +7,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-01-25</encoding-date>
+      <encoding-date>2019-06-07</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -187,7 +187,7 @@ BOURNOBALIA
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="437">
+    <measure number="1" width="438">
       <print>
         <system-layout>
           <system-margins>
@@ -229,7 +229,7 @@ BOURNOBALIA
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="323">
+    <measure number="3" width="322">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -282,7 +282,7 @@ BOURNOBALIA
         <type>eighth</type>
         <stem default-y="-50">down</stem>
       </note>
-      <note default-x="235">
+      <note default-x="234">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1711,7 +1711,7 @@ BOURNOBALIA
   </part>
   <!--=========================================================-->
   <part id="P2">
-    <measure number="1" width="437">
+    <measure number="1" width="438">
       <print>
         <measure-numbering>system</measure-numbering>
       </print>
@@ -1746,7 +1746,7 @@ BOURNOBALIA
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="323">
+    <measure number="3" width="322">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -1861,7 +1861,7 @@ BOURNOBALIA
         <type>eighth</type>
         <stem>up</stem>
       </note>
-      <note default-x="235">
+      <note default-x="234">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -1872,7 +1872,7 @@ BOURNOBALIA
         <stem default-y="25">up</stem>
         <beam number="1">continue</beam>
       </note>
-      <note default-x="235">
+      <note default-x="234">
         <chord/>
         <pitch>
           <step>D</step>
@@ -4495,7 +4495,7 @@ BOURNOBALIA
   </part>
   <!--=========================================================-->
   <part id="P3">
-    <measure number="1" width="437">
+    <measure number="1" width="438">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -4515,7 +4515,7 @@ BOURNOBALIA
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="162">
+      <note default-x="163">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4525,7 +4525,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="162">
+      <note default-x="163">
         <chord/>
         <pitch>
           <step>G</step>
@@ -4536,7 +4536,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="162">
+      <note default-x="163">
         <chord/>
         <pitch>
           <step>C</step>
@@ -4547,7 +4547,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="238">
+      <note default-x="239">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4557,7 +4557,7 @@ BOURNOBALIA
         <type>eighth</type>
         <stem default-y="-60">down</stem>
       </note>
-      <note default-x="238">
+      <note default-x="239">
         <chord/>
         <pitch>
           <step>G</step>
@@ -4568,7 +4568,7 @@ BOURNOBALIA
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="238">
+      <note default-x="239">
         <chord/>
         <pitch>
           <step>C</step>
@@ -4579,7 +4579,7 @@ BOURNOBALIA
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="285">
+      <note default-x="286">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4589,7 +4589,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="285">
+      <note default-x="286">
         <chord/>
         <pitch>
           <step>G</step>
@@ -4600,7 +4600,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="285">
+      <note default-x="286">
         <chord/>
         <pitch>
           <step>C</step>
@@ -4611,7 +4611,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="361">
+      <note default-x="362">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4621,7 +4621,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="361">
+      <note default-x="362">
         <chord/>
         <pitch>
           <step>G</step>
@@ -4632,7 +4632,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="361">
+      <note default-x="362">
         <chord/>
         <pitch>
           <step>C</step>
@@ -4710,7 +4710,7 @@ BOURNOBALIA
         <type>eighth</type>
         <stem>down</stem>
       </note>
-      <note default-x="128">
+      <note default-x="127">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -4720,7 +4720,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem default-y="-54">down</stem>
       </note>
-      <note default-x="128">
+      <note default-x="127">
         <chord/>
         <pitch>
           <step>G</step>
@@ -4731,7 +4731,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem>down</stem>
       </note>
-      <note default-x="128">
+      <note default-x="127">
         <chord/>
         <pitch>
           <step>C</step>
@@ -4776,7 +4776,7 @@ BOURNOBALIA
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="323">
+    <measure number="3" width="322">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -4829,7 +4829,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem default-y="-40">down</stem>
       </note>
-      <note default-x="235">
+      <note default-x="234">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -7103,7 +7103,7 @@ BOURNOBALIA
   </part>
   <!--=========================================================-->
   <part id="P4">
-    <measure number="1" width="437">
+    <measure number="1" width="438">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -7123,7 +7123,7 @@ BOURNOBALIA
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="162">
+      <note default-x="163">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -7144,7 +7144,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="162">
+      <note default-x="163">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7168,7 +7168,7 @@ BOURNOBALIA
         <type>quarter</type>
         <stem>up</stem>
       </note>
-      <note default-x="162">
+      <note default-x="163">
         <chord/>
         <pitch>
           <step>G</step>
@@ -7192,31 +7192,32 @@ BOURNOBALIA
         <accidental>flat</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="162">
+      <note default-x="163">
         <chord/>
         <pitch>
           <step>B</step>
+          <alter>-1</alter>
           <octave>4</octave>
         </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <accidental>natural</accidental>
+        <accidental>flat</accidental>
         <stem>up</stem>
       </note>
-      <note default-x="238">
+      <note default-x="239">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="285">
+      <note default-x="286">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="361">
+      <note default-x="362">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -7232,7 +7233,7 @@ BOURNOBALIA
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="323">
+    <measure number="3" width="322">
       <note>
         <rest measure="yes"/>
         <duration>7</duration>
@@ -7645,7 +7646,7 @@ BOURNOBALIA
   </part>
   <!--=========================================================-->
   <part id="P5">
-    <measure number="1" width="437">
+    <measure number="1" width="438">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -7680,7 +7681,7 @@ BOURNOBALIA
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="323">
+    <measure number="3" width="322">
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -7710,13 +7711,13 @@ BOURNOBALIA
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="147">
+      <note default-x="148">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="235">
+      <note default-x="234">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -8087,7 +8088,7 @@ BOURNOBALIA
   </part>
   <!--=========================================================-->
   <part id="P6">
-    <measure number="1" width="437">
+    <measure number="1" width="438">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -8122,7 +8123,7 @@ BOURNOBALIA
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="323">
+    <measure number="3" width="322">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -9776,7 +9777,7 @@ BOURNOBALIA
   </part>
   <!--=========================================================-->
   <part id="P7">
-    <measure number="1" width="437">
+    <measure number="1" width="438">
       <print>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -9796,7 +9797,7 @@ BOURNOBALIA
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="162">
+      <note default-x="163">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -9811,7 +9812,7 @@ BOURNOBALIA
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="162">
+      <note default-x="163">
         <chord/>
         <pitch>
           <step>G</step>
@@ -9827,7 +9828,7 @@ BOURNOBALIA
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="162">
+      <note default-x="163">
         <chord/>
         <pitch>
           <step>C</step>
@@ -9843,7 +9844,7 @@ BOURNOBALIA
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="285">
+      <note default-x="286">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -9859,7 +9860,7 @@ BOURNOBALIA
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="285">
+      <note default-x="286">
         <chord/>
         <pitch>
           <step>G</step>
@@ -9876,7 +9877,7 @@ BOURNOBALIA
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="285">
+      <note default-x="286">
         <chord/>
         <pitch>
           <step>C</step>
@@ -9949,7 +9950,7 @@ BOURNOBALIA
           <tied type="start"/>
         </notations>
       </note>
-      <note default-x="128">
+      <note default-x="127">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -9963,7 +9964,7 @@ BOURNOBALIA
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="128">
+      <note default-x="127">
         <chord/>
         <pitch>
           <step>G</step>
@@ -9978,7 +9979,7 @@ BOURNOBALIA
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="128">
+      <note default-x="127">
         <chord/>
         <pitch>
           <step>C</step>
@@ -9995,7 +9996,7 @@ BOURNOBALIA
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="323">
+    <measure number="3" width="322">
       <note default-x="16">
         <pitch>
           <step>C</step>
