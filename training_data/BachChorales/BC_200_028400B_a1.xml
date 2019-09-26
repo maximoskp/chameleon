@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-02-06</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -316,7 +316,7 @@ Christus ist erstanden, hat überwunden</credit-words>
         <type>quarter</type>
         <stem default-y="14">up</stem>
         <notations>
-          <fermata default-x="-5" default-y="23" type="upright"/>
+          <fermata default-x="-7" default-y="31" type="upright"/>
         </notations>
       </note>
       <note default-x="186">
@@ -5195,6 +5195,17 @@ Christus ist erstanden, hat überwunden</credit-words>
         <voice>2</voice>
         <type>quarter</type>
         <stem default-y="-63.5">down</stem>
+      </note>
+      <note default-x="106">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem>down</stem>
       </note>
       <note default-x="153">
         <pitch>

@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-01-13</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -187,7 +187,7 @@ Freu dich sehr, O meine Seele</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="135">
         <pitch>
           <step>G</step>
@@ -1453,7 +1453,7 @@ Freu dich sehr, O meine Seele</credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="135">
         <pitch>
           <step>B</step>
@@ -2738,7 +2738,7 @@ Freu dich sehr, O meine Seele</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="135">
         <pitch>
           <step>G</step>
@@ -3303,7 +3303,7 @@ Freu dich sehr, O meine Seele</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="135">
         <pitch>
           <step>E</step>
@@ -3572,7 +3572,7 @@ Freu dich sehr, O meine Seele</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="135">
         <pitch>
           <step>G</step>
@@ -4390,6 +4390,17 @@ Freu dich sehr, O meine Seele</credit-words>
         <type>quarter</type>
         <stem default-y="-84">down</stem>
       </note>
+      <note default-x="109">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
       <note default-x="177">
         <pitch>
           <step>D</step>
@@ -4444,13 +4455,24 @@ Freu dich sehr, O meine Seele</credit-words>
       </backup>
       <note default-x="81">
         <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>half</type>
+        <stem default-y="-84">down</stem>
+      </note>
+      <note default-x="81">
+        <chord/>
+        <pitch>
           <step>E</step>
           <octave>4</octave>
         </pitch>
         <duration>4</duration>
         <voice>2</voice>
         <type>half</type>
-        <stem default-y="-69">down</stem>
+        <stem>down</stem>
       </note>
       <note default-x="209">
         <pitch>
@@ -4657,7 +4679,7 @@ Freu dich sehr, O meine Seele</credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="135">
         <pitch>
           <step>B</step>

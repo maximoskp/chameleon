@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-01-15</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -191,7 +191,7 @@ Helft mir Gottes Güte preisen (I)</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="70"/>
+      <sound tempo="120"/>
       <note default-x="96">
         <pitch>
           <step>A</step>
@@ -1359,7 +1359,7 @@ Helft mir Gottes Güte preisen (I)</credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="70"/>
+      <sound tempo="120"/>
       <note default-x="96">
         <pitch>
           <step>C</step>
@@ -2586,7 +2586,7 @@ Helft mir Gottes Güte preisen (I)</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="70"/>
+      <sound tempo="120"/>
       <note default-x="96">
         <pitch>
           <step>A</step>
@@ -2799,7 +2799,7 @@ Helft mir Gottes Güte preisen (I)</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="70"/>
+      <sound tempo="120"/>
       <note default-x="96">
         <pitch>
           <step>E</step>
@@ -3089,7 +3089,7 @@ Helft mir Gottes Güte preisen (I)</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="70"/>
+      <sound tempo="120"/>
       <note default-x="96">
         <pitch>
           <step>A</step>
@@ -3783,6 +3783,17 @@ Helft mir Gottes Güte preisen (I)</credit-words>
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
+      <note default-x="104">
+        <chord/>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
       <note default-x="154">
         <pitch>
           <step>A</step>
@@ -4023,7 +4034,7 @@ Helft mir Gottes Güte preisen (I)</credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="70"/>
+      <sound tempo="120"/>
       <note default-x="96">
         <pitch>
           <step>C</step>
@@ -4149,7 +4160,19 @@ Helft mir Gottes Güte preisen (I)</credit-words>
         <voice>1</voice>
         <type>half</type>
         <dot/>
-        <stem default-y="24">up</stem>
+        <stem default-y="34">up</stem>
+      </note>
+      <note default-x="14">
+        <chord/>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <dot/>
+        <stem>up</stem>
       </note>
       <note default-x="219">
         <pitch>

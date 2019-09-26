@@ -7,7 +7,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-05-16</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -4441,12 +4441,10 @@
         </pitch>
         <duration>8</duration>
         <tie type="stop"/>
-        <tie type="start"/>
         <voice>1</voice>
         <type>whole</type>
         <notations>
           <tied type="stop"/>
-          <tied type="start"/>
         </notations>
       </note>
     </measure>
@@ -4458,12 +4456,8 @@
           <octave>4</octave>
         </pitch>
         <duration>8</duration>
-        <tie type="stop"/>
         <voice>1</voice>
         <type>whole</type>
-        <notations>
-          <tied type="stop"/>
-        </notations>
       </note>
     </measure>
     <!--=======================================================-->
@@ -4557,12 +4551,10 @@
         </pitch>
         <duration>8</duration>
         <tie type="stop"/>
-        <tie type="start"/>
         <voice>1</voice>
         <type>whole</type>
         <notations>
           <tied type="stop"/>
-          <tied type="start"/>
         </notations>
       </note>
       <barline location="right">
@@ -4582,12 +4574,8 @@
           <octave>4</octave>
         </pitch>
         <duration>8</duration>
-        <tie type="stop"/>
         <voice>1</voice>
         <type>whole</type>
-        <notations>
-          <tied type="stop"/>
-        </notations>
       </note>
       <barline location="right">
         <ending number="2" print-object="no" type="discontinue"/>
@@ -4788,12 +4776,8 @@
           <octave>4</octave>
         </pitch>
         <duration>8</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>whole</type>
-        <notations>
-          <tied type="start"/>
-        </notations>
       </note>
     </measure>
     <!--=======================================================-->
@@ -4804,12 +4788,8 @@
           <octave>4</octave>
         </pitch>
         <duration>8</duration>
-        <tie type="stop"/>
         <voice>1</voice>
         <type>whole</type>
-        <notations>
-          <tied type="stop"/>
-        </notations>
       </note>
     </measure>
     <!--=======================================================-->

@@ -73,7 +73,7 @@ def get_obs_probs(s, rpcps, members_probs):
 # end get_obs_probs
 def apply_cHMM_with_constraints(obs, c, seg_idxs, sts_idxs):
     # adventure exponent
-    adv_exp = 0.7
+    adv_exp = 0.5
     markov = copy.deepcopy( c.gcts_markov )
     # smooth markov
     markov[ markov == 0 ] = 0.00000001

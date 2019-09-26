@@ -7,7 +7,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-05-16</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -4467,31 +4467,10 @@
         </clef>
       </attributes>
       <sound tempo="120"/>
-      <note default-x="111">
-        <rest/>
-        <duration>4</duration>
+      <note>
+        <rest measure="yes"/>
+        <duration>8</duration>
         <voice>1</voice>
-        <type>half</type>
-      </note>
-      <note default-x="231">
-        <pitch>
-          <step>E</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-4.5">up</stem>
-      </note>
-      <note default-x="306">
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="5">up</stem>
       </note>
     </measure>
     <!--=======================================================-->
@@ -4570,18 +4549,11 @@
     </measure>
     <!--=======================================================-->
     <measure number="4" width="297">
-      <note default-x="26">
-        <pitch>
-          <step>B</step>
-          <octave>3</octave>
-        </pitch>
+      <note default-x="140">
+        <rest/>
         <duration>8</duration>
-        <tie type="stop"/>
         <voice>1</voice>
         <type>whole</type>
-        <notations>
-          <tied type="stop"/>
-        </notations>
       </note>
     </measure>
     <!--=======================================================-->

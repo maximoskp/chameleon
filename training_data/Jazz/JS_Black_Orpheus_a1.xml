@@ -7,7 +7,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-05-16</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -5687,13 +5687,20 @@
           <step>A</step>
           <octave>4</octave>
         </pitch>
-        <duration>8</duration>
+        <duration>4</duration>
         <tie type="stop"/>
         <voice>1</voice>
-        <type>whole</type>
+        <type>half</type>
+        <stem default-y="10.5">up</stem>
         <notations>
           <tied type="stop"/>
         </notations>
+      </note>
+      <note default-x="87">
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
       </note>
       <direction placement="below">
         <direction-type>

@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-01-14</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -187,7 +187,7 @@ Sei Lob und Ehr dem höchsten Gut</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="70"/>
+      <sound tempo="120"/>
       <note default-x="135">
         <pitch>
           <step>D</step>
@@ -1348,7 +1348,7 @@ Sei Lob und Ehr dem höchsten Gut</credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="70"/>
+      <sound tempo="120"/>
       <note default-x="135">
         <pitch>
           <step>D</step>
@@ -2623,7 +2623,7 @@ Sei Lob und Ehr dem höchsten Gut</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="70"/>
+      <sound tempo="120"/>
       <note default-x="135">
         <pitch>
           <step>G</step>
@@ -3256,7 +3256,7 @@ Sei Lob und Ehr dem höchsten Gut</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="70"/>
+      <sound tempo="120"/>
       <note default-x="135">
         <pitch>
           <step>E</step>
@@ -3483,7 +3483,7 @@ Sei Lob und Ehr dem höchsten Gut</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="70"/>
+      <sound tempo="120"/>
       <note default-x="135">
         <pitch>
           <step>D</step>
@@ -3696,13 +3696,13 @@ Sei Lob und Ehr dem höchsten Gut</credit-words>
       </note>
       <note default-x="77">
         <pitch>
-          <step>G</step>
+          <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="6">up</stem>
+        <stem default-y="10">up</stem>
       </note>
       <note default-x="138">
         <pitch>
@@ -4412,7 +4412,7 @@ Sei Lob und Ehr dem höchsten Gut</credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="70"/>
+      <sound tempo="120"/>
       <note default-x="135">
         <pitch>
           <step>D</step>
@@ -4637,13 +4637,13 @@ Sei Lob und Ehr dem höchsten Gut</credit-words>
       </note>
       <note default-x="77">
         <pitch>
-          <step>B</step>
+          <step>A</step>
           <octave>3</octave>
         </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="34">up</stem>
+        <stem default-y="29">up</stem>
       </note>
       <note default-x="138">
         <pitch>
@@ -4673,10 +4673,21 @@ Sei Lob und Ehr dem höchsten Gut</credit-words>
           <step>G</step>
           <octave>3</octave>
         </pitch>
-        <duration>4</duration>
+        <duration>2</duration>
         <voice>2</voice>
-        <type>half</type>
+        <type>quarter</type>
         <stem default-y="-40.5">down</stem>
+      </note>
+      <note default-x="77">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem default-y="-45.5">down</stem>
       </note>
       <note default-x="138">
         <pitch>
@@ -4726,13 +4737,24 @@ Sei Lob und Ehr dem höchsten Gut</credit-words>
       </note>
       <note default-x="189">
         <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="44">up</stem>
+      </note>
+      <note default-x="189">
+        <chord/>
+        <pitch>
           <step>D</step>
           <octave>4</octave>
         </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="44">up</stem>
+        <stem>up</stem>
       </note>
       <backup>
         <duration>6</duration>

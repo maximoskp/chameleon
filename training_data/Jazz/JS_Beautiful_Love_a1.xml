@@ -7,7 +7,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-01-22</encoding-date>
+      <encoding-date>2019-09-08</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -1628,16 +1628,6 @@
       <note default-x="102">
         <chord/>
         <pitch>
-          <step>D</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>32</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="102">
-        <chord/>
-        <pitch>
           <step>F</step>
           <octave>3</octave>
         </pitch>
@@ -2614,7 +2604,7 @@
       </barline>
       <note default-x="43">
         <pitch>
-          <step>A</step>
+          <step>G</step>
           <octave>4</octave>
         </pitch>
         <duration>32</duration>
@@ -2626,16 +2616,12 @@
     <measure number="2" width="143">
       <note default-x="25">
         <pitch>
-          <step>F</step>
+          <step>D</step>
           <octave>4</octave>
         </pitch>
         <duration>32</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>whole</type>
-        <notations>
-          <tied type="start"/>
-        </notations>
       </note>
     </measure>
     <!--=======================================================-->
@@ -2646,12 +2632,10 @@
           <octave>4</octave>
         </pitch>
         <duration>32</duration>
-        <tie type="stop"/>
         <tie type="start"/>
         <voice>1</voice>
         <type>whole</type>
         <notations>
-          <tied type="stop"/>
           <tied type="start"/>
         </notations>
       </note>
@@ -2676,8 +2660,9 @@
     <measure number="5" width="103">
       <note default-x="16">
         <pitch>
-          <step>C</step>
-          <octave>5</octave>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
         </pitch>
         <duration>32</duration>
         <voice>1</voice>
@@ -2688,16 +2673,12 @@
     <measure number="6" width="135">
       <note default-x="13">
         <pitch>
-          <step>A</step>
+          <step>F</step>
           <octave>4</octave>
         </pitch>
         <duration>32</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>whole</type>
-        <notations>
-          <tied type="start"/>
-        </notations>
       </note>
     </measure>
     <!--=======================================================-->
@@ -2709,12 +2690,10 @@
           <octave>4</octave>
         </pitch>
         <duration>32</duration>
-        <tie type="stop"/>
         <tie type="start"/>
         <voice>1</voice>
         <type>whole</type>
         <notations>
-          <tied type="stop"/>
           <tied type="start"/>
         </notations>
       </note>
@@ -2805,9 +2784,20 @@
           <step>A</step>
           <octave>4</octave>
         </pitch>
-        <duration>32</duration>
+        <duration>16</duration>
         <voice>1</voice>
-        <type>whole</type>
+        <type>half</type>
+        <stem default-y="10.5">up</stem>
+      </note>
+      <note default-x="70">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem default-y="-9.5">up</stem>
       </note>
     </measure>
     <!--=======================================================-->
@@ -3053,16 +3043,6 @@
       <note default-x="25">
         <chord/>
         <pitch>
-          <step>E</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>32</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="25">
-        <chord/>
-        <pitch>
           <step>G</step>
           <octave>3</octave>
         </pitch>
@@ -3228,16 +3208,6 @@
         <chord/>
         <pitch>
           <step>E</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>32</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="13">
-        <chord/>
-        <pitch>
-          <step>G</step>
           <octave>3</octave>
         </pitch>
         <duration>32</duration>
@@ -3663,16 +3633,6 @@
         <voice>1</voice>
         <type>whole</type>
         <accidental>natural</accidental>
-      </note>
-      <note default-x="102">
-        <chord/>
-        <pitch>
-          <step>D</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>32</duration>
-        <voice>1</voice>
-        <type>whole</type>
       </note>
       <note default-x="102">
         <chord/>

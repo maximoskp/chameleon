@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-06-02</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -3678,14 +3678,25 @@ O Haupt voll Blut und Wunden</credit-words>
       </backup>
       <note default-x="97">
         <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-90">down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="97">
+        <chord/>
+        <pitch>
           <step>E</step>
           <octave>4</octave>
         </pitch>
         <duration>1</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <stem default-y="-75">down</stem>
-        <beam number="1">begin</beam>
+        <stem>down</stem>
       </note>
       <note default-x="150">
         <pitch>
@@ -3695,7 +3706,7 @@ O Haupt voll Blut und Wunden</credit-words>
         <duration>1</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <stem default-y="-80">down</stem>
+        <stem default-y="-85">down</stem>
         <beam number="1">end</beam>
       </note>
     </measure>

@@ -141,13 +141,13 @@ class BBVL:
         # since we're dealing with probabilities (<1),
         # weights <1 indicate importance - >1 umimportance
         # a) inversion
-        a_inv_w = 0.95
+        a_inv_w = 0.9
         # b) melodic height probabilites
         b_mhi_w = 0.9
         # c) from bvl of current
-        c_fbvl_w = 0.99
+        c_fbvl_w = 0.1
         # d) to bvl of previous
-        d_tbvl_w = 0.99
+        d_tbvl_w = 0.1
         # e) delta of previous
         e_prdelt_w = 1.0
         delta = np.zeros( (128, len(self.gct_nps)) )

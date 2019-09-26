@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-01-13</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -4402,13 +4402,13 @@ Ein feste Burg ist unser Gott (I) </credit-words>
       </note>
       <note default-x="246">
         <pitch>
-          <step>D</step>
-          <octave>4</octave>
+          <step>A</step>
+          <octave>3</octave>
         </pitch>
         <duration>2</duration>
         <voice>2</voice>
         <type>quarter</type>
-        <stem default-y="-73.5">down</stem>
+        <stem default-y="-89">down</stem>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
@@ -4432,13 +4432,13 @@ Ein feste Burg ist unser Gott (I) </credit-words>
       </backup>
       <note default-x="63">
         <pitch>
-          <step>D</step>
-          <octave>4</octave>
+          <step>A</step>
+          <octave>3</octave>
         </pitch>
         <duration>2</duration>
         <voice>2</voice>
         <type>quarter</type>
-        <stem default-y="-73.5">down</stem>
+        <stem default-y="-89">down</stem>
       </note>
     </measure>
     <!--=======================================================-->
@@ -5464,6 +5464,18 @@ Ein feste Burg ist unser Gott (I) </credit-words>
         <voice>2</voice>
         <type>quarter</type>
         <stem default-y="-55.5">down</stem>
+      </note>
+      <note default-x="72">
+        <chord/>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem>down</stem>
       </note>
       <note default-x="128">
         <pitch>

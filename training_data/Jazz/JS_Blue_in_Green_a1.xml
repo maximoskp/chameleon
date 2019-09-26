@@ -7,7 +7,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-05-16</encoding-date>
+      <encoding-date>2019-09-08</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -606,16 +606,6 @@
       <note default-x="97">
         <chord/>
         <pitch>
-          <step>F</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="97">
-        <chord/>
-        <pitch>
           <step>A</step>
           <octave>3</octave>
         </pitch>
@@ -660,16 +650,6 @@
       <note default-x="27">
         <chord/>
         <pitch>
-          <step>E</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="27">
-        <chord/>
-        <pitch>
           <step>G</step>
           <octave>3</octave>
         </pitch>
@@ -681,13 +661,11 @@
         <chord/>
         <pitch>
           <step>B</step>
-          <alter>1</alter>
           <octave>3</octave>
         </pitch>
         <duration>8</duration>
         <voice>1</voice>
         <type>whole</type>
-        <accidental>sharp</accidental>
       </note>
     </measure>
     <!--=======================================================-->
@@ -975,16 +953,6 @@
       <note default-x="27">
         <chord/>
         <pitch>
-          <step>E</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="27">
-        <chord/>
-        <pitch>
           <step>G</step>
           <octave>3</octave>
         </pitch>
@@ -1253,16 +1221,6 @@
       <note default-x="24">
         <chord/>
         <pitch>
-          <step>F</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="24">
-        <chord/>
-        <pitch>
           <step>A</step>
           <octave>3</octave>
         </pitch>
@@ -1310,16 +1268,6 @@
       <note default-x="26">
         <chord/>
         <pitch>
-          <step>E</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="26">
-        <chord/>
-        <pitch>
           <step>G</step>
           <octave>3</octave>
         </pitch>
@@ -1331,13 +1279,11 @@
         <chord/>
         <pitch>
           <step>B</step>
-          <alter>1</alter>
           <octave>3</octave>
         </pitch>
         <duration>8</duration>
         <voice>1</voice>
         <type>whole</type>
-        <accidental>sharp</accidental>
       </note>
     </measure>
     <!--=======================================================-->
@@ -1839,9 +1785,16 @@
           <step>D</step>
           <octave>5</octave>
         </pitch>
-        <duration>8</duration>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>whole</type>
+        <type>half</type>
+        <stem default-y="-45">down</stem>
+      </note>
+      <note default-x="175">
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
       </note>
     </measure>
     <!--=======================================================-->
@@ -1860,8 +1813,8 @@
     <measure number="5" width="207">
       <note default-x="27">
         <pitch>
-          <step>C</step>
-          <octave>5</octave>
+          <step>A</step>
+          <octave>4</octave>
         </pitch>
         <duration>8</duration>
         <voice>1</voice>
@@ -2019,16 +1972,6 @@
       <note default-x="97">
         <chord/>
         <pitch>
-          <step>F</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="97">
-        <chord/>
-        <pitch>
           <step>A</step>
           <octave>3</octave>
         </pitch>
@@ -2073,16 +2016,6 @@
       <note default-x="27">
         <chord/>
         <pitch>
-          <step>E</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="27">
-        <chord/>
-        <pitch>
           <step>G</step>
           <octave>3</octave>
         </pitch>
@@ -2094,13 +2027,11 @@
         <chord/>
         <pitch>
           <step>B</step>
-          <alter>1</alter>
           <octave>3</octave>
         </pitch>
         <duration>8</duration>
         <voice>1</voice>
         <type>whole</type>
-        <accidental>sharp</accidental>
       </note>
     </measure>
     <!--=======================================================-->
@@ -2388,16 +2319,6 @@
       <note default-x="27">
         <chord/>
         <pitch>
-          <step>E</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="27">
-        <chord/>
-        <pitch>
           <step>G</step>
           <octave>3</octave>
         </pitch>
@@ -2666,16 +2587,6 @@
       <note default-x="24">
         <chord/>
         <pitch>
-          <step>F</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="24">
-        <chord/>
-        <pitch>
           <step>A</step>
           <octave>3</octave>
         </pitch>
@@ -2723,16 +2634,6 @@
       <note default-x="26">
         <chord/>
         <pitch>
-          <step>E</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>8</duration>
-        <voice>1</voice>
-        <type>whole</type>
-      </note>
-      <note default-x="26">
-        <chord/>
-        <pitch>
           <step>G</step>
           <octave>3</octave>
         </pitch>
@@ -2744,13 +2645,11 @@
         <chord/>
         <pitch>
           <step>B</step>
-          <alter>1</alter>
           <octave>3</octave>
         </pitch>
         <duration>8</duration>
         <voice>1</voice>
         <type>whole</type>
-        <accidental>sharp</accidental>
       </note>
     </measure>
     <!--=======================================================-->

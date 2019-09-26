@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-06-02</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -187,7 +187,7 @@ Nun ruhen alle Wälder</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="197">
         <pitch>
           <step>C</step>
@@ -1467,7 +1467,7 @@ Nun ruhen alle Wälder</credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="197">
         <pitch>
           <step>E</step>
@@ -2872,7 +2872,7 @@ Nun ruhen alle Wälder</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="197">
         <pitch>
           <step>A</step>
@@ -3469,7 +3469,7 @@ Nun ruhen alle Wälder</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="197">
         <pitch>
           <step>C</step>
@@ -3749,7 +3749,7 @@ Nun ruhen alle Wälder</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="197">
         <pitch>
           <step>C</step>
@@ -4198,6 +4198,18 @@ Nun ruhen alle Wälder</credit-words>
         <voice>2</voice>
         <type>quarter</type>
         <stem default-y="-78.5">down</stem>
+      </note>
+      <note default-x="199">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem>down</stem>
       </note>
       <note default-x="249">
         <pitch>
@@ -4782,7 +4794,7 @@ Nun ruhen alle Wälder</credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="197">
         <pitch>
           <step>E</step>
@@ -5626,13 +5638,25 @@ Nun ruhen alle Wälder</credit-words>
       </note>
       <note default-x="193">
         <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="39">up</stem>
+      </note>
+      <note default-x="193">
+        <chord/>
+        <pitch>
           <step>C</step>
           <octave>4</octave>
         </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="39">up</stem>
+        <stem>up</stem>
       </note>
       <backup>
         <duration>8</duration>
@@ -5672,13 +5696,14 @@ Nun ruhen alle Wälder</credit-words>
     <measure number="12" width="215">
       <note default-x="16">
         <pitch>
-          <step>C</step>
+          <step>D</step>
+          <alter>-1</alter>
           <octave>4</octave>
         </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="39">up</stem>
+        <stem default-y="44">up</stem>
       </note>
       <note default-x="66">
         <pitch>

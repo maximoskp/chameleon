@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-02-06</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -187,7 +187,7 @@ Vater unser im Himmelreich</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="164">
         <pitch>
           <step>G</step>
@@ -1567,7 +1567,7 @@ Vater unser im Himmelreich</credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="164">
         <pitch>
           <step>C</step>
@@ -2872,7 +2872,7 @@ Vater unser im Himmelreich</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="164">
         <pitch>
           <step>C</step>
@@ -3362,7 +3362,7 @@ Vater unser im Himmelreich</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="164">
         <pitch>
           <step>C</step>
@@ -3642,7 +3642,7 @@ Vater unser im Himmelreich</credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="164">
         <pitch>
           <step>G</step>
@@ -4791,7 +4791,7 @@ Vater unser im Himmelreich</credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="164">
         <pitch>
           <step>C</step>
@@ -5243,7 +5243,18 @@ Vater unser im Himmelreich</credit-words>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="23.5">up</stem>
+        <stem default-y="39">up</stem>
+      </note>
+      <note default-x="177">
+        <chord/>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
       </note>
       <note default-x="213">
         <pitch>

@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-01-13</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -3547,13 +3547,24 @@ Lobt Gott, ihr Christen,allzugleich (I) </credit-words>
       </note>
       <note default-x="66">
         <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem default-y="-73.5">down</stem>
+      </note>
+      <note default-x="66">
+        <chord/>
+        <pitch>
           <step>G</step>
           <octave>4</octave>
         </pitch>
         <duration>2</duration>
         <voice>2</voice>
         <type>quarter</type>
-        <stem default-y="-58.5">down</stem>
+        <stem>down</stem>
       </note>
       <note default-x="124">
         <pitch>
@@ -3834,13 +3845,24 @@ Lobt Gott, ihr Christen,allzugleich (I) </credit-words>
       </note>
       <note default-x="51">
         <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="44">up</stem>
+      </note>
+      <note default-x="51">
+        <chord/>
+        <pitch>
           <step>D</step>
           <octave>4</octave>
         </pitch>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem default-y="44">up</stem>
+        <stem>up</stem>
       </note>
       <note default-x="95">
         <pitch>

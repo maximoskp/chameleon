@@ -5,7 +5,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-06-02</encoding-date>
+      <encoding-date>2019-09-10</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -187,7 +187,7 @@ Ich dank dir, lieber Herre (I) </credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="180">
         <pitch>
           <step>A</step>
@@ -1507,7 +1507,7 @@ Ich dank dir, lieber Herre (I) </credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="180">
         <pitch>
           <step>C</step>
@@ -2988,7 +2988,7 @@ Ich dank dir, lieber Herre (I) </credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="180">
         <pitch>
           <step>A</step>
@@ -3577,7 +3577,7 @@ Ich dank dir, lieber Herre (I) </credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="180">
         <pitch>
           <step>E</step>
@@ -3862,7 +3862,7 @@ Ich dank dir, lieber Herre (I) </credit-words>
           <line>2</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="180">
         <pitch>
           <step>A</step>
@@ -4295,13 +4295,24 @@ Ich dank dir, lieber Herre (I) </credit-words>
       </note>
       <note default-x="154">
         <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem default-y="-68.5">down</stem>
+      </note>
+      <note default-x="154">
+        <chord/>
+        <pitch>
           <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>2</duration>
         <voice>2</voice>
         <type>quarter</type>
-        <stem default-y="-53.5">down</stem>
+        <stem>down</stem>
       </note>
       <note default-x="209">
         <pitch>
@@ -4637,6 +4648,17 @@ Ich dank dir, lieber Herre (I) </credit-words>
         <type>quarter</type>
         <stem default-y="-69">down</stem>
       </note>
+      <note default-x="182">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
       <note default-x="228">
         <pitch>
           <step>G</step>
@@ -4946,7 +4968,7 @@ Ich dank dir, lieber Herre (I) </credit-words>
           <line>4</line>
         </clef>
       </attributes>
-      <sound tempo="120"/>
+      <sound tempo="80"/>
       <note default-x="180">
         <pitch>
           <step>C</step>

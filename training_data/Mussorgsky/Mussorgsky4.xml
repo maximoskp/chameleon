@@ -7,7 +7,7 @@
     <encoding>
       <software>Finale 2014.5 for Windows</software>
       <software>Dolet Light for Finale 2014.5</software>
-      <encoding-date>2019-06-07</encoding-date>
+      <encoding-date>2019-09-03</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -3616,21 +3616,11 @@ Promenade IV</credit-words>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="47">
-        <pitch>
-          <step>A</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-25">down</stem>
-      </note>
-      <note default-x="87">
+      <note default-x="46">
         <rest/>
-        <duration>2</duration>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>quarter</type>
+        <type>half</type>
       </note>
       <note default-x="126">
         <pitch>
@@ -3770,21 +3760,11 @@ Promenade IV</credit-words>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="47">
-        <pitch>
-          <step>A</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-25">down</stem>
-      </note>
-      <note default-x="79">
+      <note default-x="46">
         <rest/>
-        <duration>2</duration>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>quarter</type>
+        <type>half</type>
       </note>
       <note default-x="111">
         <rest/>
@@ -3820,27 +3800,10 @@ Promenade IV</credit-words>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="47">
-        <pitch>
-          <step>A</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>2</duration>
+      <note>
+        <rest measure="yes"/>
+        <duration>6</duration>
         <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-25">down</stem>
-      </note>
-      <note default-x="81">
-        <rest/>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
-      <note default-x="115">
-        <rest/>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
@@ -5042,31 +5005,17 @@ Promenade IV</credit-words>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="46">
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+      </note>
+      <note default-x="111">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-      </note>
-      <note default-x="79">
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-19.5">up</stem>
-      </note>
-      <note default-x="111">
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="10.5">up</stem>
       </note>
       <note default-x="160">
         <pitch>
@@ -5172,21 +5121,11 @@ Promenade IV</credit-words>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="114">
-        <pitch>
-          <step>A</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="-25">down</stem>
-      </note>
-      <note default-x="142">
+      <note default-x="115">
         <rest/>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
@@ -5728,49 +5667,11 @@ Promenade IV</credit-words>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="47">
-        <pitch>
-          <step>A</step>
-          <octave>1</octave>
-        </pitch>
-        <duration>2</duration>
+      <note default-x="46">
+        <rest/>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="0.5">up</stem>
-      </note>
-      <note default-x="47">
-        <chord/>
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>up</stem>
-      </note>
-      <note default-x="87">
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>1</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="5.5">up</stem>
-      </note>
-      <note default-x="87">
-        <chord/>
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>2</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>up</stem>
+        <type>half</type>
       </note>
       <note default-x="126">
         <pitch>
@@ -6201,31 +6102,17 @@ Promenade IV</credit-words>
           <beat-type>4</beat-type>
         </time>
       </attributes>
-      <note default-x="48">
+      <note default-x="46">
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+      </note>
+      <note default-x="111">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
-      </note>
-      <note default-x="79">
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="0.5">up</stem>
-      </note>
-      <note default-x="111">
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem default-y="-35">down</stem>
       </note>
       <attributes>
         <clef>
@@ -6336,21 +6223,11 @@ Promenade IV</credit-words>
         <voice>1</voice>
         <type>quarter</type>
       </note>
-      <note default-x="114">
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem default-y="10.5">up</stem>
-      </note>
-      <note default-x="142">
+      <note default-x="115">
         <rest/>
-        <duration>1</duration>
+        <duration>2</duration>
         <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
